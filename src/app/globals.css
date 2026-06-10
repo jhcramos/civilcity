@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f7f8f4;
+  --foreground: #17201f;
+  --graphite: #17201f;
+  --teal: #0e6f68;
+  --aqua: #6ec7bd;
+  --moss: #7f9d61;
+  --clay: #c86f3e;
+  --ivory: #f7f8f4;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-graphite: var(--graphite);
+  --color-teal: var(--teal);
+  --color-aqua: var(--aqua);
+  --color-moss: var(--moss);
+  --color-clay: var(--clay);
+  --color-ivory: var(--ivory);
+  --font-sans: "Geist", "Geist Fallback", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "Geist Mono", "Geist Mono Fallback", ui-monospace, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+a,
+button {
+  text-underline-offset: 4px;
+}
+
+::selection {
+  background: rgba(110, 199, 189, 0.35);
+}
+
+.hero-grid {
+  background-image:
+    linear-gradient(rgba(14, 111, 104, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(14, 111, 104, 0.08) 1px, transparent 1px);
+  background-size: 34px 34px;
+}
+
+.section-pad {
+  padding-block: clamp(4rem, 9vw, 7rem);
+}
+
+.lede {
+  font-size: clamp(1.05rem, 2vw, 1.25rem);
+  line-height: 1.75;
+}
