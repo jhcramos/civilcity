@@ -1,0 +1,556 @@
+[
+  {
+    "vpName": "desktop",
+    "route": "/",
+    "status": 200,
+    "file": "C:\\Users\\Administrator\\OneDrive\\Documentos\\CivilCity\\tmp\\design-audit\\desktop-home.png",
+    "title": "CivilCity | Sunshine Coast Civil Engineering Consultancy",
+    "h1": "Sunshine Coast civil engineering from concept to delivery.",
+    "logoSrc": "/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=3840&q=75",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "overflowX": false,
+    "images": [
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-subdivision-hero.png&w=1920&q=75",
+        "alt": "Blue sky subdivision development with roads, lots and civil infrastructure",
+        "w": 1254,
+        "h": 705
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      }
+    ]
+  },
+  {
+    "vpName": "desktop",
+    "route": "/services",
+    "status": 200,
+    "file": "C:\\Users\\Administrator\\OneDrive\\Documentos\\CivilCity\\tmp\\design-audit\\desktop-services.png",
+    "title": "Civil Engineering Services Sunshine Coast | CivilCity",
+    "h1": "Civil engineering services from concept to delivery.",
+    "logoSrc": "/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=3840&q=75",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "overflowX": false,
+    "images": [
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-earthworks-bulldozer.png&w=1920&q=75",
+        "alt": "Bulldozer carrying out earthworks on a civil development site",
+        "w": 1254,
+        "h": 705
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      }
+    ]
+  },
+  {
+    "vpName": "desktop",
+    "route": "/services/civil-engineering-advice",
+    "status": 200,
+    "file": "C:\\Users\\Administrator\\OneDrive\\Documentos\\CivilCity\\tmp\\design-audit\\desktop-service-advice.png",
+    "title": "Civil Engineering Advice Sunshine Coast | CivilCity",
+    "h1": "Civil Engineering Advice on the Sunshine Coast",
+    "logoSrc": "/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=3840&q=75",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "overflowX": false,
+    "images": [
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fservice-hero-advice-office-plans.webp&w=1920&q=75",
+        "alt": "Civil Engineering Advice project context",
+        "w": 1254,
+        "h": 705
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fservice-hero-advice-office-plans.webp&w=640&q=75",
+        "alt": "Civil Engineering Advice project context",
+        "w": 547,
+        "h": 307
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      }
+    ]
+  },
+  {
+    "vpName": "desktop",
+    "route": "/projects",
+    "status": 200,
+    "file": "C:\\Users\\Administrator\\OneDrive\\Documentos\\CivilCity\\tmp\\design-audit\\desktop-projects.png",
+    "title": "Project Types | CivilCity",
+    "h1": "Civil engineering support for Sunshine Coast development sites.",
+    "logoSrc": "/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=3840&q=75",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "overflowX": false,
+    "images": [
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-subdivision-hero.png&w=1920&q=75",
+        "alt": "Sunshine Coast subdivision and civil infrastructure",
+        "w": 1254,
+        "h": 705
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fproject-type-subdivision-infill.webp&w=750&q=75",
+        "alt": "Small subdivisions and infill sites visual",
+        "w": 720,
+        "h": 405
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fproject-type-commercial-industrial.webp&w=750&q=75",
+        "alt": "Commercial and industrial development visual",
+        "w": 720,
+        "h": 405
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fproject-type-road-access.webp&w=750&q=75",
+        "alt": "Road frontage and access works visual",
+        "w": 720,
+        "h": 405
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fproject-type-conditioned-infrastructure.webp&w=750&q=75",
+        "alt": "Approval-conditioned infrastructure visual",
+        "w": 720,
+        "h": 405
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      }
+    ]
+  },
+  {
+    "vpName": "desktop",
+    "route": "/blog",
+    "status": 200,
+    "file": "C:\\Users\\Administrator\\OneDrive\\Documentos\\CivilCity\\tmp\\design-audit\\desktop-blog.png",
+    "title": "Civil Engineering Insights | CivilCity",
+    "h1": "Civil engineering guidance for Sunshine Coast development projects.",
+    "logoSrc": "/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=3840&q=75",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "overflowX": false,
+    "images": [
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1454165804606-c3d57bc86b40%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1800%26q%3D82&w=1920&q=75",
+        "alt": "Civil engineering documentation and project planning",
+        "w": 1350,
+        "h": 900
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-earthworks-bulldozer.png&w=640&q=75",
+        "alt": "Approvals civil engineering visual",
+        "w": 475,
+        "h": 267
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581094794329-c8112a89af12%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1800%26q%3D82&w=640&q=75",
+        "alt": "RPEQ civil engineering visual",
+        "w": 475,
+        "h": 712
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-earthworks-bulldozer.png&w=640&q=75",
+        "alt": "Approvals civil engineering visual",
+        "w": 475,
+        "h": 267
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518837695005-2083093ee35b%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1800%26q%3D82&w=640&q=75",
+        "alt": "Stormwater civil engineering visual",
+        "w": 475,
+        "h": 317
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1500530855697-b586d89ba3ee%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1800%26q%3D82&w=640&q=75",
+        "alt": "Due diligence civil engineering visual",
+        "w": 475,
+        "h": 712
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-earthworks-bulldozer.png&w=640&q=75",
+        "alt": "Approvals civil engineering visual",
+        "w": 475,
+        "h": 267
+      }
+    ]
+  },
+  {
+    "vpName": "desktop",
+    "route": "/about",
+    "status": 200,
+    "file": "C:\\Users\\Administrator\\OneDrive\\Documentos\\CivilCity\\tmp\\design-audit\\desktop-about.png",
+    "title": "About | CivilCity",
+    "h1": "Local civil engineering without the theatre.",
+    "logoSrc": "/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=3840&q=75",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "overflowX": false,
+    "images": [
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581094794329-c8112a89af12%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1800%26q%3D82&w=1920&q=75",
+        "alt": "Engineer reviewing civil site works",
+        "w": 1350,
+        "h": 2024
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      }
+    ]
+  },
+  {
+    "vpName": "desktop",
+    "route": "/contact",
+    "status": 200,
+    "file": "C:\\Users\\Administrator\\OneDrive\\Documentos\\CivilCity\\tmp\\design-audit\\desktop-contact.png",
+    "title": "Contact | CivilCity",
+    "h1": "Send the project location, stage and civil issue.",
+    "logoSrc": "/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=3840&q=75",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "overflowX": false,
+    "images": [
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcontact-hero-townhouses.webp&w=1920&q=75",
+        "alt": "Modern Sunshine Coast townhouse development with access, kerb and drainage infrastructure",
+        "w": 1254,
+        "h": 705
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      }
+    ]
+  },
+  {
+    "vpName": "mobile",
+    "route": "/",
+    "status": 200,
+    "file": "C:\\Users\\Administrator\\OneDrive\\Documentos\\CivilCity\\tmp\\design-audit\\mobile-home.png",
+    "title": "CivilCity | Sunshine Coast Civil Engineering Consultancy",
+    "h1": "Sunshine Coast civil engineering from concept to delivery.",
+    "logoSrc": "/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=3840&q=75",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "overflowX": false,
+    "images": [
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-subdivision-hero.png&w=640&q=75",
+        "alt": "Blue sky subdivision development with roads, lots and civil infrastructure",
+        "w": 390,
+        "h": 219
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      }
+    ]
+  },
+  {
+    "vpName": "mobile",
+    "route": "/services",
+    "status": 200,
+    "file": "C:\\Users\\Administrator\\OneDrive\\Documentos\\CivilCity\\tmp\\design-audit\\mobile-services.png",
+    "title": "Civil Engineering Services Sunshine Coast | CivilCity",
+    "h1": "Civil engineering services from concept to delivery.",
+    "logoSrc": "/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=3840&q=75",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "overflowX": false,
+    "images": [
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-earthworks-bulldozer.png&w=640&q=75",
+        "alt": "Bulldozer carrying out earthworks on a civil development site",
+        "w": 390,
+        "h": 219
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      }
+    ]
+  },
+  {
+    "vpName": "mobile",
+    "route": "/services/civil-engineering-advice",
+    "status": 200,
+    "file": "C:\\Users\\Administrator\\OneDrive\\Documentos\\CivilCity\\tmp\\design-audit\\mobile-service-advice.png",
+    "title": "Civil Engineering Advice Sunshine Coast | CivilCity",
+    "h1": "Civil Engineering Advice on the Sunshine Coast",
+    "logoSrc": "/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=3840&q=75",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "overflowX": false,
+    "images": [
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fservice-hero-advice-office-plans.webp&w=640&q=75",
+        "alt": "Civil Engineering Advice project context",
+        "w": 390,
+        "h": 219
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fservice-hero-advice-office-plans.webp&w=640&q=75",
+        "alt": "Civil Engineering Advice project context",
+        "w": 390,
+        "h": 219
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      }
+    ]
+  },
+  {
+    "vpName": "mobile",
+    "route": "/projects",
+    "status": 200,
+    "file": "C:\\Users\\Administrator\\OneDrive\\Documentos\\CivilCity\\tmp\\design-audit\\mobile-projects.png",
+    "title": "Project Types | CivilCity",
+    "h1": "Civil engineering support for Sunshine Coast development sites.",
+    "logoSrc": "/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=3840&q=75",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "overflowX": false,
+    "images": [
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-subdivision-hero.png&w=640&q=75",
+        "alt": "Sunshine Coast subdivision and civil infrastructure",
+        "w": 390,
+        "h": 219
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fproject-type-subdivision-infill.webp&w=640&q=75",
+        "alt": "Small subdivisions and infill sites visual",
+        "w": 390,
+        "h": 219
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fproject-type-commercial-industrial.webp&w=640&q=75",
+        "alt": "Commercial and industrial development visual",
+        "w": 390,
+        "h": 219
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fproject-type-road-access.webp&w=640&q=75",
+        "alt": "Road frontage and access works visual",
+        "w": 390,
+        "h": 219
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fproject-type-conditioned-infrastructure.webp&w=640&q=75",
+        "alt": "Approval-conditioned infrastructure visual",
+        "w": 390,
+        "h": 219
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      }
+    ]
+  },
+  {
+    "vpName": "mobile",
+    "route": "/blog",
+    "status": 200,
+    "file": "C:\\Users\\Administrator\\OneDrive\\Documentos\\CivilCity\\tmp\\design-audit\\mobile-blog.png",
+    "title": "Civil Engineering Insights | CivilCity",
+    "h1": "Civil engineering guidance for Sunshine Coast development projects.",
+    "logoSrc": "/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=3840&q=75",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "overflowX": false,
+    "images": [
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1454165804606-c3d57bc86b40%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1800%26q%3D82&w=640&q=75",
+        "alt": "Civil engineering documentation and project planning",
+        "w": 390,
+        "h": 260
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-earthworks-bulldozer.png&w=640&q=75",
+        "alt": "Approvals civil engineering visual",
+        "w": 390,
+        "h": 219
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581094794329-c8112a89af12%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1800%26q%3D82&w=640&q=75",
+        "alt": "RPEQ civil engineering visual",
+        "w": 390,
+        "h": 585
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-earthworks-bulldozer.png&w=640&q=75",
+        "alt": "Approvals civil engineering visual",
+        "w": 390,
+        "h": 219
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518837695005-2083093ee35b%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1800%26q%3D82&w=640&q=75",
+        "alt": "Stormwater civil engineering visual",
+        "w": 390,
+        "h": 260
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1500530855697-b586d89ba3ee%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1800%26q%3D82&w=640&q=75",
+        "alt": "Due diligence civil engineering visual",
+        "w": 390,
+        "h": 585
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-earthworks-bulldozer.png&w=640&q=75",
+        "alt": "Approvals civil engineering visual",
+        "w": 390,
+        "h": 219
+      }
+    ]
+  },
+  {
+    "vpName": "mobile",
+    "route": "/about",
+    "status": 200,
+    "file": "C:\\Users\\Administrator\\OneDrive\\Documentos\\CivilCity\\tmp\\design-audit\\mobile-about.png",
+    "title": "About | CivilCity",
+    "h1": "Local civil engineering without the theatre.",
+    "logoSrc": "/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=3840&q=75",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "overflowX": false,
+    "images": [
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1581094794329-c8112a89af12%3Fauto%3Dformat%26fit%3Dcrop%26w%3D1800%26q%3D82&w=640&q=75",
+        "alt": "Engineer reviewing civil site works",
+        "w": 390,
+        "h": 585
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      }
+    ]
+  },
+  {
+    "vpName": "mobile",
+    "route": "/contact",
+    "status": 200,
+    "file": "C:\\Users\\Administrator\\OneDrive\\Documentos\\CivilCity\\tmp\\design-audit\\mobile-contact.png",
+    "title": "Contact | CivilCity",
+    "h1": "Send the project location, stage and civil issue.",
+    "logoSrc": "/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=3840&q=75",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "overflowX": false,
+    "images": [
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcontact-hero-townhouses.webp&w=640&q=75",
+        "alt": "Modern Sunshine Coast townhouse development with access, kerb and drainage infrastructure",
+        "w": 390,
+        "h": 219
+      },
+      {
+        "src": "http://localhost:3000/_next/image?url=%2Fcivilcity-logo-horizontal-original.png&w=1920&q=75",
+        "alt": "CivilCity Engineering Consultants",
+        "w": 1355,
+        "h": 660
+      }
+    ]
+  }
+]

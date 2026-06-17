@@ -5,19 +5,19 @@ import { navItems, serviceAreas, site } from "@/lib/site";
 
 export function Header() {
   return (
-    <header className="sticky top-0 z-50 border-b border-slate-200/80 bg-ivory/95 backdrop-blur">
-      <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
+    <header className="absolute inset-x-0 top-0 z-50 border-b border-warm-cream/14 bg-transparent">
+      <div className="mx-auto flex max-w-[1200px] items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
         <Logo />
-        <nav className="hidden items-center gap-6 text-sm font-medium text-slate-700 lg:flex">
+        <nav className="hidden items-center gap-7 text-sm font-normal text-warm-cream drop-shadow-sm lg:flex">
           {navItems.map((item) => (
-            <Link key={item.href} href={item.href} className="transition hover:text-teal">
+            <Link key={item.href} href={item.href} className="transition hover:underline">
               {item.label}
             </Link>
           ))}
         </nav>
         <Link
           href="/contact"
-          className="inline-flex h-11 items-center justify-center gap-2 rounded-md bg-teal px-4 text-sm font-semibold text-white transition hover:bg-graphite"
+          className="amber-pill"
         >
           Start a project
           <ArrowRight size={16} aria-hidden />
@@ -29,36 +29,36 @@ export function Header() {
 
 export function Footer() {
   return (
-    <footer className="border-t border-slate-200 bg-white">
-      <div className="mx-auto grid max-w-7xl gap-10 px-4 py-12 sm:px-6 lg:grid-cols-[1.2fr_0.8fr_0.8fr] lg:px-8">
+    <footer className="border-t border-walnut bg-midnight-cocoa text-warm-cream">
+      <div className="mx-auto grid max-w-[1200px] gap-10 px-4 py-14 sm:px-6 lg:grid-cols-[1.2fr_0.8fr_0.8fr] lg:px-8">
         <div>
           <Logo />
-          <p className="mt-5 max-w-md text-sm leading-6 text-slate-600">
-            Sunshine Coast civil engineering consultancy for approvals, RPEQ certification,
-            stormwater, design documentation and construction-phase support.
+          <p className="mt-5 max-w-md text-sm leading-6 text-driftwood">
+            CivilCity Engineering Consultants helps Sunshine Coast project teams create value
+            from early feasibility through approvals, civil design, RPEQ review and construction support.
           </p>
-          <div className="mt-6 flex flex-wrap gap-3 text-sm text-slate-700">
-            <a className="inline-flex items-center gap-2 hover:text-teal" href={`tel:${site.phone.replace(/\s/g, "")}`}>
+          <div className="mt-6 flex flex-wrap gap-3 text-sm text-driftwood">
+            <a className="inline-flex items-center gap-2 hover:text-amber-forge" href={`tel:${site.phone.replace(/\s/g, "")}`}>
               <Phone size={16} aria-hidden />
               {site.phone}
             </a>
-            <a className="inline-flex items-center gap-2 hover:text-teal" href={`mailto:${site.email}`}>
+            <a className="inline-flex items-center gap-2 hover:text-amber-forge" href={`mailto:${site.email}`}>
               <Mail size={16} aria-hidden />
               {site.email}
             </a>
           </div>
         </div>
         <div>
-          <h2 className="text-sm font-semibold text-graphite">Core services</h2>
-          <ul className="mt-4 space-y-2 text-sm text-slate-600">
+          <h2 className="eyebrow">Core services</h2>
+          <ul className="mt-5 space-y-2 text-sm text-driftwood">
             {[
-              ["Operational works", "/services/operational-works-applications"],
+              ["Operational works applications", "/services/operational-works-applications"],
+              ["Material Change of Use", "/services/material-change-of-use-engineering"],
+              ["Reconfiguration of a Lot", "/services/reconfiguration-of-a-lot-engineering"],
               ["RPEQ certification", "/services/rpeq-certification"],
-              ["Stormwater design", "/services/stormwater-drainage-design"],
-              ["Engineering due diligence", "/services/engineering-due-diligence"],
             ].map(([label, href]) => (
               <li key={href}>
-                <Link className="hover:text-teal" href={href}>
+                <Link className="hover:text-amber-forge" href={href}>
                   {label}
                 </Link>
               </li>
@@ -66,16 +66,15 @@ export function Footer() {
           </ul>
         </div>
         <div>
-          <h2 className="text-sm font-semibold text-graphite">Service area</h2>
-          <div className="mt-4 flex items-start gap-2 text-sm leading-6 text-slate-600">
-            <MapPin size={16} className="mt-1 shrink-0 text-teal" aria-hidden />
+          <h2 className="eyebrow">Service area</h2>
+          <div className="mt-5 flex items-start gap-2 text-sm leading-6 text-driftwood">
+            <MapPin size={16} className="mt-1 shrink-0 text-amber-forge" aria-hidden />
             <p>{serviceAreas.join(", ")}</p>
           </div>
         </div>
       </div>
-      <div className="border-t border-slate-200 px-4 py-5 text-center text-xs text-slate-500">
-        © {new Date().getFullYear()} CivilCity. RPEQ-led civil engineering. Unitywater accreditation
-        not claimed unless separately verified.
+      <div className="border-t border-walnut px-4 py-5 text-center text-xs text-driftwood">
+        © {new Date().getFullYear()} CivilCity Engineering Consultants. Civil engineering for Sunshine Coast and SEQ projects.
       </div>
     </footer>
   );

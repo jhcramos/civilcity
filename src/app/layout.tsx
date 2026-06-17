@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     description: site.description,
     url: site.domain,
     siteName: site.name,
-    images: ["/site-plan.svg"],
+    images: ["/civilcity-og.png"],
     locale: "en_AU",
     type: "website",
   },

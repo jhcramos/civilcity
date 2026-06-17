@@ -32,7 +32,7 @@ export function ContactForm() {
   }
 
   return (
-    <form onSubmit={onSubmit} className="grid gap-4 rounded-md border border-slate-200 bg-white p-5 shadow-sm">
+    <form onSubmit={onSubmit} className="panel grid gap-4 p-6">
       <input className="hidden" name="website" tabIndex={-1} autoComplete="off" />
       <div className="grid gap-4 sm:grid-cols-2">
         <Field label="Name" name="name" required />
@@ -69,34 +69,34 @@ export function ContactForm() {
           ]}
         />
       </div>
-      <label className="grid gap-2 text-sm font-medium text-graphite">
+      <label className="grid gap-2 text-sm font-medium text-carbon-vellum">
         Project message
         <textarea
           name="message"
           required
           rows={5}
-          className="resize-y rounded-md border border-slate-300 bg-white px-3 py-3 text-base text-graphite outline-none transition focus:border-teal focus:ring-4 focus:ring-teal/10"
+        className="resize-y rounded-md border border-cedar bg-transparent px-4 py-3 text-base text-warm-cream outline-none transition placeholder:text-driftwood focus:border-amber-forge"
           placeholder="Tell us what you are trying to approve, design or resolve."
         />
       </label>
-      <label className="flex gap-3 text-sm leading-6 text-slate-600">
+      <label className="flex gap-3 text-sm leading-6 text-ash">
         <input
           required
           name="consent"
           type="checkbox"
-          className="mt-1 h-4 w-4 rounded border-slate-300 text-teal focus:ring-teal"
+          className="mt-1 h-4 w-4 rounded border-cedar bg-transparent text-amber-forge focus:ring-amber-forge"
         />
         I agree to CivilCity using these details to respond to my enquiry.
       </label>
       <button
         disabled={state === "submitting"}
-        className="inline-flex h-12 items-center justify-center gap-2 rounded-md bg-teal px-5 text-sm font-semibold text-white transition hover:bg-graphite disabled:cursor-not-allowed disabled:opacity-70"
+        className="amber-pill disabled:cursor-not-allowed disabled:opacity-70"
       >
         <Send size={16} aria-hidden />
         {state === "submitting" ? "Sending..." : "Send enquiry"}
       </button>
       {message && (
-        <p className={state === "error" ? "text-sm text-red-700" : "text-sm text-teal"} role="status">
+        <p className={state === "error" ? "text-sm text-red-300" : "text-sm text-amber-forge"} role="status">
           {message}
         </p>
       )}
@@ -118,14 +118,14 @@ function Field({
   required?: boolean;
 }) {
   return (
-    <label className="grid gap-2 text-sm font-medium text-graphite">
+    <label className="grid gap-2 text-sm font-medium text-warm-cream">
       {label}
       <input
         name={name}
         type={type}
         placeholder={placeholder}
         required={required}
-        className="h-11 rounded-md border border-slate-300 bg-white px-3 text-base text-graphite outline-none transition focus:border-teal focus:ring-4 focus:ring-teal/10"
+        className="pill-input h-11 px-4 text-base outline-none transition"
       />
     </label>
   );
@@ -133,11 +133,11 @@ function Field({
 
 function Select({ label, name, options }: { label: string; name: string; options: string[] }) {
   return (
-    <label className="grid gap-2 text-sm font-medium text-graphite">
+    <label className="grid gap-2 text-sm font-medium text-warm-cream">
       {label}
       <select
         name={name}
-        className="h-11 rounded-md border border-slate-300 bg-white px-3 text-base text-graphite outline-none transition focus:border-teal focus:ring-4 focus:ring-teal/10"
+        className="pill-input h-11 px-4 text-base outline-none transition"
       >
         {options.map((option) => (
           <option key={option}>{option}</option>

@@ -5,39 +5,31 @@ import {
   BadgeCheck,
   CheckCircle2,
   ClipboardCheck,
-  Compass,
-  FileSearch,
-  Map,
+  DraftingCompass,
+  FileText,
+  Ruler,
   Waves,
 } from "lucide-react";
 import { blogPosts, imagery, services, site } from "@/lib/site";
 
-const featuredServices = [
+const priorityServices = [
+  "civil-engineering-advice",
+  "preliminary-civil-engineering-reporting-and-design",
+  "detailed-civil-engineering-design-and-documentation",
   "operational-works-applications",
   "rpeq-certification",
   "stormwater-drainage-design",
-  "engineering-due-diligence",
-  "detailed-civil-engineering-design-and-documentation",
-  "construction-supervision",
 ];
 
-const workflow = [
-  {
-    title: "Feasibility",
-    body: "Identify access, stormwater, servicing and approval risks before decisions harden.",
-  },
-  {
-    title: "Approval",
-    body: "Prepare coordinated civil documentation for planning and operational works pathways.",
-  },
-  {
-    title: "Delivery",
-    body: "Support tendering, construction queries, inspections and practical completion evidence.",
-  },
+const phases = [
+  ["01", "Advice", "Feasibility checks, project constraints and early civil input."],
+  ["02", "Planning", "Engineering input for material change of use and reconfiguration of a lot applications."],
+  ["03", "Approval", "Operational works packages, council responses and RPEQ certification."],
+  ["04", "Construction", "Tender support, contract administration and site-phase input."],
 ];
 
 export default function Home() {
-  const shownServices = featuredServices
+  const shownServices = priorityServices
     .map((slug) => services.find((service) => service.slug === slug))
     .filter(Boolean);
 
@@ -54,118 +46,109 @@ export default function Home() {
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
-      />
-      <section className="relative min-h-[760px] overflow-hidden bg-graphite text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
+
+      <section className="relative min-h-[100dvh] overflow-hidden bg-espresso">
         <Image
           src={imagery.hero}
-          alt="Civil construction site with infrastructure works underway"
+          alt="Blue sky subdivision development with roads, lots and civil infrastructure"
           fill
           priority
           sizes="100vw"
           className="object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-graphite via-graphite/78 to-graphite/18" />
-        <div className="absolute inset-x-0 bottom-0 h-48 bg-gradient-to-t from-graphite to-transparent" />
-        <div className="relative mx-auto flex min-h-[760px] max-w-7xl flex-col justify-end px-4 pb-14 pt-28 sm:px-6 lg:px-8">
-          <p className="mb-5 inline-flex w-fit items-center gap-2 border border-white/25 bg-white/10 px-3 py-2 text-sm font-semibold text-aqua backdrop-blur">
-            <Map size={16} aria-hidden />
-            Sunshine Coast civil engineering consultancy
-          </p>
-          <h1 className="max-w-4xl text-5xl font-semibold leading-[1.02] tracking-normal sm:text-7xl">
-            Civil engineering for approvals, design and delivery.
-          </h1>
-          <p className="lede mt-6 max-w-2xl text-slate-100">
-            CivilCity helps developers, planners and project teams move from feasibility to
-            construction with RPEQ-led civil engineering, operational works support, stormwater
-            design and practical project advice.
-          </p>
-          <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-            <Link
-              href="/contact"
-              className="inline-flex h-12 items-center justify-center gap-2 bg-aqua px-5 text-sm font-semibold text-graphite transition hover:bg-white"
-            >
-              Discuss a project
-              <ArrowRight size={16} aria-hidden />
-            </Link>
-            <Link
-              href="/services"
-              className="inline-flex h-12 items-center justify-center border border-white/35 bg-white/10 px-5 text-sm font-semibold text-white backdrop-blur transition hover:bg-white hover:text-graphite"
-            >
-              View services
-            </Link>
+        <div className="absolute inset-0 bg-gradient-to-r from-espresso/78 via-espresso/36 to-espresso/0" />
+        <div className="absolute inset-0 bg-gradient-to-b from-espresso/10 via-transparent to-midnight-cocoa/84" />
+        <div className="absolute inset-x-0 top-0 h-36 bg-gradient-to-b from-espresso/45 to-transparent" />
+        <div className="relative mx-auto flex min-h-[100dvh] max-w-[1200px] flex-col px-4 pt-20 sm:px-6 lg:px-8">
+          <div className="max-w-[1100px] pt-16 lg:pt-24">
+            <h1 className="hero-title max-w-[1100px]">
+              Sunshine Coast civil engineering <span className="lg:block">from concept to delivery.</span>
+            </h1>
+            <p className="mt-7 max-w-xl text-base leading-7 text-warm-cream/90">
+              CivilCity helps developers, planners and project teams create value on Sunshine Coast
+              subdivisions, material change of use applications, industrial sites and commercial
+              projects through early feasibility, planning-stage engineering, civil design,
+              approvals, construction support and RPEQ review.
+            </p>
+            <div className="mt-9 flex flex-col gap-3 sm:flex-row">
+              <Link href="/contact" className="amber-pill">
+                Discuss a project
+                <ArrowRight size={16} aria-hidden />
+              </Link>
+              <Link href="/services" className="cream-pill">
+                View services
+              </Link>
+            </div>
           </div>
-          <div className="mt-12 grid gap-3 border-t border-white/20 pt-6 text-sm text-slate-100 sm:grid-cols-3">
-            {["RPEQ-led certification", "Developer and planner focused", "Sunshine Coast and SEQ"].map(
-              (item) => (
-                <div key={item} className="flex items-center gap-2">
-                  <CheckCircle2 size={17} className="text-aqua" aria-hidden />
-                  {item}
-                </div>
-              ),
-            )}
-          </div>
-        </div>
-      </section>
 
-      <section className="section-pad bg-white">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="grid gap-10 lg:grid-cols-[0.85fr_1.15fr] lg:items-end">
-            <div>
-              <p className="text-sm font-semibold uppercase tracking-[0.18em] text-teal">Project context</p>
-              <h2 className="mt-3 text-3xl font-semibold tracking-normal text-graphite sm:text-4xl">
-                Built around the real work: sites, drawings, approvals and construction.
+          <div className="relative left-1/2 mt-auto w-[100dvw] -translate-x-1/2">
+            <div className="mx-auto max-w-[1200px] px-4 sm:px-6 lg:px-8">
+              <h2 className="max-w-3xl text-3xl font-normal tracking-[-0.02em] text-warm-cream sm:text-4xl">
+                Built for clearer decisions. Focused on project value.
               </h2>
             </div>
-            <p className="text-lg leading-8 text-slate-700">
-              The visual language now leans on infrastructure and development imagery rather than
-              abstract interface shapes, so CivilCity feels like a grounded engineering consultancy
-              from the first screen.
-            </p>
-          </div>
-          <div className="mt-10 grid gap-4 lg:grid-cols-3">
-            {[
-              ["Design documentation", imagery.plans, "Drawings, levels, drainage and access coordination."],
-              ["Site delivery", imagery.construction, "Civil construction support and practical inspection input."],
-              ["Local development", imagery.coast, "Sunshine Coast context for feasibility and approval strategy."],
-            ].map(([title, src, body]) => (
-              <figure key={title} className="group overflow-hidden border border-slate-200 bg-white">
-                <div className="relative aspect-[4/3]">
-                  <Image src={src} alt={`${title} visual`} fill sizes="(min-width: 1024px) 33vw, 100vw" className="object-cover transition duration-500 group-hover:scale-105" />
-                </div>
-                <figcaption className="p-5">
-                  <h3 className="text-lg font-semibold text-graphite">{title}</h3>
-                  <p className="mt-2 text-sm leading-6 text-slate-600">{body}</p>
-                </figcaption>
-              </figure>
-            ))}
+            <div className="mt-5 border-y border-warm-cream/24 bg-midnight-cocoa/18 backdrop-blur-[1px]">
+              <div className="grid md:grid-cols-3">
+                {[
+                  {
+                    icon: ClipboardCheck,
+                    title: "Value-led advice",
+                    body: "Early civil input for MCU, ROL, feasibility, planning conditions and development strategy.",
+                  },
+                  {
+                    icon: DraftingCompass,
+                    title: "Subdivision design",
+                    body: "Roads, access, stormwater and earthworks coordinated for development sites.",
+                  },
+                  {
+                    icon: BadgeCheck,
+                    title: "RPEQ assurance",
+                    body: "Registered engineering review and certification where Queensland projects require it.",
+                  },
+                ].map((item) => (
+                  <div key={item.title} className="border-warm-cream/20 px-4 py-6 sm:px-6 md:border-r md:px-8 md:last:border-r-0 lg:px-12">
+                    <span className="icon-ring h-12 w-12 border-warm-cream/35 text-warm-cream">
+                      <item.icon size={22} strokeWidth={1.8} aria-hidden />
+                    </span>
+                    <h3 className="mt-16 text-xl font-normal tracking-[-0.02em] text-amber-forge md:mt-20">
+                      {item.title}
+                    </h3>
+                    <p className="mt-2 max-w-sm text-sm leading-6 text-warm-cream/88">{item.body}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
           </div>
         </div>
       </section>
 
-      <section className="section-pad border-y border-slate-200 bg-ivory">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="max-w-3xl">
-            <p className="text-sm font-semibold uppercase tracking-[0.18em] text-teal">Core services</p>
-            <h2 className="mt-3 text-3xl font-semibold tracking-normal text-graphite sm:text-4xl">
-              The civil support developers need before projects stall.
+      <section className="section-pad bg-[#fff1e0] text-[#0d3b1e]">
+        <div className="mx-auto grid max-w-[1200px] gap-12 px-4 sm:px-6 lg:grid-cols-[0.42fr_1fr] lg:px-8">
+          <div>
+            <p className="text-xs font-medium tracking-[0.01em] text-[#2e7d32]">Services</p>
+            <h2 className="mt-5 text-[clamp(2.2rem,4.2vw,3.45rem)] font-normal leading-[1.08] tracking-[-0.008em] text-[#0d3b1e]">
+              The same civil needs developers search for, organised clearly.
             </h2>
           </div>
-          <div className="mt-10 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-            {shownServices.map((service) => (
+          <div className="divide-y divide-[#0d3b1e]/20 border-y border-[#0d3b1e]/20">
+            {shownServices.map((service, index) => (
               <Link
                 key={service!.slug}
                 href={`/services/${service!.slug}`}
-                className="group border border-slate-200 bg-white p-6 transition hover:-translate-y-1 hover:border-teal/40 hover:shadow-sm"
+                className="group grid gap-4 py-7 transition sm:grid-cols-[72px_1fr_auto]"
               >
-                <p className="text-sm font-semibold text-teal">{service!.eyebrow}</p>
-                <h3 className="mt-3 text-xl font-semibold text-graphite">{service!.title}</h3>
-                <p className="mt-3 text-sm leading-6 text-slate-600">{service!.summary}</p>
-                <span className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-teal">
-                  Learn more
-                  <ArrowRight size={15} className="transition group-hover:translate-x-1" aria-hidden />
+                <span className="font-mono text-sm text-[#0d3b1e]/45">{String(index + 1).padStart(2, "0")}</span>
+                <span>
+                  <span className="block text-2xl font-normal tracking-[-0.02em] text-[#0d3b1e]">
+                    {service!.title}
+                  </span>
+                  <span className="mt-3 block max-w-2xl text-sm leading-6 text-[#0d3b1e]/65">
+                    {service!.summary}
+                  </span>
+                </span>
+                <span className="hidden items-center text-[#2e7d32] transition group-hover:translate-x-1 sm:flex">
+                  <ArrowRight size={18} aria-hidden />
                 </span>
               </Link>
             ))}
@@ -173,99 +156,158 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="section-pad border-y border-slate-200 bg-ivory">
-        <div className="mx-auto grid max-w-7xl gap-10 px-4 sm:px-6 lg:grid-cols-[0.8fr_1.2fr] lg:px-8">
-          <div>
-            <p className="text-sm font-semibold uppercase tracking-[0.18em] text-teal">Project pathway</p>
-            <h2 className="mt-3 text-3xl font-semibold tracking-normal text-graphite">
-              From feasibility to construction, with fewer blind spots.
+      <section className="parallax-civil-band section-pad min-h-[720px] text-warm-cream">
+        <div className="mx-auto grid max-w-[1200px] gap-12 px-4 sm:px-6 lg:grid-cols-[0.78fr_1fr] lg:px-8">
+          <div className="self-end pb-8">
+            <p className="eyebrow">Approval pathway</p>
+            <h2 className="mt-5 max-w-3xl text-[clamp(2.8rem,5.8vw,5rem)] font-normal leading-[0.96] tracking-[-0.018em] text-warm-cream">
+              From feasibility to construction-ready civil works.
             </h2>
+            <div className="mt-8 flex flex-col gap-3 sm:flex-row">
+              <Link href="/contact" className="amber-pill">
+                Talk through the site
+                <ArrowRight size={16} aria-hidden />
+              </Link>
+              <Link href="/services/operational-works-applications" className="cream-pill">
+                Planning applications
+              </Link>
+            </div>
           </div>
-          <div className="grid gap-4 md:grid-cols-3">
-            {workflow.map((step, index) => (
-              <div key={step.title} className="rounded-md border border-slate-200 bg-white p-5">
-                <span className="font-mono text-sm text-teal">0{index + 1}</span>
-                <h3 className="mt-4 text-lg font-semibold text-graphite">{step.title}</h3>
-                <p className="mt-3 text-sm leading-6 text-slate-600">{step.body}</p>
+          <div className="self-end border-y border-warm-cream/24 bg-midnight-cocoa/18">
+            {phases.map(([number, title, body]) => (
+              <div key={title} className="grid grid-cols-[64px_1fr] gap-4 border-b border-warm-cream/18 px-4 py-5 last:border-b-0 sm:px-6">
+                <span className="font-mono text-sm text-amber-forge">{number}</span>
+                <span>
+                  <span className="block text-xl font-normal tracking-[-0.02em] text-warm-cream">{title}</span>
+                  <span className="mt-1 block max-w-xl text-sm leading-6 text-warm-cream/76">{body}</span>
+                </span>
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      <section className="section-pad bg-white">
-        <div className="mx-auto grid max-w-7xl gap-10 px-4 sm:px-6 lg:grid-cols-3 lg:px-8">
+      <section className="bg-midnight-cocoa px-4 py-20 text-warm-cream sm:px-6 lg:px-8">
+        <div className="mx-auto max-w-[900px] text-center">
+            <p className="eyebrow">Project control</p>
+            <h2 className="section-title mt-5">
+              The work feels calmer when constraints are visible early.
+            </h2>
+            <p className="mx-auto mt-6 max-w-2xl text-base leading-7 text-driftwood">
+              CivilCity helps surface the practical issues that shape approvals: access, stormwater,
+              earthworks, servicing, RPEQ review and documentation timing.
+            </p>
+            <div className="mx-auto mt-10 grid max-w-3xl gap-4 text-left sm:grid-cols-2">
+              {["Early risk notes", "Council condition focus", "RPEQ-led review", "Construction handover"].map((item) => (
+                <div key={item} className="border-t border-walnut pt-4 text-sm text-warm-cream">
+                  <CheckCircle2 size={17} className="mb-3 text-amber-forge" aria-hidden />
+                  {item}
+                </div>
+              ))}
+            </div>
+        </div>
+      </section>
+
+      <section className="section-pad bg-[#f6efe4] text-[#0d3b1e]">
+        <div className="mx-auto grid max-w-[1200px] gap-8 px-4 sm:px-6 lg:grid-cols-3 lg:px-8">
           {[
             {
-              icon: BadgeCheck,
-              title: "RPEQ-first credibility",
-              body: "Launch copy uses truthful RPEQ positioning and avoids Unitywater accreditation claims until separately verified.",
+              icon: Ruler,
+              title: "Approval-ready drawings",
+              body: "Civil plans, calculations and RPEQ-ready documentation shaped around council conditions, tender pricing and buildability.",
             },
             {
-              icon: ClipboardCheck,
-              title: "Approval-aware documentation",
-              body: "Service pages are built around real project triggers: operational works, conditions, stormwater, access and construction support.",
+              icon: Waves,
+              title: "Stormwater strategy",
+              body: "Drainage layouts, runoff pathways, detention thinking and water-sensitive decisions resolved before they force redesign.",
             },
             {
-              icon: Compass,
-              title: "Local search focus",
-              body: "Content targets Sunshine Coast, Noosa, Moreton Bay and SEQ searches with unique pages for high-intent services.",
+              icon: FileText,
+              title: "Planning application support",
+              body: "Civil input for material change of use, reconfiguration of a lot, operational works responses and certification steps.",
             },
           ].map((item) => (
-            <div key={item.title} className="flex gap-4">
-              <div className="grid h-11 w-11 shrink-0 place-items-center rounded-md bg-teal/10 text-teal">
-                <item.icon size={22} aria-hidden />
-              </div>
-              <div>
-                <h3 className="text-lg font-semibold text-graphite">{item.title}</h3>
-                <p className="mt-2 text-sm leading-6 text-slate-600">{item.body}</p>
-              </div>
+            <div key={item.title} className="border-b border-[#0d3b1e]/20 py-3">
+              <span className="icon-ring h-12 w-12 border-[#0d3b1e]/55 bg-[#0d3b1e] text-[#fff1e0]"><item.icon size={20} strokeWidth={1.9} aria-hidden /></span>
+              <h3 className="mt-5 text-lg font-medium tracking-[-0.02em] text-[#0d3b1e]">{item.title}</h3>
+              <p className="mt-3 text-base leading-7 text-[#0d3b1e]/68">{item.body}</p>
             </div>
           ))}
         </div>
       </section>
 
-      <section className="section-pad bg-graphite text-white">
-        <div className="mx-auto grid max-w-7xl gap-10 px-4 sm:px-6 lg:grid-cols-[0.9fr_1.1fr] lg:px-8">
-          <div>
-            <p className="text-sm font-semibold uppercase tracking-[0.18em] text-aqua">Insights</p>
-            <h2 className="mt-3 text-3xl font-semibold tracking-normal sm:text-4xl">
-              SEO-ready guidance for the questions clients already search.
+      <section className="parallax-plan-band section-pad text-warm-cream">
+        <div className="mx-auto grid min-h-[680px] max-w-[1200px] gap-12 px-4 sm:px-6 lg:grid-cols-[0.82fr_0.88fr] lg:items-end lg:px-8">
+          <div className="self-center lg:pb-12">
+            <p className="eyebrow">How we help</p>
+            <h2 className="mt-5 max-w-3xl text-[clamp(2.8rem,5.8vw,5rem)] font-normal leading-[0.96] tracking-[-0.018em] text-warm-cream">
+              Clear civil input at the points where projects usually slow down.
             </h2>
-            <p className="mt-5 text-slate-300">
-              The blog launches with approval, RPEQ, stormwater, due diligence and construction
-              topics so CivilCity can start building local search authority immediately.
+            <p className="mt-6 max-w-xl text-base leading-7 text-warm-cream/78">
+              Practical drawings, technical notes and staged advice for developers and consultant teams
+              who need earthworks, stormwater, access and approvals to keep moving.
             </p>
+            <div className="mt-8 flex flex-col gap-3 sm:flex-row">
+              <Link href="/services/detailed-civil-engineering-design-and-documentation" className="amber-pill">
+                Design support
+                <ArrowRight size={16} aria-hidden />
+              </Link>
+              <Link href="/services/construction-supervision" className="cream-pill">
+                Construction phase
+              </Link>
+            </div>
           </div>
-          <div className="grid gap-4">
+          <div className="self-end border-y border-warm-cream/24 bg-midnight-cocoa/24">
+            {[
+              ["01", "Earthworks and levels", "Civil design decisions that shape pads, roads, drainage and constructability."],
+              ["02", "Stormwater coordination", "Runoff, detention and overland flow thinking carried through documentation."],
+              ["03", "Approval documentation", "MCU, ROL, operational works and RPEQ review aligned with project timing."],
+            ].map(([number, title, body]) => (
+              <div key={title} className="grid grid-cols-[64px_1fr] gap-4 border-b border-warm-cream/18 px-4 py-6 last:border-b-0 sm:px-6">
+                <span className="font-mono text-sm text-amber-forge">{number}</span>
+                <span>
+                  <span className="block text-xl font-normal tracking-[-0.02em] text-warm-cream">{title}</span>
+                  <span className="mt-2 block max-w-xl text-sm leading-6 text-warm-cream/76">{body}</span>
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="espresso-section section-pad">
+        <div className="mx-auto grid max-w-[1200px] gap-12 px-4 sm:px-6 lg:grid-cols-[0.8fr_1.2fr] lg:px-8">
+          <div>
+            <p className="eyebrow">Insights</p>
+            <h2 className="section-title mt-5">Practical notes for planning and approval decisions.</h2>
+          </div>
+          <div className="divide-y divide-walnut border-y border-walnut">
             {blogPosts.slice(0, 3).map((post) => (
-              <Link
-                key={post.slug}
-                href={`/blog/${post.slug}`}
-                className="rounded-md border border-white/10 bg-white/5 p-5 transition hover:border-aqua/50"
-              >
-                <div className="flex items-center gap-2 text-sm text-aqua">
-                  {post.category === "Stormwater" ? <Waves size={16} /> : <FileSearch size={16} />}
-                  {post.category}
-                </div>
-                <h3 className="mt-3 text-lg font-semibold">{post.title}</h3>
-                <p className="mt-2 text-sm leading-6 text-slate-300">{post.description}</p>
+              <Link key={post.slug} href={`/insights/${post.slug}`} className="group grid gap-4 py-6 sm:grid-cols-[140px_1fr_auto]">
+                <span className="eyebrow">{post.category}</span>
+                <span>
+                  <span className="block text-xl font-normal tracking-[-0.02em] text-warm-cream">
+                    {post.title}
+                  </span>
+                  <span className="mt-2 block text-sm leading-6 text-driftwood">{post.description}</span>
+                </span>
+                <span className="hidden items-center text-amber-forge transition group-hover:translate-x-1 sm:flex">
+                  <ArrowRight size={18} aria-hidden />
+                </span>
               </Link>
             ))}
           </div>
         </div>
       </section>
 
-      <section className="bg-teal px-4 py-12 text-white sm:px-6 lg:px-8">
-        <div className="mx-auto flex max-w-7xl flex-col items-start justify-between gap-6 md:flex-row md:items-center">
+      <section className="border-y border-walnut bg-midnight-cocoa px-4 py-14 text-warm-cream sm:px-6 lg:px-8">
+        <div className="mx-auto flex max-w-[1200px] flex-col items-start justify-between gap-6 md:flex-row md:items-center">
           <div>
-            <h2 className="text-2xl font-semibold">Need civil input on a Sunshine Coast project?</h2>
-            <p className="mt-2 text-white/80">Send the project location, stage and approval issue.</p>
+            <p className="eyebrow">Contact</p>
+            <h2 className="mt-4 text-3xl font-normal tracking-[-0.04em]">Need civil input on a Sunshine Coast project?</h2>
+            <p className="mt-2 text-driftwood">Send the project location, stage and approval issue.</p>
           </div>
-          <Link
-            href="/contact"
-            className="inline-flex h-12 items-center justify-center gap-2 rounded-md bg-white px-5 text-sm font-semibold text-teal transition hover:bg-ivory"
-          >
+          <Link href="/contact" className="amber-pill">
             Start an enquiry
             <ArrowRight size={16} aria-hidden />
           </Link>

@@ -1,61 +1,127 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight, SearchCheck } from "lucide-react";
-import { serviceImageBySlug, services, site } from "@/lib/site";
+import { ArrowRight, BadgeCheck, ClipboardCheck, DraftingCompass } from "lucide-react";
+import { PageHero } from "@/components/page-hero";
+import { imagery, services, site } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Civil Engineering Services Sunshine Coast",
   description:
-    "CivilCity services include operational works applications, RPEQ certification, stormwater design, civil documentation, due diligence and construction support.",
+    "CivilCity services include civil engineering advice, preliminary and detailed design, operational works applications, RPEQ certification, stormwater design and construction support.",
   alternates: { canonical: "/services" },
 };
+
+const serviceGroups = [
+  {
+    title: "Advice and feasibility",
+    slugs: [
+      "civil-engineering-advice",
+      "engineering-due-diligence",
+      "preliminary-civil-engineering-reporting-and-design",
+      "material-change-of-use-engineering",
+      "reconfiguration-of-a-lot-engineering",
+      "fast-track-engineering-support",
+    ],
+  },
+  {
+    title: "Design and approvals",
+    slugs: [
+      "detailed-civil-engineering-design-and-documentation",
+      "operational-works-applications",
+      "rpeq-certification",
+      "stormwater-drainage-design",
+      "erosion-and-sediment-control-design-and-inspections",
+    ],
+  },
+  {
+    title: "Access and delivery",
+    slugs: [
+      "car-parking-planning-and-investigations",
+      "sight-distance-assessments",
+      "tender-preparation-and-assessment",
+      "contract-administration",
+      "project-management",
+      "construction-supervision",
+    ],
+  },
+];
 
 export default function ServicesPage() {
   return (
     <>
-      <section className="border-b border-slate-200 bg-ivory px-4 py-16 sm:px-6 lg:px-8">
-        <div className="mx-auto max-w-7xl">
-          <p className="text-sm font-semibold uppercase tracking-[0.18em] text-teal">Services</p>
-          <h1 className="mt-4 max-w-4xl text-4xl font-semibold tracking-normal text-graphite sm:text-5xl">
-            Civil engineering services for approvals, design and delivery.
-          </h1>
-          <p className="lede mt-5 max-w-3xl text-slate-700">
-            RPEQ-led support for developers, planners, architects and project teams across{" "}
-            {site.region}.
-          </p>
-        </div>
-      </section>
-      <section className="section-pad bg-white">
-        <div className="mx-auto grid max-w-7xl gap-4 px-4 sm:px-6 md:grid-cols-2 lg:grid-cols-3 lg:px-8">
-          {services.map((service) => (
-            <Link
-              href={`/services/${service.slug}`}
-              key={service.slug}
-              className="group overflow-hidden border border-slate-200 bg-white transition hover:-translate-y-1 hover:border-teal/40 hover:shadow-sm"
-            >
-              <div className="relative aspect-[16/10]">
-                <Image
-                  src={serviceImageBySlug[service.slug]}
-                  alt={`${service.title} visual`}
-                  fill
-                  sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
-                  className="object-cover transition duration-500 group-hover:scale-105"
-                />
-                <div className="absolute left-4 top-4 grid h-10 w-10 place-items-center bg-white text-teal shadow-sm">
-                  <SearchCheck size={20} aria-hidden />
-                </div>
-              </div>
-              <div className="p-6">
-                <p className="text-sm font-semibold text-teal">{service.eyebrow}</p>
-                <h2 className="mt-2 text-xl font-semibold text-graphite">{service.title}</h2>
-                <p className="mt-3 text-sm leading-6 text-slate-600">{service.summary}</p>
-                <p className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-teal">
-                  View service <ArrowRight size={15} className="transition group-hover:translate-x-1" />
-                </p>
-              </div>
-            </Link>
-          ))}
+      <PageHero
+        eyebrow="Services"
+        title="Civil engineering services from concept to delivery."
+        copy={`CivilCity Engineering Consultants provides engineering advice, preliminary and detailed design, planning and operational works support, RPEQ review and practical delivery support across ${site.region}.`}
+        image={imagery.construction}
+        imageAlt="Bulldozer carrying out earthworks on a civil development site"
+        ctaLabel="Talk through your project"
+        secondaryLabel="View project types"
+        secondaryHref="/projects"
+        statement="Advice, design and delivery support organised around how projects actually move."
+        cards={[
+          {
+            icon: ClipboardCheck,
+            title: "Feasibility and planning",
+            body: "Civil input for site constraints, MCU, ROL and approval strategy.",
+          },
+          {
+            icon: DraftingCompass,
+            title: "Design and approvals",
+            body: "Roads, access, stormwater, earthworks and operational works documentation.",
+          },
+          {
+            icon: BadgeCheck,
+            title: "Delivery assurance",
+            body: "RPEQ review, tender support, contract administration and construction supervision.",
+          },
+        ]}
+      />
+
+      <section className="cream-site-section section-pad">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <div className="grid gap-16">
+            {serviceGroups.map((group) => {
+              const groupServices = group.slugs
+                .map((slug) => services.find((service) => service.slug === slug))
+                .filter(Boolean);
+
+              return (
+                <section key={group.title} className="grid gap-8 lg:grid-cols-[0.38fr_1fr]">
+                  <div>
+                    <p className="eyebrow">Capability</p>
+                    <h2 className="mt-5 text-3xl font-normal tracking-[-0.04em] text-[#0d3b1e]">
+                      {group.title}
+                    </h2>
+                  </div>
+                  <div className="divide-y divide-[#0d3b1e]/20 border-y border-[#0d3b1e]/20">
+                    {groupServices.map((service, index) => (
+                      <Link
+                        key={service!.slug}
+                        href={`/services/${service!.slug}`}
+                        className="group grid gap-4 py-6 sm:grid-cols-[64px_1fr_auto]"
+                      >
+                        <span className="font-mono text-sm text-[#0d3b1e]/45">
+                          {String(index + 1).padStart(2, "0")}
+                        </span>
+                        <span>
+                          <span className="block text-xl font-normal tracking-[-0.03em] text-[#0d3b1e]">
+                            {service!.title}
+                          </span>
+                          <span className="mt-2 block max-w-3xl text-sm leading-6 text-[#0d3b1e]/65">
+                            {service!.summary}
+                          </span>
+                        </span>
+                        <span className="hidden items-center text-[#2e7d32] transition group-hover:translate-x-1 sm:flex">
+                          <ArrowRight size={18} aria-hidden />
+                        </span>
+                      </Link>
+                    ))}
+                  </div>
+                </section>
+              );
+            })}
+          </div>
         </div>
       </section>
     </>

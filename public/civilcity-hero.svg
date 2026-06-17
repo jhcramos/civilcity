@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Premium civil infrastructure at golden hour</title>
+  <desc id="desc">A cinematic civil engineering scene with a coastal road, bridge works, contour lines and amber sunset light.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b210b"/>
+      <stop offset="0.38" stop-color="#140b00"/>
+      <stop offset="1" stop-color="#0b0600"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffb442" stop-opacity=".08"/>
+      <stop offset=".55" stop-color="#ffb442" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#fff1e0" stop-opacity=".26"/>
+    </linearGradient>
+    <radialGradient id="sun" cx=".78" cy=".24" r=".42">
+      <stop offset="0" stop-color="#ffb442" stop-opacity=".78"/>
+      <stop offset=".38" stop-color="#ffb442" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#ffb442" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 .08"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1600" height="1100" fill="url(#sky)"/>
+  <rect width="1600" height="1100" fill="url(#sun)"/>
+  <path d="M0 780C210 684 402 656 596 697c166 35 263 115 442 119 201 4 356-83 562-202v486H0z" fill="#241509"/>
+  <path d="M0 872c181-76 352-94 514-55 184 44 321 151 534 147 193-4 353-79 552-198v334H0z" fill="#0b0600"/>
+  <path d="M-10 1006C320 786 635 635 970 551c193-48 400-69 640-62" fill="none" stroke="#fff1e0" stroke-opacity=".18" stroke-width="62"/>
+  <path d="M-10 1006C320 786 635 635 970 551c193-48 400-69 640-62" fill="none" stroke="#ffb442" stroke-opacity=".95" stroke-width="6"/>
+  <path d="M-10 1006C320 786 635 635 970 551c193-48 400-69 640-62" fill="none" stroke="#140b00" stroke-opacity=".85" stroke-width="32"/>
+  <path d="M-20 990C298 778 633 611 964 527c190-48 402-72 646-68" fill="none" stroke="#fff1e0" stroke-opacity=".35" stroke-width="2" stroke-dasharray="22 24"/>
+  <g fill="none" stroke="#85796c" stroke-width="2" opacity=".42">
+    <path d="M96 603c134-37 246-34 336 8s187 52 292 29 209-67 340-61 239 46 352 116"/>
+    <path d="M73 657c138-35 256-31 354 14s194 50 300 21 217-71 354-57 243 59 355 135"/>
+    <path d="M50 711c146-32 272-23 376 28s200 50 306 14 224-75 365-53 244 75 354 155"/>
+  </g>
+  <g stroke="#ffb442" stroke-opacity=".48" stroke-width="4">
+    <path d="M566 715v-98"/>
+    <path d="M704 669v-116"/>
+    <path d="M842 624v-112"/>
+    <path d="M982 589v-94"/>
+    <path d="M1128 565v-72"/>
+  </g>
+  <g fill="#fff1e0" opacity=".86">
+    <circle cx="566" cy="617" r="8"/>
+    <circle cx="704" cy="553" r="8"/>
+    <circle cx="842" cy="512" r="8"/>
+    <circle cx="982" cy="495" r="8"/>
+    <circle cx="1128" cy="493" r="8"/>
+  </g>
+  <rect x="86" y="86" width="420" height="124" rx="6" fill="#140b00" fill-opacity=".66" stroke="#43392d"/>
+  <path d="M118 168h152M118 130h286M118 149h238" stroke="#fff1e0" stroke-opacity=".72" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="438" cy="148" r="28" fill="#ffb442"/>
+  <path d="m429 148 9 9 17-22" fill="none" stroke="#140b00" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect width="1600" height="1100" filter="url(#grain)"/>
+  <rect width="1600" height="1100" fill="url(#amber)"/>
+</svg>

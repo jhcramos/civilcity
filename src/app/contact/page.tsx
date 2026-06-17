@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
-import { Mail, MapPin, Phone } from "lucide-react";
+import { ClipboardCheck, Mail, MapPin, Phone, Route } from "lucide-react";
 import { ContactForm } from "@/components/contact-form";
+import { PageHero } from "@/components/page-hero";
 import { site } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -13,41 +14,58 @@ export const metadata: Metadata = {
 export default function ContactPage() {
   return (
     <>
-      <section className="border-b border-slate-200 bg-ivory px-4 py-16 sm:px-6 lg:px-8">
-        <div className="mx-auto max-w-7xl">
-          <p className="text-sm font-semibold uppercase tracking-[0.18em] text-teal">Contact</p>
-          <h1 className="mt-4 max-w-4xl text-4xl font-semibold tracking-normal text-graphite sm:text-5xl">
-            Send the project location, stage and civil issue.
-          </h1>
-          <p className="lede mt-5 max-w-3xl text-slate-700">
-            CivilCity is set up for developer, planner, architect, builder and project-manager
-            enquiries across {site.region}.
-          </p>
-        </div>
-      </section>
-      <section className="section-pad bg-white">
+      <PageHero
+        eyebrow="Contact"
+        title="Send the project location, stage and civil issue."
+        copy={`CivilCity Engineering Consultants is set up for developer, planner, architect, builder and project-manager enquiries across ${site.region}.`}
+        image="/contact-hero-townhouses.webp"
+        imageAlt="Modern Sunshine Coast townhouse development with access, kerb and drainage infrastructure"
+        ctaLabel="Use the enquiry form"
+        ctaHref="#enquiry"
+        secondaryLabel="View services"
+        secondaryHref="/services"
+        statement="The clearer the starting point, the faster the right civil next step."
+        cards={[
+          {
+            icon: MapPin,
+            title: "Project location",
+            body: "Share the address, suburb or development area so local constraints can be considered.",
+          },
+          {
+            icon: ClipboardCheck,
+            title: "Approval stage",
+            body: "Tell us whether the project is feasibility, MCU, ROL, operational works or construction.",
+          },
+          {
+            icon: Route,
+            title: "Civil issue",
+            body: "Access, stormwater, earthworks, servicing, tendering or site-phase questions are all useful context.",
+          },
+        ]}
+      />
+      <section id="enquiry" className="cream-site-section section-pad">
         <div className="mx-auto grid max-w-7xl gap-10 px-4 sm:px-6 lg:grid-cols-[0.8fr_1.2fr] lg:px-8">
           <aside className="space-y-5">
             {[
-              { icon: Phone, label: "Phone", value: site.phone, href: `tel:${site.phone.replace(/\s/g, "")}` },
+              { icon: Phone, label: "Phone", value: site.phone },
               { icon: Mail, label: "Email", value: site.email, href: `mailto:${site.email}` },
               { icon: MapPin, label: "Service area", value: site.region },
             ].map((item) => (
-              <div key={item.label} className="rounded-md border border-slate-200 bg-ivory p-5">
-                <item.icon size={22} className="text-teal" aria-hidden />
-                <p className="mt-4 text-sm font-semibold text-teal">{item.label}</p>
+              <div key={item.label} className="site-card p-5">
+                <item.icon size={22} className="text-iris-glow" aria-hidden />
+                <p className="eyebrow mt-5">{item.label}</p>
                 {item.href ? (
-                  <a className="mt-1 block font-semibold text-graphite hover:text-teal" href={item.href}>
+                  <a className="mt-3 block font-medium text-carbon-vellum hover:text-iris-glow" href={item.href}>
                     {item.value}
                   </a>
                 ) : (
-                  <p className="mt-1 font-semibold text-graphite">{item.value}</p>
+                  <p className="mt-3 font-medium text-carbon-vellum">{item.value}</p>
                 )}
               </div>
             ))}
-            <p className="text-sm leading-6 text-slate-600">
-              Replace the placeholder phone number and connect `CONTACT_WEBHOOK_URL` before launch so
-              form submissions route to the chosen inbox or CRM.
+            <p className="text-sm leading-6 text-ash">
+              Share the site, approval stage and the civil issue you need resolved. CivilCity will
+              respond with the right next step for feasibility, approval or delivery support.
             </p>
           </aside>
           <ContactForm />

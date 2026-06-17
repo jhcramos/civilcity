@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Civil engineering drawing surface</title>
+  <desc id="desc">A warm dark civil plan drawing with lots, road alignment, drainage and approval markers.</desc>
+  <rect width="1200" height="900" fill="#0b0600"/>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0v40" fill="none" stroke="#43392d" stroke-opacity=".42"/>
+    </pattern>
+    <radialGradient id="glow" cx=".76" cy=".15" r=".7">
+      <stop offset="0" stop-color="#ffb442" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#ffb442" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#grid)"/>
+  <rect width="1200" height="900" fill="url(#glow)"/>
+  <g fill="none" stroke="#fff1e0" stroke-opacity=".62" stroke-width="3">
+    <path d="M126 162h174v128H126z"/>
+    <path d="M340 132h178v138H340z"/>
+    <path d="M558 180h190v136H558z"/>
+    <path d="M786 140h182v138H786z"/>
+    <path d="M162 410h178v138H162z"/>
+    <path d="M380 452h182v132H380z"/>
+    <path d="M604 392h188v136H604z"/>
+    <path d="M834 448h180v136H834z"/>
+  </g>
+  <path d="M40 744C254 598 405 490 566 350c151-131 339-207 594-254" fill="none" stroke="#ffb442" stroke-width="42" stroke-linecap="round" stroke-opacity=".28"/>
+  <path d="M40 744C254 598 405 490 566 350c151-131 339-207 594-254" fill="none" stroke="#140b00" stroke-width="26" stroke-linecap="round"/>
+  <path d="M40 744C254 598 405 490 566 350c151-131 339-207 594-254" fill="none" stroke="#ffb442" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#ffb442">
+    <circle cx="326" cy="536" r="9"/>
+    <circle cx="566" cy="350" r="9"/>
+    <circle cx="828" cy="194" r="9"/>
+  </g>
+  <g fill="#140b00" stroke="#43392d">
+    <rect x="76" y="730" width="258" height="68" rx="6"/>
+    <rect x="846" y="668" width="270" height="76" rx="6"/>
+  </g>
+  <text x="104" y="772" fill="#fff1e0" font-family="Arial, sans-serif" font-size="24">RPEQ REVIEW</text>
+  <text x="876" y="713" fill="#fff1e0" font-family="Arial, sans-serif" font-size="24">OP WORKS</text>
+  <g stroke="#85796c" stroke-width="2" fill="none">
+    <path d="M90 650c112-44 209-48 292-12s160 47 232 34 152-61 252-59 172 42 226 86"/>
+    <path d="M100 686c112-44 209-48 292-12s160 47 232 34 152-61 252-59 172 42 226 86"/>
+  </g>
+</svg>

@@ -1,56 +1,68 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight, CalendarDays } from "lucide-react";
-import { blogPosts, getBlogImage } from "@/lib/site";
+import { ArrowRight, BadgeCheck, ClipboardCheck, FileText } from "lucide-react";
+import { PageHero } from "@/components/page-hero";
+import { blogPosts, getBlogImage, imagery } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Civil Engineering Insights",
   description:
     "CivilCity insights on operational works, RPEQ certification, stormwater, due diligence and construction support on the Sunshine Coast.",
-  alternates: { canonical: "/blog" },
+  alternates: { canonical: "/insights" },
 };
 
 export default function BlogPage() {
   return (
     <>
-      <section className="border-b border-slate-200 bg-ivory px-4 py-16 sm:px-6 lg:px-8">
-        <div className="mx-auto max-w-7xl">
-          <p className="text-sm font-semibold uppercase tracking-[0.18em] text-teal">Insights</p>
-          <h1 className="mt-4 max-w-4xl text-4xl font-semibold tracking-normal text-graphite sm:text-5xl">
-            Civil engineering guidance for Sunshine Coast development projects.
-          </h1>
-          <p className="lede mt-5 max-w-3xl text-slate-700">
-            SEO-focused explainers for approvals, stormwater, RPEQ certification, due diligence and
-            construction support.
-          </p>
-        </div>
-      </section>
-      <section className="section-pad bg-white">
-        <div className="mx-auto grid max-w-7xl gap-4 px-4 sm:px-6 md:grid-cols-2 lg:grid-cols-3 lg:px-8">
+      <PageHero
+        eyebrow="Insights"
+        title="Civil engineering guidance for Sunshine Coast development projects."
+        copy="Practical explainers for approvals, stormwater, RPEQ certification, due diligence, design documentation and construction support."
+        image={imagery.documentation}
+        imageAlt="Civil engineering documentation and project planning"
+        ctaLabel="Ask about a project"
+        secondaryLabel="View services"
+        secondaryHref="/services"
+        statement="Clear notes for the decisions that slow projects down."
+        cards={[
+          {
+            icon: FileText,
+            title: "Approval explainers",
+            body: "Operational works, MCU, ROL and council-condition topics written in plain language.",
+          },
+          {
+            icon: ClipboardCheck,
+            title: "Risk notes",
+            body: "Common causes of delays across stormwater, access, due diligence and documentation.",
+          },
+          {
+            icon: BadgeCheck,
+            title: "RPEQ context",
+            body: "Helpful framing for when engineering review and sign-off may be required.",
+          },
+        ]}
+      />
+      <section className="bg-[#0b0600] section-pad">
+        <div className="mx-auto grid max-w-7xl gap-5 px-4 sm:px-6 md:grid-cols-2 lg:grid-cols-3 lg:px-8">
           {blogPosts.map((post) => (
-            <Link
-              key={post.slug}
-              href={`/blog/${post.slug}`}
-              className="group overflow-hidden border border-slate-200 bg-white transition hover:-translate-y-1 hover:border-teal/40 hover:shadow-sm"
-            >
+            <Link key={post.slug} href={`/insights/${post.slug}`} className="violet-frame group">
               <div className="relative aspect-[16/10]">
                 <Image
                   src={getBlogImage(post.category)}
                   alt={`${post.category} civil engineering visual`}
                   fill
                   sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
-                  className="object-cover transition duration-500 group-hover:scale-105"
+                  className="image-muted object-cover transition duration-500 group-hover:scale-105"
                 />
               </div>
               <div className="p-6">
-                <p className="inline-flex items-center gap-2 text-sm font-semibold text-teal">
-                  <CalendarDays size={16} aria-hidden />
-                  {post.category}
-                </p>
-                <h2 className="mt-4 text-xl font-semibold text-graphite">{post.title}</h2>
-                <p className="mt-3 text-sm leading-6 text-slate-600">{post.description}</p>
-                <p className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-teal">
+                <p className="eyebrow">{post.category}</p>
+                <h2 className="mt-4 text-xl font-normal tracking-[-0.03em] text-carbon-vellum">
+                  {post.title}
+                </h2>
+                <p className="mt-3 text-sm leading-6 text-ash">{post.description}</p>
+                <p className="mt-5 inline-flex items-center gap-2 text-sm font-medium text-iris-glow">
                   Read article <ArrowRight size={15} className="transition group-hover:translate-x-1" />
                 </p>
               </div>
