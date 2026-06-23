@@ -49,7 +49,7 @@ export default function BlogPage() {
             <Link key={post.slug} href={`/insights/${post.slug}`} className="violet-frame group">
               <div className="relative aspect-[16/10]">
                 <Image
-                  src={getBlogImage(post.category)}
+                  src={getBlogImage(post.category, post.slug)}
                   alt={`${post.category} civil engineering visual`}
                   fill
                   sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"

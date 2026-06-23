@@ -1,13 +1,14 @@
 "use client";
 
 import { useState } from "react";
-import { Send } from "lucide-react";
+import { FileText, Send, UploadCloud } from "lucide-react";
 
 type FormState = "idle" | "submitting" | "success" | "error";
 
 export function ContactForm() {
   const [state, setState] = useState<FormState>("idle");
   const [message, setMessage] = useState("");
+  const [files, setFiles] = useState<File[]>([]);
 
   async function onSubmit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
@@ -22,6 +23,7 @@ export function ContactForm() {
 
     if (response.ok) {
       form.reset();
+      setFiles([]);
       setState("success");
       setMessage("Thanks. Your enquiry has been received and CivilCity will respond shortly.");
     } else {
@@ -79,6 +81,35 @@ export function ContactForm() {
           placeholder="Tell us what you are trying to approve, design or resolve."
         />
       </label>
+      <label className="grid gap-2 text-sm font-medium text-warm-cream">
+        Attach files
+        <span className="flex min-h-24 cursor-pointer flex-col items-center justify-center rounded-md border border-dashed border-cedar px-4 py-5 text-center transition hover:border-amber-forge">
+          <UploadCloud size={24} className="text-amber-forge" aria-hidden />
+          <span className="mt-3 text-sm text-warm-cream">Upload plans, approvals, surveys or site photos</span>
+          <span className="mt-1 text-xs font-normal text-driftwood">
+            Multiple files accepted. PDF, DWG, DXF, Office, image, CSV or ZIP up to 15 MB total.
+          </span>
+          <input
+            name="files"
+            type="file"
+            multiple
+            accept=".pdf,.dwg,.dxf,.doc,.docx,.xls,.xlsx,.csv,.jpg,.jpeg,.png,.webp,.zip"
+            className="sr-only"
+            onChange={(event) => setFiles(Array.from(event.currentTarget.files ?? []))}
+          />
+        </span>
+      </label>
+      {files.length > 0 && (
+        <ul className="grid gap-2 text-sm text-driftwood" aria-label="Selected files">
+          {files.map((file) => (
+            <li key={`${file.name}-${file.size}`} className="flex items-center gap-2">
+              <FileText size={15} className="shrink-0 text-amber-forge" aria-hidden />
+              <span className="truncate text-warm-cream">{file.name}</span>
+              <span className="shrink-0 text-xs">{formatFileSize(file.size)}</span>
+            </li>
+          ))}
+        </ul>
+      )}
       <label className="flex gap-3 text-sm leading-6 text-ash">
         <input
           required
@@ -102,6 +133,11 @@ export function ContactForm() {
       )}
     </form>
   );
+}
+
+function formatFileSize(bytes: number) {
+  if (bytes < 1024 * 1024) return `${Math.max(1, Math.round(bytes / 1024))} KB`;
+  return `${(bytes / 1024 / 1024).toFixed(1)} MB`;
 }
 
 function Field({

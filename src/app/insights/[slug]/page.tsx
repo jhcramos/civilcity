@@ -66,7 +66,7 @@ export default async function InsightPostPage({ params }: Props) {
       <article>
         <header className="relative min-h-[86dvh] overflow-hidden bg-espresso">
           <Image
-            src={getBlogImage(post.category)}
+            src={getBlogImage(post.category, post.slug)}
             alt={`${post.title} visual`}
             fill
             priority

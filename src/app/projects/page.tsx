@@ -16,7 +16,7 @@ const projectTypes = [
   {
     icon: Home,
     image: "/project-type-subdivision-infill.webp",
-    title: "Small subdivisions and infill sites",
+    title: "Small and Medium Subdivisions and infill sites",
     body: "Civil advice, access, stormwater, operational works and construction support for compact development sites.",
   },
   {
@@ -29,7 +29,7 @@ const projectTypes = [
     icon: Route,
     image: "/project-type-road-access.webp",
     title: "Road frontage and access works",
-    body: "Sight distance, driveway, frontage and external works support where the site meets the public network.",
+    body: "Sight distance, driveway, second driveways, frontage and external works support where the site meets the public network.",
   },
   {
     icon: Landmark,

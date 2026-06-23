@@ -2,8 +2,8 @@ export const site = {
   name: "CivilCity Engineering Consultants",
   domain: "https://civilcity.com.au",
   email: "hello@civilcity.com.au",
-  phone: "+61 422 723 400",
-  region: "Sunshine Coast, Noosa, Moreton Bay and South East Queensland",
+  phone: "+61 0481 436 002",
+  region: "Sunshine Coast",
   shortRegion: "Sunshine Coast",
   description:
     "CivilCity Engineering Consultants is a Sunshine Coast civil engineering consultancy for development value, approvals, RPEQ certification, stormwater, civil design and construction-phase support.",
@@ -19,13 +19,7 @@ export const navItems = [
 
 export const serviceAreas = [
   "Sunshine Coast",
-  "Noosa",
-  "Maroochydore",
-  "Caloundra",
-  "Buderim",
-  "Nambour",
-  "Moreton Bay",
-  "South East Queensland",
+ 
 ];
 
 export const imagery = {
@@ -1024,10 +1018,39 @@ export function getBlogPost(slug: string) {
   return blogPosts.find((post) => post.slug === slug);
 }
 
-export function getBlogImage(category: string) {
+export function getBlogImage(category: string, slug?: string) {
+  const bySlug: Record<string, string> = {
+    "what-is-an-operational-works-application-in-queensland":
+      "/insight-operational-works-application-package.webp",
+    "when-do-you-need-an-rpeq-civil-engineer-on-the-sunshine-coast":
+      "/insight-rpeq-signing-civil-plan.webp",
+    "operational-works-after-development-approval-what-happens-next":
+      "/insight-operational-works-after-da-conditions.webp",
+    "stormwater-design-requirements-for-sunshine-coast-developments":
+      "/service-hero-stormwater-drainage.webp",
+    "civil-engineering-due-diligence-before-buying-a-development-site":
+      "/insight-due-diligence-development-site-selection.webp",
+    "common-causes-of-operational-works-delays":
+      "/insight-operational-works-delays-review.webp",
+    "sight-distance-assessments-explained":
+      "/insight-sight-distance-road-access-assessment.webp",
+    "erosion-and-sediment-control-plans-for-small-developments":
+      "/insight-erosion-sediment-control-small-site.webp",
+    "car-parking-and-access-design-considerations":
+      "/insight-car-parking-access-swept-path-review.webp",
+    "preliminary-civil-engineering-reports-for-town-planning-applications":
+      "/service-hero-advice-office-plans.webp",
+    "tender-documentation-for-civil-works":
+      "/insight-tender-earthworks-quantity-surveying.webp",
+    "construction-supervision-versus-contract-administration":
+      "/service-hero-construction-supervision.webp",
+  };
+
+  if (slug && bySlug[slug]) return bySlug[slug];
+
   const byCategory: Record<string, string> = {
     Approvals: imagery.construction,
-    RPEQ: imagery.field,
+    RPEQ: "/insight-rpeq-signing-civil-plan.webp",
     Stormwater: imagery.stormwater,
     "Due diligence": imagery.coast,
     Access: imagery.road,

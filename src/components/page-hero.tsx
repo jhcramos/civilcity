@@ -52,7 +52,7 @@ export function PageHero({
       <div className="absolute inset-x-0 top-0 h-36 bg-gradient-to-b from-espresso/45 to-transparent" />
 
       <div className="relative mx-auto flex min-h-[92dvh] max-w-[1200px] flex-col px-4 pt-20 sm:px-6 lg:px-8">
-        <div className="max-w-[1040px] pt-16 lg:pt-24">
+        <div className="max-w-[1040px] pt-16 pb-10 sm:pb-12 lg:pt-24 lg:pb-16">
           <p className="eyebrow">{eyebrow}</p>
           <h1 className="hero-title mt-7 max-w-[1040px]">{title}</h1>
           <p className="mt-7 max-w-xl text-base leading-7 text-warm-cream/90">{copy}</p>
