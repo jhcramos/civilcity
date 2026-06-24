@@ -128,7 +128,7 @@ export default function Home() {
           <div>
             <p className="text-xs font-medium tracking-[0.01em] text-[#2e7d32]">Services</p>
             <h2 className="mt-5 text-[clamp(2.2rem,4.2vw,3.45rem)] font-normal leading-[1.08] tracking-[-0.008em] text-[#0d3b1e]">
-              The same civil needs developers search for, organised clearly.
+              Civil engineering support for the decisions that move development forward.
             </h2>
           </div>
           <div className="divide-y divide-[#0d3b1e]/20 border-y border-[#0d3b1e]/20">
