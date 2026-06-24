@@ -5,7 +5,7 @@ const requiredFields = ["name", "email", "projectLocation", "message", "consent"
 const recipientEmail = process.env.CONTACT_TO_EMAIL ?? "hello@civilcity.com.au";
 const fromEmail = process.env.CONTACT_FROM_EMAIL ?? "CivilCity Website <onboarding@resend.dev>";
 const maxFiles = 8;
-const maxTotalFileSize = 15 * 1024 * 1024;
+const maxTotalFileSize = 4 * 1024 * 1024;
 const allowedExtensions = new Set([
   "pdf",
   "dwg",
@@ -207,7 +207,7 @@ function validateFiles(files: File[]) {
 
   const totalSize = files.reduce((total, file) => total + file.size, 0);
   if (totalSize > maxTotalFileSize) {
-    return "Please keep attachments under 15 MB total.";
+    return "Please keep attachments under 4 MB total.";
   }
 
   const unsupported = files.find((file) => {

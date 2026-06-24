@@ -87,7 +87,7 @@ export function ContactForm() {
           <UploadCloud size={24} className="text-amber-forge" aria-hidden />
           <span className="mt-3 text-sm text-warm-cream">Upload plans, approvals, surveys or site photos</span>
           <span className="mt-1 text-xs font-normal text-driftwood">
-            Multiple files accepted. PDF, DWG, DXF, Office, image, CSV or ZIP up to 15 MB total.
+            Multiple files accepted. PDF, DWG, DXF, Office, image, CSV or ZIP up to 4 MB total.
           </span>
           <input
             name="files"
