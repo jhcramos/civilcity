@@ -61,7 +61,7 @@ export default function AboutPage() {
         eyebrow="About CivilCity"
         title="Experienced civil engineering for development value."
         copy="CivilCity Engineering Consultants helps Sunshine Coast project teams make better civil decisions from feasibility through approvals, design and construction delivery."
-        image="/service-hero-advice-office-plans.webp"
+        image="/about-hero-subdivision-team.webp"
         imageAlt="Civil engineers reviewing subdivision development plans for a Sunshine Coast project"
         ctaLabel="Discuss a project"
         secondaryLabel="View services"
