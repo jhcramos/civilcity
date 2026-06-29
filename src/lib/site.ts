@@ -3075,6 +3075,16 @@ export function getBlogImage(category: string, slug?: string) {
     "battle-axe-subdivision-on-the-sunshine-coast-access-services-and-stormwater-risks": "/project-type-road-access.webp",
     "townhouse-development-sunshine-coast-civil-engineering-checklist": "/contact-hero-townhouses.webp",
     "development-infrastructure-charges-on-the-sunshine-coast-what-to-allow-for": "/insight-due-diligence-development-site-selection.webp",
+    "low-density-residential-subdivision-sunshine-coast-minimum-lot-size-checks": "/project-type-subdivision-infill.webp",
+    "secondary-dwelling-sunshine-coast-civil-engineering-checks-before-you-build": "/contact-hero-townhouses.webp",
+    "dual-occupancy-sunshine-coast-approval-and-civil-design-risks": "/service-hero-approvals-subdivision.webp",
+    "medium-density-residential-zone-sunshine-coast-townhouse-feasibility": "/contact-hero-townhouses.webp",
+    "stormwater-management-plan-sunshine-coast-when-development-needs-one": "/service-hero-stormwater-drainage.webp",
+    "landslide-hazard-and-steep-land-overlay-sunshine-coast-development": "/project-type-conditioned-infrastructure.webp",
+    "bushfire-hazard-overlay-sunshine-coast-subdivision-development-checks": "/about-hero-subdivision-team.webp",
+    "acid-sulfate-soils-overlay-sunshine-coast-earthworks-development-risk": "/civilcity-earthworks-bulldozer.png",
+    "transport-and-parking-code-sunshine-coast-small-development-checks": "/project-type-road-access.webp",
+    "small-lot-housing-sunshine-coast-planning-civil-feasibility-checks": "/project-type-subdivision-infill.webp",
   };
 
   if (slug && bySlug[slug]) return bySlug[slug];
@@ -3082,14 +3092,15 @@ export function getBlogImage(category: string, slug?: string) {
   const byCategory: Record<string, string> = {
     Approvals: imagery.construction,
     RPEQ: "/insight-rpeq-signing-civil-plan.webp",
-    Stormwater: imagery.stormwater,
-    "Due diligence": imagery.coast,
-    Access: imagery.road,
+    Stormwater: "/service-hero-stormwater-drainage.webp",
+    "Due diligence": "/insight-due-diligence-development-site-selection.webp",
+    Access: "/project-type-road-access.webp",
     Construction: imagery.construction,
-    Earthworks: imagery.construction,
-    Planning: imagery.documentation,
+    Earthworks: "/civilcity-earthworks-bulldozer.png",
+    Planning: "/service-hero-advice-office-plans.webp",
+    Subdivision: "/project-type-subdivision-infill.webp",
     Tendering: "/insight-tender-earthworks-quantity-surveying.webp",
   };
 
-  return byCategory[category] ?? imagery.plans;
+  return byCategory[category] ?? imagery.field;
 }
