@@ -93,14 +93,24 @@ export default async function InsightPostPage({ params }: Props) {
         <div className="cream-site-section px-4 py-16 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-4xl">
             <div className="space-y-10">
-              {post.sections.map((section) => (
-                <section key={section.heading}>
-                  <h2 className="text-2xl font-normal tracking-[-0.03em] text-[#0d3b1e]">
-                    {section.heading}
-                  </h2>
-                  <p className="mt-4 text-lg leading-8 text-[#0d3b1e]/72">{section.body}</p>
-                </section>
-              ))}
+              {post.sections.map((section) => {
+                const paragraphs = Array.isArray(section.body) ? section.body : [section.body];
+
+                return (
+                  <section key={section.heading}>
+                    <h2 className="text-2xl font-normal tracking-[-0.03em] text-[#0d3b1e]">
+                      {section.heading}
+                    </h2>
+                    <div className="mt-4 space-y-4">
+                      {paragraphs.map((paragraph) => (
+                        <p key={paragraph} className="text-lg leading-8 text-[#0d3b1e]/72">
+                          {paragraph}
+                        </p>
+                      ))}
+                    </div>
+                  </section>
+                );
+              })}
             </div>
             <section className="site-card mt-12 p-6">
               <p className="eyebrow">FAQ</p>
@@ -114,6 +124,22 @@ export default async function InsightPostPage({ params }: Props) {
                 </div>
               ))}
             </section>
+            {post.resources?.length ? (
+              <section className="mt-10 rounded-[1.5rem] border border-[#0d3b1e]/15 bg-white/70 p-6 text-[#0d3b1e] shadow-sm">
+                <p className="eyebrow text-[#0d3b1e]/60">Useful official resources</p>
+                <div className="mt-4 flex flex-wrap gap-3">
+                  {post.resources.map((resource) => (
+                    <Link
+                      key={resource.href}
+                      href={resource.href}
+                      className="rounded-full border border-[#0d3b1e]/20 px-4 py-2 text-sm font-medium text-[#0d3b1e] transition hover:border-[#0d3b1e]/50 hover:bg-[#0d3b1e]/5"
+                    >
+                      {resource.label}
+                    </Link>
+                  ))}
+                </div>
+              </section>
+            ) : null}
             <div className="mt-12 border-t border-[#0d3b1e]/20 pt-10 text-[#0d3b1e]">
               <h2 className="text-2xl font-normal tracking-[-0.03em]">Need project-specific civil advice?</h2>
               <p className="mt-2 text-[#0d3b1e]/70">
