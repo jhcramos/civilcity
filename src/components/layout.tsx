@@ -75,6 +75,8 @@ export function Footer() {
       </div>
       <div className="border-t border-walnut px-4 py-5 text-center text-xs text-driftwood">
         © {new Date().getFullYear()} CivilCity Engineering Consultants. Civil engineering for Sunshine Coast and SEQ projects.
+        <span className="mx-2 text-walnut">•</span>
+        Map data © <a className="hover:text-amber-forge" href="https://www.openstreetmap.org/copyright" rel="noreferrer" target="_blank">OpenStreetMap contributors</a>.
       </div>
     </footer>
   );
