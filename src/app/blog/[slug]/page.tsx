@@ -32,10 +32,21 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
+function renderBody(body: string | string[], className: string) {
+  const paragraphs = Array.isArray(body) ? body : body.split("\n\n");
+
+  return paragraphs.map((paragraph) => (
+    <p key={paragraph} className={className}>
+      {paragraph}
+    </p>
+  ));
+}
+
 export default async function BlogPostPage({ params }: Props) {
   const { slug } = await params;
   const post = getBlogPost(slug);
   if (!post) notFound();
+  const resources = post.resources ?? post.sourceLinks;
 
   const schema = [
     {
@@ -98,7 +109,9 @@ export default async function BlogPostPage({ params }: Props) {
                   <h2 className="text-2xl font-normal tracking-[-0.03em] text-carbon-vellum">
                     {section.heading}
                   </h2>
-                  <p className="mt-4 text-lg leading-8 text-ash">{section.body}</p>
+                  <div className="mt-4 space-y-4">
+                    {renderBody(section.body, "text-lg leading-8 text-ash")}
+                  </div>
                 </section>
               ))}
             </div>
@@ -114,6 +127,22 @@ export default async function BlogPostPage({ params }: Props) {
                 </div>
               ))}
             </section>
+            {resources?.length ? (
+              <section className="mt-12 border-t border-charcoal pt-10">
+                <p className="eyebrow">Useful official resources</p>
+                <div className="mt-5 grid gap-3 sm:grid-cols-2">
+                  {resources.map((source) => (
+                    <Link
+                      key={source.href}
+                      href={source.href}
+                      className="rounded-lg border border-charcoal px-4 py-3 text-sm font-medium text-carbon-vellum transition hover:border-iris-glow"
+                    >
+                      {source.label}
+                    </Link>
+                  ))}
+                </div>
+              </section>
+            ) : null}
             <div className="mt-12 border-t border-charcoal pt-10 text-carbon-vellum">
               <h2 className="text-2xl font-normal tracking-[-0.03em]">Need project-specific civil advice?</h2>
               <p className="mt-2 text-ash">
