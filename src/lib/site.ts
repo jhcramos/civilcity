@@ -2299,11 +2299,759 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "low-density-residential-subdivision-sunshine-coast-minimum-lot-size-checks",
+    title: "Low density residential subdivision Sunshine Coast: minimum lot size checks",
+    description: "How to read low density residential subdivision potential on the Sunshine Coast, including minimum lot size, slope, frontage, overlays and servicing risks.",
+    date: "2026-06-29",
+    category: "Subdivision",
+    keywords: [
+      "low density residential subdivision Sunshine Coast",
+      "minimum lot size Sunshine Coast",
+      "Sunshine Coast subdivision lot size",
+      "reconfiguring a lot Sunshine Coast",
+      "civil engineer subdivision feasibility"
+    ],
+    faqs: [
+      {
+        question: "Is 600m² always enough for a new lot in the Low density residential zone?",
+        answer: "No. It may be a useful first benchmark for some low-slope sites, but slope, frontage, overlays, local plan provisions, access, services, stormwater and lot geometry must also be checked.",
+      },
+      {
+        question: "Why does slope change subdivision feasibility?",
+        answer: "Steeper land can trigger larger lot-size outcomes, geotechnical considerations, driveway grade issues, retaining walls and higher construction cost.",
+      },
+      {
+        question: "Should I get civil input before a town planning report?",
+        answer: "Yes, especially for constrained infill sites. Civil input can shape the concept plan so planning advice is based on a layout that can actually be serviced and built.",
+      }
+    ],
+    sections: [
+      {
+        heading: "The SEO gap this article fills",
+        body: [
+          "Owners often search for a simple lot-size answer: can this low density residential block be split? The useful answer is more specific. Under the Sunshine Coast Planning Scheme material, lot size is only one input. A development still needs to work against zoning, local plan provisions, overlays, access, slope, stormwater discharge and services.",
+          "The Urbix planning-scheme research surfaced the Reconfiguring a Lot material and Table 9.4.4.3.2 minimum lot-size data. It is exactly the kind of source-backed detail that generic property blogs usually miss. Tiny SEO win, large nerd satisfaction."
+        ],
+      },
+      {
+        heading: "Minimum lot size is a first filter, not a permission slip",
+        body: [
+          "For standard Reconfiguring a Lot checks, the scheme material identifies minimum lot-size outcomes for different zones and slopes. The extracted table shows Low density residential zone lots at 600m² on slopes up to 15%, 1,000m² where slope is above 15% and up to 20%, and 1,500m² where slope is above 20%. It also indicates a 15m by 20m minimum rectangle and 15m frontage for the low density residential zone.",
+          "Those figures help screen a site quickly, but they do not replace a proper assessment. Local plans, overlays, frontage shape, easements, access geometry and stormwater often decide whether the theoretical yield survives contact with the real world."
+        ],
+      },
+      {
+        heading: "The civil checks that change the answer",
+        body: [
+          "CivilCity normally looks beyond the planning headline. The practical questions are: can each lot obtain safe vehicle access, is there a lawful point of discharge, can sewer and water be extended without expensive clashes, does the driveway work on grade, and will earthworks or retaining make the project commercially silly?",
+          "A site can meet a lot-size number and still be a bad subdivision candidate if the only stormwater path needs a downstream easement, the driveway is too steep, or a service crosses the best building envelope."
+        ],
+      },
+      {
+        heading: "What to prepare before asking for advice",
+        body: [
+          "Collect the address, title plan, survey if available, recent Development.i site report, sewer and water information, and any sketch showing the split you have in mind. If the land is sloping, include contour information or a feature survey.",
+          "A short feasibility review can then separate three things: what the scheme appears to allow, what council may scrutinise, and what civil design will actually have to solve."
+        ],
+      },
+      {
+        heading: "How CivilCity helps",
+        body: [
+          "CivilCity can prepare early subdivision feasibility input, support the planner and surveyor, and test the civil constraints before the project commits to detailed design. The goal is not to sell optimism. The goal is to find the expensive problems while they are still cheap to discuss."
+        ],
+      }
+    ],
+    resources: [
+      {
+        label: "Sunshine Coast Planning Scheme 2014",
+        href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014",
+      },
+      {
+        label: "Interactive mapping",
+        href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014/interactive-mapping",
+      },
+      {
+        label: "Development.i site report",
+        href: "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report",
+      }
+    ],
+  },
+  {
+    slug: "secondary-dwelling-sunshine-coast-civil-engineering-checks-before-you-build",
+    title: "Secondary dwelling Sunshine Coast: civil engineering checks before you build",
+    description: "A practical guide to secondary dwelling checks on the Sunshine Coast, covering parking, access, stormwater, services, slope and planning scheme constraints.",
+    date: "2026-06-29",
+    category: "Planning",
+    keywords: [
+      "secondary dwelling Sunshine Coast",
+      "granny flat Sunshine Coast approval",
+      "secondary dwelling civil engineer",
+      "Sunshine Coast dwelling house code",
+      "stormwater secondary dwelling"
+    ],
+    faqs: [
+      {
+        question: "Do secondary dwellings need stormwater design?",
+        answer: "They often need at least a stormwater check, because added roof, driveway and paved area can change discharge, detention and nuisance-flow issues.",
+      },
+      {
+        question: "Can I rely on the existing driveway?",
+        answer: "Sometimes, but driveway width, grade, sight distance, turning and parking layout should be checked before assuming the existing access is suitable.",
+      },
+      {
+        question: "What information should I send CivilCity?",
+        answer: "Send the address, site plan, proposed layout, contours or survey if available, and any Development.i or planning report you already have.",
+      }
+    ],
+    sections: [
+      {
+        heading: "Why secondary dwellings are a good SEO target",
+        body: [
+          "Secondary dwellings attract high-intent searches from owners who are close to action: they want to know if they can add a small dwelling, what approvals apply and what could blow out cost. The planning answer matters, but civil constraints often decide the budget.",
+          "The Urbix RAG pulled Sunshine Coast Planning Scheme excerpts referencing secondary dwelling provisions, parking outcomes, and schedule definitions. That gives CivilCity a stronger article than the usual “ask council” fluff sandwich."
+        ],
+      },
+      {
+        heading: "Planning permission is only half the question",
+        body: [
+          "A secondary dwelling may appear simple because it sits on an existing lot. In practice, the project still has to work with access, parking, stormwater, sewer, water, earthworks, retaining, building location and any mapped overlays.",
+          "The scheme material extracted by Urbix includes access and car parking outcomes in Part 9, with on-site car parking expectations for dwelling-house related development. The exact pathway depends on zone, lot size, overlays and the proposed design."
+        ],
+      },
+      {
+        heading: "Civil engineering checks that matter early",
+        body: [
+          "Start with stormwater. A new roof and driveway area can increase impervious area and change discharge behaviour. If there is no clear lawful point of discharge, the cheapest design option may disappear quickly.",
+          "Then check driveway grades, turning, pedestrian access, retaining walls, sewer connection, water connection and whether construction access is realistic. Backyard projects can be more constrained than greenfield work because the easiest alignment was usually used by the original house."
+        ],
+      },
+      {
+        heading: "When overlays complicate a small project",
+        body: [
+          "Flood, bushfire, steep land, waterways and acid sulfate soils overlays can change the information required or the design response. A small building footprint does not automatically mean small approval risk.",
+          "If the site is in a mapped constraint area, the practical question is what supporting material is needed and whether the civil design can demonstrate the expected outcome without over-engineering the project."
+        ],
+      },
+      {
+        heading: "What CivilCity can do first",
+        body: [
+          "CivilCity can review the site report, mapping, levels and concept layout, then flag the likely civil design issues before building design becomes locked. That early review is usually cheaper than redesigning a secondary dwelling after access, drainage or services object to being ignored."
+        ],
+      }
+    ],
+    resources: [
+      {
+        label: "Sunshine Coast Planning Scheme 2014",
+        href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014",
+      },
+      {
+        label: "Development.i site report",
+        href: "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report",
+      }
+    ],
+  },
+  {
+    slug: "dual-occupancy-sunshine-coast-approval-and-civil-design-risks",
+    title: "Dual occupancy Sunshine Coast: approval and civil design risks",
+    description: "What Sunshine Coast owners and developers should check before pursuing a dual occupancy, from planning assessment to parking, access, drainage and flood constraints.",
+    date: "2026-06-29",
+    category: "Approvals",
+    keywords: [
+      "dual occupancy Sunshine Coast",
+      "duplex approval Sunshine Coast",
+      "dual occupancy civil design",
+      "Sunshine Coast dual occupancy parking",
+      "duplex stormwater Sunshine Coast"
+    ],
+    faqs: [
+      {
+        question: "Is a dual occupancy the same as a subdivision?",
+        answer: "No. Dual occupancy usually involves two dwellings on one lot or within a particular title arrangement, while subdivision or reconfiguring a lot creates new lots. The planning pathway and civil requirements differ.",
+      },
+      {
+        question: "What is the biggest civil risk for a duplex?",
+        answer: "Stormwater and access are common risks, especially on sloping sites, narrow frontages or lots affected by flood, easements or limited lawful discharge options.",
+      },
+      {
+        question: "Should CivilCity review the architect concept?",
+        answer: "Yes. A quick civil review can catch driveway, parking, drainage and service problems before the design is too developed to change cheaply.",
+      }
+    ],
+    sections: [
+      {
+        heading: "Why dual occupancy deserves its own article",
+        body: [
+          "Dual occupancy searches are commercially useful because they sit near the decision point: can one lot support two dwellings and is the risk worth paying consultants to test? Existing CivilCity content covers subdivision and townhouses, but dual occupancy sits between those categories.",
+          "The Urbix scheme research found Part 5 assessment-table references for dual occupancy and flood material mentioning floor levels and car parking for dual occupancy and dwelling house uses. That makes this a strong middle-funnel article for Sunshine Coast searches."
+        ],
+      },
+      {
+        heading: "Start with the assessment pathway",
+        body: [
+          "In the Sunshine Coast Planning Scheme, the category of assessment can vary by zone, precinct, local plan and overlay. The RAG research surfaced a Low density residential zone table reference where dual occupancy may be accepted development in some circumstances but not in protected housing areas, with the Dual occupancy code and other benchmarks becoming relevant where assessable.",
+          "That means the first check is not “can I build a duplex?” It is “what does this exact property trigger?” The difference matters because code assessment, impact assessment, local plan provisions and overlays all change time, cost and documentation."
+        ],
+      },
+      {
+        heading: "Civil risks that make or break the layout",
+        body: [
+          "Dual occupancy designs frequently run into parking, driveway width, turning, stormwater discharge, bin collection, frontage constraints and service-connection clashes. A building layout that maximises floor area can accidentally leave no sensible civil solution.",
+          "Flood overlays add another layer. Urbix found Sunshine Coast flood material referencing flood immunity requirements for floor levels and car parking for dual occupancy and dwelling house development. If flood constraints apply, levels and access should be tested early."
+        ],
+      },
+      {
+        heading: "What to check before design gets pretty",
+        body: [
+          "Before investing in polished architectural plans, check zone, local plan, overlays, frontage width, existing services, easements, slope, driveway grade and where stormwater can lawfully discharge. Also check whether the proposal creates a practical address, parking arrangement and construction sequence.",
+          "The boring checks are the money checks. Nice render, terrible driveway is still terrible. Architecture cannot mood-board its way out of a non-compliant access grade."
+        ],
+      },
+      {
+        heading: "How CivilCity supports dual occupancy projects",
+        body: [
+          "CivilCity can review the early concept, identify likely access and stormwater constraints, coordinate with the planner and architect, and prepare civil design inputs for the application or operational works stage if required."
+        ],
+      }
+    ],
+    resources: [
+      {
+        label: "Sunshine Coast Planning Scheme 2014",
+        href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014",
+      },
+      {
+        label: "Development.i site report",
+        href: "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report",
+      }
+    ],
+  },
+  {
+    slug: "medium-density-residential-zone-sunshine-coast-townhouse-feasibility",
+    title: "Medium density residential zone Sunshine Coast: townhouse feasibility checks",
+    description: "How to screen medium density residential sites on the Sunshine Coast before committing to townhouse or multi-unit development design.",
+    date: "2026-06-29",
+    category: "Due diligence",
+    keywords: [
+      "medium density residential Sunshine Coast",
+      "townhouse feasibility Sunshine Coast",
+      "multi unit development Sunshine Coast",
+      "Sunshine Coast townhouse civil engineer",
+      "medium density site due diligence"
+    ],
+    faqs: [
+      {
+        question: "Does Medium density residential zoning guarantee townhouse approval?",
+        answer: "No. It suggests the use may be contemplated, but the proposal still has to satisfy assessment benchmarks, local plan provisions, overlays and practical civil design requirements.",
+      },
+      {
+        question: "What usually reduces townhouse yield?",
+        answer: "Driveway and parking geometry, stormwater detention, flood constraints, retaining walls, service corridors and waste collection often reduce theoretical yield.",
+      },
+      {
+        question: "When should civil feasibility happen?",
+        answer: "Before the concept plan is treated as fixed. Early civil testing can prevent expensive redesign later.",
+      }
+    ],
+    sections: [
+      {
+        heading: "The opportunity and the trap",
+        body: [
+          "Medium density residential land attracts developers because the zoning appears to support more intensive housing. The trap is assuming the zone label does the feasibility work. It does not. The scheme, local plan, overlays and civil design constraints still decide whether the yield is practical.",
+          "Urbix RAG surfaced the Medium density residential zone assessment material and Part 6 zone-purpose content. It also found minimum lot-size table material where medium density residential lots are shown with slope-sensitive outcomes. That creates a useful article for developers screening sites."
+        ],
+      },
+      {
+        heading: "What the scheme material points toward",
+        body: [
+          "The extracted Sunshine Coast material describes the Medium density residential zone as a place where medium density residential activities are contemplated, subject to the applicable zone code, local plan code and prescribed development codes. That is a starting point, not a feasibility conclusion.",
+          "For reconfiguring-a-lot style checks, the extracted table showed Medium density residential zone lot-size outcomes of 800m² on slopes up to 15%, 1,000m² where slope is above 15% and up to 20%, and 1,500m² where slope is above 20%, with rectangle and frontage outcomes also relevant."
+        ],
+      },
+      {
+        heading: "Civil constraints that reduce townhouse yield",
+        body: [
+          "Townhouse feasibility is sensitive to driveway geometry, internal manoeuvring, waste collection, visitor parking, stormwater detention, flood levels, retaining walls, service corridors and construction staging. A site may hold six dwellings in theory and four dwellings once civil reality joins the meeting.",
+          "Early civil input should test driveway grade, vehicle swept paths, finished floor levels, retaining heights, drainage path, detention location and whether the design leaves room for infrastructure instead of treating it like an annoying afterthought."
+        ],
+      },
+      {
+        heading: "A better first-pass process",
+        body: [
+          "Start with a planning and civil screen: zoning, local plan, overlays, nearby approvals, title constraints, levels, services and access. Then prepare a concept that reserves space for drainage, waste, parking and constructability before the building footprint hardens.",
+          "This sequence avoids the classic developer faceplant: paying for a high-yield concept that later has to be dismantled by stormwater, parking or retaining requirements."
+        ],
+      },
+      {
+        heading: "How CivilCity helps",
+        body: [
+          "CivilCity can work with town planners, architects and surveyors to test medium-density development constraints early, then support the DA and operational works pathway with civil design, stormwater, access and documentation."
+        ],
+      }
+    ],
+    resources: [
+      {
+        label: "Sunshine Coast Planning Scheme 2014",
+        href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014",
+      },
+      {
+        label: "Development.i site report",
+        href: "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report",
+      }
+    ],
+  },
+  {
+    slug: "stormwater-management-plan-sunshine-coast-when-development-needs-one",
+    title: "Stormwater management plan Sunshine Coast: when development needs one",
+    description: "A developer-focused guide to stormwater management plans on the Sunshine Coast, including lawful discharge, detention, flooding, water quality and council expectations.",
+    date: "2026-06-29",
+    category: "Stormwater",
+    keywords: [
+      "stormwater management plan Sunshine Coast",
+      "Sunshine Coast stormwater code",
+      "lawful point of discharge Sunshine Coast",
+      "stormwater detention Sunshine Coast",
+      "civil engineer stormwater plan"
+    ],
+    faqs: [
+      {
+        question: "Is stormwater only needed at operational works stage?",
+        answer: "No. Stormwater constraints should be checked during feasibility and DA design because they can affect layout, yield, levels and approval risk.",
+      },
+      {
+        question: "What is lawful point of discharge?",
+        answer: "It is the lawful and practical location or system where site stormwater can discharge without causing nuisance or unacceptable impacts. It is often central to feasibility.",
+      },
+      {
+        question: "Can detention be solved later?",
+        answer: "Sometimes, but leaving detention until late can force redesign if there is no space, level difference or maintenance access for the preferred solution.",
+      }
+    ],
+    sections: [
+      {
+        heading: "Why this is a priority topic",
+        body: [
+          "Stormwater is one of CivilCity’s strongest commercial SEO angles because it is both searchable and painful. Developers usually search after someone has mentioned detention, lawful point of discharge or a council information request. That is buying-intent SEO wearing steel-cap boots.",
+          "The Urbix RAG pulled Sunshine Coast Flooding and Stormwater Management Guidelines excerpts, Stormwater Management Code references, PSPDW SC6.14 drainage-design notes and detention implementation guidance. This article turns that source base into a practical decision guide."
+        ],
+      },
+      {
+        heading: "What a stormwater management plan has to answer",
+        body: [
+          "A stormwater management plan needs to explain how the development handles quantity, quality, lawful discharge, flooding, overland flow and ongoing maintenance. For many projects, the key question is whether post-development runoff can be managed without worsening impacts on other land or creating infrastructure Council does not want to inherit.",
+          "The extracted guideline material notes that stormwater assets should be effective and responsive over their design life, avoid becoming a burden or liability for Council, and be informed by current models, mapping and datasets. In plain English: do the drainage properly, prove it, and do not donate a future headache."
+        ],
+      },
+      {
+        heading: "Lawful point of discharge comes first",
+        body: [
+          "A lawful point of discharge is the practical anchor for the stormwater strategy. If there is no clear discharge path, the rest of the design becomes harder. Detention, easements, inter-allotment drainage, pump systems or redesign may all enter the conversation.",
+          "Urbix surfaced guidance around drainage design requirements in PSPDW SC6.14.3.3 and detention basin requirements in SC6.14.3.5. Those references are useful because they show stormwater is not just a pipe-size exercise. It is about system behaviour, ownership, maintenance and risk."
+        ],
+      },
+      {
+        heading: "When detention or water quality may matter",
+        body: [
+          "Detention may be required where development increases runoff or where council policy expects peak-flow management. Water quality controls may also be relevant depending on development type, site size and receiving environment.",
+          "The early feasibility question is where the stormwater infrastructure can physically go. A detention basin, tank, bio-retention area or proprietary treatment device still needs space, levels, access and a maintenance story. If the concept leaves no room for it, the concept is not finished."
+        ],
+      },
+      {
+        heading: "How CivilCity helps",
+        body: [
+          "CivilCity can review stormwater constraints, identify lawful discharge options, prepare stormwater management plans, coordinate with planners and architects, and support operational works or condition-response packages."
+        ],
+      }
+    ],
+    resources: [
+      {
+        label: "Sunshine Coast Planning Scheme 2014",
+        href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014",
+      },
+      {
+        label: "Development.i site report",
+        href: "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report",
+      }
+    ],
+  },
+  {
+    slug: "landslide-hazard-and-steep-land-overlay-sunshine-coast-development",
+    title: "Landslide hazard and steep land overlay Sunshine Coast: development checks",
+    description: "What developers should check when a Sunshine Coast site is affected by the landslide hazard and steep land overlay, including slope, geotechnical risk, access and earthworks.",
+    date: "2026-06-30",
+    category: "Planning",
+    keywords: [
+      "landslide hazard overlay Sunshine Coast",
+      "steep land overlay Sunshine Coast",
+      "Sunshine Coast steep site development",
+      "geotechnical assessment Sunshine Coast",
+      "civil engineer steep land"
+    ],
+    faqs: [
+      {
+        question: "What slope can trigger steep land concern?",
+        answer: "The scheme material references steep land as slopes of 15% or greater on the Landslide Hazard and Steep Land Overlay Maps, but site-specific mapping and assessment should be checked.",
+      },
+      {
+        question: "Do I always need a geotechnical report?",
+        answer: "Not always for every early conversation, but mapped steep land or landslide risk may require geotechnical input for assessment and design.",
+      },
+      {
+        question: "What is the biggest civil issue on steep sites?",
+        answer: "Driveway grade, retaining, stormwater velocity and safe construction access are common issues that can materially change feasibility.",
+      }
+    ],
+    sections: [
+      {
+        heading: "Why steep land is a separate feasibility problem",
+        body: [
+          "Steep land can quietly destroy a development budget. It changes driveway grades, earthworks, retaining, drainage, construction access and sometimes minimum lot-size outcomes. On the Sunshine Coast, it can also trigger the Landslide hazard and steep land overlay.",
+          "Urbix RAG found Sunshine Coast Planning Scheme Part 8 overlay material stating that landslide hazard areas and steep land, including slopes of 15% or greater, are identified on the Landslide Hazard and Steep Land Overlay Maps. It also references planning scheme policy guidance and site-specific geotechnical assessment."
+        ],
+      },
+      {
+        heading: "What the overlay is trying to avoid",
+        body: [
+          "The overlay is about risk to people, property and infrastructure. Extracted scheme material points to avoiding development on steep land where risk is unacceptable and ensuring any necessary stabilisation measures identified by site-specific geotechnical assessment are implemented.",
+          "For developers, this means slope is not just a contour-line inconvenience. It can determine whether the layout, access and earthworks are acceptable."
+        ],
+      },
+      {
+        heading: "Civil issues to check early",
+        body: [
+          "Check driveway grade, road tie-in levels, retaining wall heights, cut and fill, building-pad levels, stormwater velocity, scour, construction access and whether the site can be drained without concentrating flow onto neighbours.",
+          "The more the design fights the landform, the more the project pays in walls, reports, redesign and construction risk. Civil feasibility should happen before the architectural concept becomes a concrete poem to gravity."
+        ],
+      },
+      {
+        heading: "What information helps",
+        body: [
+          "A feature and level survey is extremely valuable. Add the Development.i site report, overlay mapping, any geotechnical information, photos of the site and surrounding roads, and the proposed development yield.",
+          "With those inputs, CivilCity can quickly flag whether the site needs deeper geotechnical advice, a different access strategy, or a lower-impact layout."
+        ],
+      },
+      {
+        heading: "How CivilCity helps",
+        body: [
+          "CivilCity can test steep-site feasibility, coordinate with geotechnical consultants, review access and drainage constraints, and shape civil documentation so the design responds to the site instead of pretending the Sunshine Coast is flat. Bold strategy. Usually false."
+        ],
+      }
+    ],
+    resources: [
+      {
+        label: "Sunshine Coast Planning Scheme 2014",
+        href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014",
+      },
+      {
+        label: "Development.i site report",
+        href: "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report",
+      }
+    ],
+  },
+  {
+    slug: "bushfire-hazard-overlay-sunshine-coast-subdivision-development-checks",
+    title: "Bushfire hazard overlay Sunshine Coast: subdivision and development checks",
+    description: "How the Sunshine Coast bushfire hazard overlay can affect subdivision, access, building envelopes, setbacks and development application material.",
+    date: "2026-06-30",
+    category: "Planning",
+    keywords: [
+      "bushfire hazard overlay Sunshine Coast",
+      "Sunshine Coast bushfire development",
+      "bushfire overlay subdivision Sunshine Coast",
+      "building envelope bushfire Sunshine Coast",
+      "civil engineer bushfire access"
+    ],
+    faqs: [
+      {
+        question: "Does bushfire mapping mean a site cannot be developed?",
+        answer: "Not automatically. It means the hazard and relevant assessment benchmarks need to be checked and the design may need a specific response.",
+      },
+      {
+        question: "Why does a civil engineer care about bushfire?",
+        answer: "Because bushfire responses can affect access, road layout, turnarounds, water supply, building envelopes and earthworks.",
+      },
+      {
+        question: "Should bushfire be checked before subdivision layout?",
+        answer: "Yes. It can affect lot layout and access strategy, so it should be reviewed before the concept plan is treated as fixed.",
+      }
+    ],
+    sections: [
+      {
+        heading: "Why bushfire belongs in the civil feasibility conversation",
+        body: [
+          "Bushfire is often treated as a specialist planning or bushfire-consultant topic, but it affects civil layout. Access, road design, lot layout, building envelopes, vegetation retention, water supply and emergency movement can all become relevant.",
+          "Urbix RAG found Sunshine Coast Part 8 Bushfire hazard overlay code material, Part 5 assessment triggers and SC6.7 planning scheme policy guidance. It also surfaced biodiversity overlay text noting that bushfire hazard can require greater setbacks in some circumstances."
+        ],
+      },
+      {
+        heading: "The overlay can change the project shape",
+        body: [
+          "For subdivision, bushfire constraints can influence where lots and building envelopes sit, how access roads are designed, whether vegetation is retained or cleared, and what supporting reports are needed. A layout that looks efficient on paper may become awkward if bushfire separation, access and ecological constraints pull in different directions.",
+          "The extracted SC6.7 policy material says its purpose includes advice about achieving outcomes in the Bushfire hazard overlay code and guidance about information that may be required to support a development application. That is a polite planning-scheme way of saying: bring evidence, not vibes."
+        ],
+      },
+      {
+        heading: "Civil checks to run with bushfire advice",
+        body: [
+          "Check whether the access arrangement supports emergency movement, whether road widths and turnarounds are practical, whether water supply arrangements are clear, and whether building envelopes can sit outside the most constrained parts of the site.",
+          "If biodiversity, waterways, steep land or flood overlays also apply, the design needs a coordinated response. Moving a driveway to solve bushfire access can create stormwater, earthworks or ecological impacts elsewhere."
+        ],
+      },
+      {
+        heading: "When to involve consultants",
+        body: [
+          "For mapped bushfire hazard sites, involve the planner, bushfire consultant and civil engineer early. The team can then test whether the lot layout, access, services and stormwater strategy are compatible with the bushfire response.",
+          "That is cheaper than each consultant solving their own problem in isolation and leaving the developer with a Frankenstein layout nobody wants to build."
+        ],
+      },
+      {
+        heading: "How CivilCity helps",
+        body: [
+          "CivilCity can work with bushfire and planning consultants to test access, road geometry, stormwater, services and construction constraints for Sunshine Coast subdivision and development sites affected by bushfire mapping."
+        ],
+      }
+    ],
+    resources: [
+      {
+        label: "Sunshine Coast Planning Scheme 2014",
+        href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014",
+      },
+      {
+        label: "Development.i site report",
+        href: "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report",
+      }
+    ],
+  },
+  {
+    slug: "acid-sulfate-soils-overlay-sunshine-coast-earthworks-development-risk",
+    title: "Acid sulfate soils overlay Sunshine Coast: earthworks and development risk",
+    description: "A plain-English guide to acid sulfate soils overlay checks on the Sunshine Coast, including excavation, filling, low-lying land and development application risk.",
+    date: "2026-06-30",
+    category: "Earthworks",
+    keywords: [
+      "acid sulfate soils overlay Sunshine Coast",
+      "Sunshine Coast acid sulfate soils",
+      "earthworks acid sulfate soils",
+      "ASS investigation report Sunshine Coast",
+      "development earthworks Sunshine Coast"
+    ],
+    faqs: [
+      {
+        question: "What is Area 1 in the acid sulfate soils overlay?",
+        answer: "The extracted Sunshine Coast scheme material refers to Area 1 as land at or below 5 metres AHD. Always check the current overlay mapping for the specific site.",
+      },
+      {
+        question: "Can a small project trigger acid sulfate soils assessment?",
+        answer: "It can if excavation, filling, trenching or other disturbance meets relevant triggers or occurs in sensitive mapped areas.",
+      },
+      {
+        question: "Who should check this before construction?",
+        answer: "A planner, civil engineer and, where needed, geotechnical or environmental specialist should review the overlay and proposed earthworks.",
+      }
+    ],
+    sections: [
+      {
+        heading: "The hidden risk below the nice flat site",
+        body: [
+          "Flat coastal land can look easy until earthworks, filling or service trenches trigger acid sulfate soils considerations. On the Sunshine Coast, the Acid sulfate soils overlay is one of those constraints buyers and small developers often notice too late.",
+          "Urbix RAG found Sunshine Coast Part 8 Acid sulfate soils overlay material and Part 5 assessment triggers. The extracted text references overlay mapping for Area 1 land at or below 5m AHD and Area 2 land above 5m AHD and below 20m AHD."
+        ],
+      },
+      {
+        heading: "What can trigger concern",
+        body: [
+          "The extracted Part 5 material references code assessment triggers involving excavation or removal of 100m³ or more of soil or sediment in Area 1, and filling of 500m³ or more with an average depth of 0.5m or greater. It also refers to relevant checks in Area 2.",
+          "Those numbers are not a substitute for a current planning assessment, but they are useful screening flags. If the project involves bulk earthworks, trenches, basements, retaining or imported fill on mapped land, check the overlay early."
+        ],
+      },
+      {
+        heading: "Why civil design matters",
+        body: [
+          "Acid sulfate soils can affect earthworks methodology, site levels, trenching, dewatering, treatment, construction cost and reporting. The civil design should understand the likely cut and fill volumes before the project assumes the overlay is a minor paperwork item.",
+          "A design that minimises unnecessary disturbance can reduce risk. A design that discovers the issue during construction has chosen the expensive tutorial mode."
+        ],
+      },
+      {
+        heading: "What to check before purchase or DA",
+        body: [
+          "Review the Development.i report, overlay mapping, approximate AHD levels, proposed earthworks volumes, service routes and whether the development needs deep excavation. If the site sits in low-lying coastal areas, do not skip the check just because the land looks simple.",
+          "If triggers are likely, the project may need specialist soil investigation and an acid sulfate soils management approach."
+        ],
+      },
+      {
+        heading: "How CivilCity helps",
+        body: [
+          "CivilCity can test early earthworks implications, coordinate with geotechnical or environmental specialists, and shape civil design to reduce avoidable excavation, filling and construction risk."
+        ],
+      }
+    ],
+    resources: [
+      {
+        label: "Sunshine Coast Planning Scheme 2014",
+        href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014",
+      },
+      {
+        label: "Development.i site report",
+        href: "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report",
+      }
+    ],
+  },
+  {
+    slug: "transport-and-parking-code-sunshine-coast-small-development-checks",
+    title: "Transport and parking code Sunshine Coast: small development checks",
+    description: "How Sunshine Coast developers should think about parking, service vehicles, access, road hierarchy and transport code issues before lodging a small development application.",
+    date: "2026-06-30",
+    category: "Access",
+    keywords: [
+      "transport and parking code Sunshine Coast",
+      "Sunshine Coast parking requirements development",
+      "service vehicle access Sunshine Coast",
+      "road hierarchy Sunshine Coast",
+      "swept path Sunshine Coast"
+    ],
+    faqs: [
+      {
+        question: "Do small developments need swept path checks?",
+        answer: "Often yes, especially where access is constrained, service vehicles are needed, or council needs confidence vehicles can enter and exit safely.",
+      },
+      {
+        question: "Is parking just a town planning issue?",
+        answer: "No. Planning sets requirements, but civil and traffic design determine whether the spaces and manoeuvring actually work.",
+      },
+      {
+        question: "When should access be checked?",
+        answer: "At concept stage, before the building footprint, landscaping and services lock out the best access solution.",
+      }
+    ],
+    sections: [
+      {
+        heading: "Parking is not a spreadsheet-only problem",
+        body: [
+          "Parking ratios matter, but the civil issue is whether vehicles can enter, turn, park, service the site and leave safely. On constrained Sunshine Coast sites, transport compliance often lives or dies in the geometry.",
+          "Urbix RAG found Sunshine Coast Transport and Parking Code section 9.4.8 material, including service vehicle requirements, public transport and cycling references, and SC6.17 road hierarchy standards. That gives CivilCity a strong technical content angle."
+        ],
+      },
+      {
+        heading: "What the code is trying to achieve",
+        body: [
+          "The extracted Transport and Parking Code material refers to providing parking and service vehicle arrangements in accordance with the planning scheme policy. It includes development involving residential, business, community, industrial, sport and recreation and other activity groups.",
+          "For developers, that means the access design should be tested by use, vehicle type, intensity and site context. A small commercial tenancy, townhouse project and childcare centre can have very different vehicle problems."
+        ],
+      },
+      {
+        heading: "Road hierarchy changes the design context",
+        body: [
+          "The RAG research also surfaced Table SC6.17B urban transport corridor data, including street types, typical catchments, traffic volumes, design speeds and reserve widths. Road context matters because driveway location, sight distance, manoeuvring and frontage works are not judged in a vacuum.",
+          "If the site fronts a busier road or constrained street, early access advice is valuable before the building layout consumes the only workable driveway location."
+        ],
+      },
+      {
+        heading: "Common mistakes",
+        body: [
+          "Common mistakes include counting parking spaces without checking swept paths, ignoring service vehicles, assuming tandem parking will be acceptable, placing bin storage where collection cannot work, and leaving accessible parking or pedestrian paths to the last minute.",
+          "These mistakes are boring. They are also excellent at creating information requests and redesign costs, because bureaucracy apparently hates magical thinking."
+        ],
+      },
+      {
+        heading: "How CivilCity helps",
+        body: [
+          "CivilCity can review access, parking layout, swept paths, driveway grades, frontage constraints and service vehicle needs, then coordinate with traffic engineers or planners where a formal transport response is needed."
+        ],
+      }
+    ],
+    resources: [
+      {
+        label: "Sunshine Coast Planning Scheme 2014",
+        href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014",
+      },
+      {
+        label: "Development.i site report",
+        href: "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report",
+      }
+    ],
+  },
+  {
+    slug: "small-lot-housing-sunshine-coast-planning-civil-feasibility-checks",
+    title: "Small lot housing Sunshine Coast: planning and civil feasibility checks",
+    description: "What to check before pursuing small lot housing on the Sunshine Coast, including lot dimensions, slope, access, parking, services and stormwater.",
+    date: "2026-06-30",
+    category: "Subdivision",
+    keywords: [
+      "small lot housing Sunshine Coast",
+      "Sunshine Coast small lot subdivision",
+      "small lot civil design Sunshine Coast",
+      "minimum lot dimensions Sunshine Coast",
+      "small lot housing code Sunshine Coast"
+    ],
+    faqs: [
+      {
+        question: "Can a local plan change minimum lot requirements?",
+        answer: "It can vary some minimum lot-size and dimension outcomes, but the extracted scheme material notes this does not override larger lot-size requirements on sloping sites where those apply.",
+      },
+      {
+        question: "Why are small lots harder civil-design projects?",
+        answer: "Because access, parking, services, stormwater and retaining have less room to work, so small layout errors create bigger consequences.",
+      },
+      {
+        question: "Should small-lot feasibility include levels?",
+        answer: "Yes. Levels are critical for driveway grades, retaining, drainage and building-pad design.",
+      }
+    ],
+    sections: [
+      {
+        heading: "Small lots need more discipline, not less",
+        body: [
+          "Small lot housing can improve yield, but it removes tolerance. Driveways, parking, bin storage, services, stormwater and building envelopes all compete for the same limited space. The smaller the lot, the less room there is for sloppy assumptions.",
+          "Urbix RAG surfaced Sunshine Coast Part 9 development-code material noting that local plans or structure plans may vary minimum lot-size requirements, but do not override larger lot-size requirements on sloping sites where relevant. That is a useful warning for small-lot feasibility."
+        ],
+      },
+      {
+        heading: "Lot size and dimensions are only the opening move",
+        body: [
+          "The extracted material around Table 9.4.4.3.2 includes minimum lot-size and dimension concepts, with slope categories affecting outcomes. It also points out that local plans or structure plans can vary some requirements.",
+          "That means the same apparent yield may behave differently depending on local plan area, slope, frontage, road context and overlay mapping. A spreadsheet can say “six lots”; the driveway, stormwater and retaining wall may vote for fewer. Democracy is harsh."
+        ],
+      },
+      {
+        heading: "Civil design pressure points",
+        body: [
+          "Small lots are sensitive to driveway grades, garage levels, pedestrian access, retaining, inter-allotment drainage, roofwater discharge, service alignments and waste collection. A minor level change can cascade into wall heights, driveway non-compliance and awkward drainage.",
+          "The civil strategy should be tested before the subdivision plan is treated as final. Early engineering can often rescue yield by setting sensible pad levels, access locations and drainage corridors."
+        ],
+      },
+      {
+        heading: "What to review before lodging",
+        body: [
+          "Check the local plan, zone, overlays, slope, lot dimensions, rectangle requirements, frontage, access type, servicing path and stormwater route. Also compare nearby approvals, but do not assume a neighbouring approval means your site has the same constraints.",
+          "Good small-lot design is not about squeezing every centimetre. It is about leaving enough room for the unglamorous infrastructure that makes the project approvable and buildable."
+        ],
+      },
+      {
+        heading: "How CivilCity helps",
+        body: [
+          "CivilCity can work with surveyors, planners and designers to test small-lot layouts, levels, access, drainage, services and operational works requirements for Sunshine Coast projects."
+        ],
+      }
+    ],
+    resources: [
+      {
+        label: "Sunshine Coast Planning Scheme 2014",
+        href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014",
+      },
+      {
+        label: "Development.i site report",
+        href: "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report",
+      }
+    ],
+  },
 ];
 
 export function getBlogPost(slug: string) {
   return blogPosts.find((post) => post.slug === slug);
 }
+
+export const latestBlogPosts = [...blogPosts].sort(
+  (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+);
 
 export function getBlogImage(category: string, slug?: string) {
   const bySlug: Record<string, string> = {
@@ -2338,6 +3086,7 @@ export function getBlogImage(category: string, slug?: string) {
     "Due diligence": imagery.coast,
     Access: imagery.road,
     Construction: imagery.construction,
+    Earthworks: imagery.construction,
     Planning: imagery.documentation,
     Tendering: "/insight-tender-earthworks-quantity-surveying.webp",
   };

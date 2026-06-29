@@ -10,7 +10,7 @@ import {
   Ruler,
   Waves,
 } from "lucide-react";
-import { blogPosts, imagery, services, site } from "@/lib/site";
+import { imagery, latestBlogPosts, services, site } from "@/lib/site";
 
 const priorityServices = [
   "civil-engineering-advice",
@@ -282,7 +282,7 @@ export default function Home() {
             <h2 className="section-title mt-5">Practical notes for planning and approval decisions.</h2>
           </div>
           <div className="divide-y divide-walnut border-y border-walnut">
-            {blogPosts.slice(0, 3).map((post) => (
+            {latestBlogPosts.slice(0, 3).map((post) => (
               <Link key={post.slug} href={`/insights/${post.slug}`} className="group grid gap-4 py-6 sm:grid-cols-[140px_1fr_auto]">
                 <span className="eyebrow">{post.category}</span>
                 <span>

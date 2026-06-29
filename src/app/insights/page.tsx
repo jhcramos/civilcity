@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, BadgeCheck, ClipboardCheck, FileText } from "lucide-react";
 import { PageHero } from "@/components/page-hero";
-import { blogPosts, getBlogImage, imagery } from "@/lib/site";
+import { getBlogImage, imagery, latestBlogPosts } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Civil Engineering Insights",
@@ -45,7 +45,7 @@ export default function InsightsPage() {
       />
       <section className="cream-site-section section-pad">
         <div className="mx-auto grid max-w-7xl gap-5 px-4 sm:px-6 md:grid-cols-2 lg:grid-cols-3 lg:px-8">
-          {blogPosts.map((post) => (
+          {latestBlogPosts.map((post) => (
             <Link key={post.slug} href={`/insights/${post.slug}`} className="site-card group">
               <div className="relative aspect-[16/10]">
                 <Image
