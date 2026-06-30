@@ -2328,16 +2328,16 @@ export const blogPosts: BlogPost[] = [
     ],
     sections: [
       {
-        heading: "The SEO gap this article fills",
+        heading: "Why lot size is only the first question",
         body: [
           "Owners often search for a simple lot-size answer: can this low density residential block be split? The useful answer is more specific. Under the Sunshine Coast Planning Scheme material, lot size is only one input. A development still needs to work against zoning, local plan provisions, overlays, access, slope, stormwater discharge and services.",
-          "The Urbix planning-scheme research surfaced the Reconfiguring a Lot material and Table 9.4.4.3.2 minimum lot-size data. It is exactly the kind of source-backed detail that generic property blogs usually miss. Tiny SEO win, large nerd satisfaction."
+          "The Sunshine Coast Planning Scheme includes Reconfiguring a Lot provisions and minimum lot-size guidance that can vary with slope and zone. Those details matter because a simple lot-size number rarely tells the whole feasibility story."
         ],
       },
       {
         heading: "Minimum lot size is a first filter, not a permission slip",
         body: [
-          "For standard Reconfiguring a Lot checks, the scheme material identifies minimum lot-size outcomes for different zones and slopes. The extracted table shows Low density residential zone lots at 600m² on slopes up to 15%, 1,000m² where slope is above 15% and up to 20%, and 1,500m² where slope is above 20%. It also indicates a 15m by 20m minimum rectangle and 15m frontage for the low density residential zone.",
+          "For standard Reconfiguring a Lot checks, the planning scheme identifies minimum lot-size outcomes for different zones and slopes. For Low density residential zone lots, the table indicates 600m² on slopes up to 15%, 1,000m² where slope is above 15% and up to 20%, and 1,500m² where slope is above 20%. It also indicates a 15m by 20m minimum rectangle and 15m frontage for the low density residential zone.",
           "Those figures help screen a site quickly, but they do not replace a proper assessment. Local plans, overlays, frontage shape, easements, access geometry and stormwater often decide whether the theoretical yield survives contact with the real world."
         ],
       },
@@ -2406,17 +2406,17 @@ export const blogPosts: BlogPost[] = [
     ],
     sections: [
       {
-        heading: "Why secondary dwellings are a good SEO target",
+        heading: "Why secondary dwellings deserve early civil checks",
         body: [
           "Secondary dwellings attract high-intent searches from owners who are close to action: they want to know if they can add a small dwelling, what approvals apply and what could blow out cost. The planning answer matters, but civil constraints often decide the budget.",
-          "The Urbix RAG pulled Sunshine Coast Planning Scheme excerpts referencing secondary dwelling provisions, parking outcomes, and schedule definitions. That gives CivilCity a stronger article than the usual “ask council” fluff sandwich."
+          "The Sunshine Coast Planning Scheme includes secondary dwelling provisions, parking outcomes and relevant schedule definitions. For owners, the important point is that a small dwelling can still create real access, parking, drainage and servicing questions."
         ],
       },
       {
         heading: "Planning permission is only half the question",
         body: [
           "A secondary dwelling may appear simple because it sits on an existing lot. In practice, the project still has to work with access, parking, stormwater, sewer, water, earthworks, retaining, building location and any mapped overlays.",
-          "The scheme material extracted by Urbix includes access and car parking outcomes in Part 9, with on-site car parking expectations for dwelling-house related development. The exact pathway depends on zone, lot size, overlays and the proposed design."
+          "The planning scheme includes access and car parking outcomes in Part 9, with on-site car parking expectations for dwelling-house related development. The exact pathway depends on zone, lot size, overlays and the proposed design."
         ],
       },
       {
@@ -2483,13 +2483,13 @@ export const blogPosts: BlogPost[] = [
         heading: "Why dual occupancy deserves its own article",
         body: [
           "Dual occupancy searches are commercially useful because they sit near the decision point: can one lot support two dwellings and is the risk worth paying consultants to test? Existing CivilCity content covers subdivision and townhouses, but dual occupancy sits between those categories.",
-          "The Urbix scheme research found Part 5 assessment-table references for dual occupancy and flood material mentioning floor levels and car parking for dual occupancy and dwelling house uses. That makes this a strong middle-funnel article for Sunshine Coast searches."
+          "The Sunshine Coast Planning Scheme includes assessment-table references for dual occupancy, along with flood-related material that can affect floor levels and car parking for dual occupancy and dwelling-house uses. Those checks matter before a concept layout becomes fixed."
         ],
       },
       {
         heading: "Start with the assessment pathway",
         body: [
-          "In the Sunshine Coast Planning Scheme, the category of assessment can vary by zone, precinct, local plan and overlay. The RAG research surfaced a Low density residential zone table reference where dual occupancy may be accepted development in some circumstances but not in protected housing areas, with the Dual occupancy code and other benchmarks becoming relevant where assessable.",
+          "In the Sunshine Coast Planning Scheme, the category of assessment can vary by zone, precinct, local plan and overlay. Low density residential zone provisions may allow dual occupancy in some circumstances, but not in protected housing areas, with the Dual occupancy code and other benchmarks becoming relevant where assessable.",
           "That means the first check is not “can I build a duplex?” It is “what does this exact property trigger?” The difference matters because code assessment, impact assessment, local plan provisions and overlays all change time, cost and documentation."
         ],
       },
@@ -2497,7 +2497,7 @@ export const blogPosts: BlogPost[] = [
         heading: "Civil risks that make or break the layout",
         body: [
           "Dual occupancy designs frequently run into parking, driveway width, turning, stormwater discharge, bin collection, frontage constraints and service-connection clashes. A building layout that maximises floor area can accidentally leave no sensible civil solution.",
-          "Flood overlays add another layer. Urbix found Sunshine Coast flood material referencing flood immunity requirements for floor levels and car parking for dual occupancy and dwelling house development. If flood constraints apply, levels and access should be tested early."
+          "Flood overlays add another layer. Sunshine Coast flood provisions can reference flood immunity requirements for floor levels and car parking for dual occupancy and dwelling-house development. If flood constraints apply, levels and access should be tested early."
         ],
       },
       {
@@ -2557,14 +2557,14 @@ export const blogPosts: BlogPost[] = [
         heading: "The opportunity and the trap",
         body: [
           "Medium density residential land attracts developers because the zoning appears to support more intensive housing. The trap is assuming the zone label does the feasibility work. It does not. The scheme, local plan, overlays and civil design constraints still decide whether the yield is practical.",
-          "Urbix RAG surfaced the Medium density residential zone assessment material and Part 6 zone-purpose content. It also found minimum lot-size table material where medium density residential lots are shown with slope-sensitive outcomes. That creates a useful article for developers screening sites."
+          "The Sunshine Coast Planning Scheme sets out Medium density residential zone purposes and assessment material. It also includes minimum lot-size guidance where medium density residential lots can have slope-sensitive outcomes, which is useful for developers screening sites."
         ],
       },
       {
         heading: "What the scheme material points toward",
         body: [
-          "The extracted Sunshine Coast material describes the Medium density residential zone as a place where medium density residential activities are contemplated, subject to the applicable zone code, local plan code and prescribed development codes. That is a starting point, not a feasibility conclusion.",
-          "For reconfiguring-a-lot style checks, the extracted table showed Medium density residential zone lot-size outcomes of 800m² on slopes up to 15%, 1,000m² where slope is above 15% and up to 20%, and 1,500m² where slope is above 20%, with rectangle and frontage outcomes also relevant."
+          "The Sunshine Coast Planning Scheme describes the Medium density residential zone as a place where medium density residential activities are contemplated, subject to the applicable zone code, local plan code and prescribed development codes. That is a starting point, not a feasibility conclusion.",
+          "For reconfiguring-a-lot style checks, the planning scheme table shows Medium density residential zone lot-size outcomes of 800m² on slopes up to 15%, 1,000m² where slope is above 15% and up to 20%, and 1,500m² where slope is above 20%, with rectangle and frontage outcomes also relevant."
         ],
       },
       {
@@ -2630,22 +2630,22 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Why this is a priority topic",
         body: [
-          "Stormwater is one of CivilCity’s strongest commercial SEO angles because it is both searchable and painful. Developers usually search after someone has mentioned detention, lawful point of discharge or a council information request. That is buying-intent SEO wearing steel-cap boots.",
-          "The Urbix RAG pulled Sunshine Coast Flooding and Stormwater Management Guidelines excerpts, Stormwater Management Code references, PSPDW SC6.14 drainage-design notes and detention implementation guidance. This article turns that source base into a practical decision guide."
+          "Stormwater is one of the earliest practical constraints developers should test because it can change layout, levels, cost and approval risk. Many owners only look closely after someone mentions detention, lawful point of discharge or a council information request.",
+          "Sunshine Coast stormwater guidance includes flooding and stormwater management expectations, Stormwater Management Code references, PSPDW SC6.14 drainage-design notes and detention implementation guidance. The practical question is how those requirements affect the actual site layout."
         ],
       },
       {
         heading: "What a stormwater management plan has to answer",
         body: [
           "A stormwater management plan needs to explain how the development handles quantity, quality, lawful discharge, flooding, overland flow and ongoing maintenance. For many projects, the key question is whether post-development runoff can be managed without worsening impacts on other land or creating infrastructure Council does not want to inherit.",
-          "The extracted guideline material notes that stormwater assets should be effective and responsive over their design life, avoid becoming a burden or liability for Council, and be informed by current models, mapping and datasets. In plain English: do the drainage properly, prove it, and do not donate a future headache."
+          "Council stormwater guidance expects stormwater assets to be effective and responsive over their design life, avoid becoming a burden or liability for Council, and be informed by current models, mapping and datasets. In plain English: do the drainage properly, prove it, and do not donate a future headache."
         ],
       },
       {
         heading: "Lawful point of discharge comes first",
         body: [
           "A lawful point of discharge is the practical anchor for the stormwater strategy. If there is no clear discharge path, the rest of the design becomes harder. Detention, easements, inter-allotment drainage, pump systems or redesign may all enter the conversation.",
-          "Urbix surfaced guidance around drainage design requirements in PSPDW SC6.14.3.3 and detention basin requirements in SC6.14.3.5. Those references are useful because they show stormwater is not just a pipe-size exercise. It is about system behaviour, ownership, maintenance and risk."
+          "PSPDW SC6.14.3.3 addresses drainage design requirements, while SC6.14.3.5 deals with detention basin requirements. Those references show stormwater is not just a pipe-size exercise. It is about system behaviour, ownership, maintenance and risk."
         ],
       },
       {
@@ -2705,13 +2705,13 @@ export const blogPosts: BlogPost[] = [
         heading: "Why steep land is a separate feasibility problem",
         body: [
           "Steep land can quietly destroy a development budget. It changes driveway grades, earthworks, retaining, drainage, construction access and sometimes minimum lot-size outcomes. On the Sunshine Coast, it can also trigger the Landslide hazard and steep land overlay.",
-          "Urbix RAG found Sunshine Coast Planning Scheme Part 8 overlay material stating that landslide hazard areas and steep land, including slopes of 15% or greater, are identified on the Landslide Hazard and Steep Land Overlay Maps. It also references planning scheme policy guidance and site-specific geotechnical assessment."
+          "The Sunshine Coast Planning Scheme identifies landslide hazard areas and steep land through the Landslide Hazard and Steep Land Overlay Maps. Steep land can include slopes of 15% or greater, and mapped sites may require planning scheme policy guidance and site-specific geotechnical assessment."
         ],
       },
       {
         heading: "What the overlay is trying to avoid",
         body: [
-          "The overlay is about risk to people, property and infrastructure. Extracted scheme material points to avoiding development on steep land where risk is unacceptable and ensuring any necessary stabilisation measures identified by site-specific geotechnical assessment are implemented.",
+          "The overlay is about risk to people, property and infrastructure. The planning scheme points to avoiding development on steep land where risk is unacceptable and ensuring any necessary stabilisation measures identified by site-specific geotechnical assessment are implemented.",
           "For developers, this means slope is not just a contour-line inconvenience. It can determine whether the layout, access and earthworks are acceptable."
         ],
       },
@@ -2779,14 +2779,14 @@ export const blogPosts: BlogPost[] = [
         heading: "Why bushfire belongs in the civil feasibility conversation",
         body: [
           "Bushfire is often treated as a specialist planning or bushfire-consultant topic, but it affects civil layout. Access, road design, lot layout, building envelopes, vegetation retention, water supply and emergency movement can all become relevant.",
-          "Urbix RAG found Sunshine Coast Part 8 Bushfire hazard overlay code material, Part 5 assessment triggers and SC6.7 planning scheme policy guidance. It also surfaced biodiversity overlay text noting that bushfire hazard can require greater setbacks in some circumstances."
+          "The Sunshine Coast Planning Scheme includes Part 8 Bushfire hazard overlay code material, Part 5 assessment triggers and SC6.7 planning scheme policy guidance. Biodiversity overlay provisions can also interact with bushfire constraints and may require greater setbacks in some circumstances."
         ],
       },
       {
         heading: "The overlay can change the project shape",
         body: [
           "For subdivision, bushfire constraints can influence where lots and building envelopes sit, how access roads are designed, whether vegetation is retained or cleared, and what supporting reports are needed. A layout that looks efficient on paper may become awkward if bushfire separation, access and ecological constraints pull in different directions.",
-          "The extracted SC6.7 policy material says its purpose includes advice about achieving outcomes in the Bushfire hazard overlay code and guidance about information that may be required to support a development application. That is a polite planning-scheme way of saying: bring evidence, not vibes."
+          "SC6.7 planning scheme policy material includes advice about achieving outcomes in the Bushfire hazard overlay code and guidance about information that may be required to support a development application. That is a polite planning-scheme way of saying: bring evidence, not vibes."
         ],
       },
       {
@@ -2837,7 +2837,7 @@ export const blogPosts: BlogPost[] = [
     faqs: [
       {
         question: "What is Area 1 in the acid sulfate soils overlay?",
-        answer: "The extracted Sunshine Coast scheme material refers to Area 1 as land at or below 5 metres AHD. Always check the current overlay mapping for the specific site.",
+        answer: "The Sunshine Coast Planning Scheme refers to Area 1 as land at or below 5 metres AHD. Always check the current overlay mapping for the specific site.",
       },
       {
         question: "Can a small project trigger acid sulfate soils assessment?",
@@ -2853,13 +2853,13 @@ export const blogPosts: BlogPost[] = [
         heading: "The hidden risk below the nice flat site",
         body: [
           "Flat coastal land can look easy until earthworks, filling or service trenches trigger acid sulfate soils considerations. On the Sunshine Coast, the Acid sulfate soils overlay is one of those constraints buyers and small developers often notice too late.",
-          "Urbix RAG found Sunshine Coast Part 8 Acid sulfate soils overlay material and Part 5 assessment triggers. The extracted text references overlay mapping for Area 1 land at or below 5m AHD and Area 2 land above 5m AHD and below 20m AHD."
+          "The Sunshine Coast Planning Scheme includes Part 8 Acid sulfate soils overlay material and Part 5 assessment triggers. The overlay mapping references Area 1 land at or below 5m AHD and Area 2 land above 5m AHD and below 20m AHD."
         ],
       },
       {
         heading: "What can trigger concern",
         body: [
-          "The extracted Part 5 material references code assessment triggers involving excavation or removal of 100m³ or more of soil or sediment in Area 1, and filling of 500m³ or more with an average depth of 0.5m or greater. It also refers to relevant checks in Area 2.",
+          "Part 5 material references code assessment triggers involving excavation or removal of 100m³ or more of soil or sediment in Area 1, and filling of 500m³ or more with an average depth of 0.5m or greater. It also refers to relevant checks in Area 2.",
           "Those numbers are not a substitute for a current planning assessment, but they are useful screening flags. If the project involves bulk earthworks, trenches, basements, retaining or imported fill on mapped land, check the overlay early."
         ],
       },
@@ -2927,20 +2927,20 @@ export const blogPosts: BlogPost[] = [
         heading: "Parking is not a spreadsheet-only problem",
         body: [
           "Parking ratios matter, but the civil issue is whether vehicles can enter, turn, park, service the site and leave safely. On constrained Sunshine Coast sites, transport compliance often lives or dies in the geometry.",
-          "Urbix RAG found Sunshine Coast Transport and Parking Code section 9.4.8 material, including service vehicle requirements, public transport and cycling references, and SC6.17 road hierarchy standards. That gives CivilCity a strong technical content angle."
+          "The Sunshine Coast Transport and Parking Code section 9.4.8 includes service vehicle requirements, public transport and cycling references, and links to SC6.17 road hierarchy standards. Those details can affect access design even on smaller projects."
         ],
       },
       {
         heading: "What the code is trying to achieve",
         body: [
-          "The extracted Transport and Parking Code material refers to providing parking and service vehicle arrangements in accordance with the planning scheme policy. It includes development involving residential, business, community, industrial, sport and recreation and other activity groups.",
+          "The Transport and Parking Code refers to providing parking and service vehicle arrangements in accordance with the planning scheme policy. It includes development involving residential, business, community, industrial, sport and recreation and other activity groups.",
           "For developers, that means the access design should be tested by use, vehicle type, intensity and site context. A small commercial tenancy, townhouse project and childcare centre can have very different vehicle problems."
         ],
       },
       {
         heading: "Road hierarchy changes the design context",
         body: [
-          "The RAG research also surfaced Table SC6.17B urban transport corridor data, including street types, typical catchments, traffic volumes, design speeds and reserve widths. Road context matters because driveway location, sight distance, manoeuvring and frontage works are not judged in a vacuum.",
+          "Table SC6.17B includes urban transport corridor data such as street types, typical catchments, traffic volumes, design speeds and reserve widths. Road context matters because driveway location, sight distance, manoeuvring and frontage works are not judged in a vacuum.",
           "If the site fronts a busier road or constrained street, early access advice is valuable before the building layout consumes the only workable driveway location."
         ],
       },
@@ -2985,7 +2985,7 @@ export const blogPosts: BlogPost[] = [
     faqs: [
       {
         question: "Can a local plan change minimum lot requirements?",
-        answer: "It can vary some minimum lot-size and dimension outcomes, but the extracted scheme material notes this does not override larger lot-size requirements on sloping sites where those apply.",
+        answer: "It can vary some minimum lot-size and dimension outcomes, but the planning scheme notes this does not override larger lot-size requirements on sloping sites where those apply.",
       },
       {
         question: "Why are small lots harder civil-design projects?",
@@ -3001,13 +3001,13 @@ export const blogPosts: BlogPost[] = [
         heading: "Small lots need more discipline, not less",
         body: [
           "Small lot housing can improve yield, but it removes tolerance. Driveways, parking, bin storage, services, stormwater and building envelopes all compete for the same limited space. The smaller the lot, the less room there is for sloppy assumptions.",
-          "Urbix RAG surfaced Sunshine Coast Part 9 development-code material noting that local plans or structure plans may vary minimum lot-size requirements, but do not override larger lot-size requirements on sloping sites where relevant. That is a useful warning for small-lot feasibility."
+          "Sunshine Coast Part 9 development-code material notes that local plans or structure plans may vary minimum lot-size requirements, but do not override larger lot-size requirements on sloping sites where relevant. That is an important warning for small-lot feasibility."
         ],
       },
       {
         heading: "Lot size and dimensions are only the opening move",
         body: [
-          "The extracted material around Table 9.4.4.3.2 includes minimum lot-size and dimension concepts, with slope categories affecting outcomes. It also points out that local plans or structure plans can vary some requirements.",
+          "Table 9.4.4.3.2 includes minimum lot-size and dimension concepts, with slope categories affecting outcomes. It also points out that local plans or structure plans can vary some requirements.",
           "That means the same apparent yield may behave differently depending on local plan area, slope, frontage, road context and overlay mapping. A spreadsheet can say “six lots”; the driveway, stormwater and retaining wall may vote for fewer. Democracy is harsh."
         ],
       },
