@@ -640,6 +640,270 @@ export function getService(slug: string) {
   return services.find((service) => service.slug === slug);
 }
 
+export type ProjectType = {
+  slug: string;
+  title: string;
+  summary: string;
+  primaryKeyword: string;
+  metaDescription: string;
+  audience: string;
+  commonConstraints: string[];
+  civilInputs: string[];
+  relatedServices: string[];
+  relatedInsights: string[];
+};
+
+export const projectTypes: ProjectType[] = [
+  {
+    slug: "subdivision-engineering-sunshine-coast",
+    title: "Subdivision Engineering Sunshine Coast",
+    summary:
+      "Civil engineering support for Sunshine Coast subdivision projects, including access, stormwater, levels, servicing, operational works and plan sealing readiness.",
+    primaryKeyword: "subdivision engineering Sunshine Coast",
+    metaDescription:
+      "Subdivision engineering support on the Sunshine Coast for access, stormwater, levels, servicing, operational works and development feasibility.",
+    audience:
+      "Developers, landowners, town planners and surveyors assessing small and medium subdivision projects.",
+    commonConstraints: [
+      "Access handle geometry",
+      "Stormwater discharge",
+      "Slope and earthworks",
+      "Service connections",
+      "Operational works conditions",
+    ],
+    civilInputs: [
+      "Feasibility advice",
+      "ROL engineering input",
+      "Stormwater and access review",
+      "Operational works documentation",
+      "Construction-phase support",
+    ],
+    relatedServices: [
+      "reconfiguration-of-a-lot-engineering",
+      "stormwater-drainage-design",
+      "operational-works-applications",
+    ],
+    relatedInsights: [
+      "can-i-subdivide-my-land-on-the-sunshine-coast",
+      "battle-axe-subdivision-on-the-sunshine-coast-access-services-and-stormwater-risks",
+      "plan-sealing-sunshine-coast-what-developers-need-to-know",
+    ],
+  },
+  {
+    slug: "townhouse-development-engineering-sunshine-coast",
+    title: "Townhouse Development Engineering Sunshine Coast",
+    summary:
+      "Civil input for townhouse and multi-unit sites where access, parking, stormwater, levels, waste servicing and operational works can affect feasibility.",
+    primaryKeyword: "townhouse development engineering Sunshine Coast",
+    metaDescription:
+      "Civil engineering support for Sunshine Coast townhouse developments, including access, parking, stormwater, levels and approval risk.",
+    audience:
+      "Developers, architects and planners testing townhouse or medium-density residential sites.",
+    commonConstraints: [
+      "Parking layout",
+      "Waste vehicle access",
+      "Overland flow",
+      "Driveway grades",
+      "Finished floor levels",
+    ],
+    civilInputs: [
+      "Preliminary civil advice",
+      "Access and parking review",
+      "Stormwater strategy",
+      "Operational works support",
+      "RPEQ review",
+    ],
+    relatedServices: [
+      "preliminary-civil-engineering-reporting-and-design",
+      "car-parking-planning-and-investigations",
+      "stormwater-drainage-design",
+    ],
+    relatedInsights: [
+      "townhouse-development-sunshine-coast-civil-engineering-checklist",
+      "medium-density-residential-zone-sunshine-coast-townhouse-feasibility",
+      "transport-and-parking-code-sunshine-coast-small-development-checks",
+    ],
+  },
+  {
+    slug: "dual-occupancy-secondary-dwelling-engineering-sunshine-coast",
+    title: "Dual Occupancy and Secondary Dwelling Engineering Sunshine Coast",
+    summary:
+      "Civil engineering checks for dual occupancy and secondary dwelling projects where access, parking, stormwater and overlays can decide the approval path.",
+    primaryKeyword: "dual occupancy engineering Sunshine Coast",
+    metaDescription:
+      "Civil engineering checks for Sunshine Coast dual occupancy and secondary dwelling projects, including access, parking, stormwater and overlays.",
+    audience:
+      "Homeowners, small investors, designers and planners assessing compact residential development options.",
+    commonConstraints: [
+      "Second access",
+      "Parking and manoeuvring",
+      "Stormwater discharge",
+      "Flood or slope overlays",
+      "Service upgrades",
+    ],
+    civilInputs: [
+      "Early feasibility advice",
+      "Driveway and access review",
+      "Stormwater constraints review",
+      "Planning-stage engineering support",
+    ],
+    relatedServices: [
+      "civil-engineering-advice",
+      "sight-distance-assessments",
+      "stormwater-drainage-design",
+    ],
+    relatedInsights: [
+      "dual-occupancy-sunshine-coast-approval-and-civil-design-risks",
+      "secondary-dwelling-sunshine-coast-civil-engineering-checks-before-you-build",
+      "secondary-driveways-on-the-sunshine-coast-can-you-add-another-access",
+    ],
+  },
+  {
+    slug: "commercial-industrial-civil-engineering-sunshine-coast",
+    title: "Commercial and Industrial Civil Engineering Sunshine Coast",
+    summary:
+      "Civil engineering support for commercial and industrial development sites involving parking, access, stormwater, earthworks and approval conditions.",
+    primaryKeyword: "commercial civil engineer Sunshine Coast",
+    metaDescription:
+      "Commercial and industrial civil engineering support on the Sunshine Coast for access, parking, stormwater, earthworks and approvals.",
+    audience:
+      "Commercial developers, builders, architects, planners and project managers.",
+    commonConstraints: [
+      "Heavy vehicle access",
+      "Parking compliance",
+      "Stormwater quality",
+      "Earthworks and levels",
+      "Frontage works",
+    ],
+    civilInputs: [
+      "MCU engineering input",
+      "Car parking and access review",
+      "Stormwater design",
+      "Detailed civil documentation",
+      "Construction support",
+    ],
+    relatedServices: [
+      "material-change-of-use-engineering",
+      "car-parking-planning-and-investigations",
+      "detailed-civil-engineering-design-and-documentation",
+    ],
+    relatedInsights: [
+      "swept-path-analysis-on-the-sunshine-coast-when-does-development-need-it",
+      "stormwater-management-plan-sunshine-coast-when-development-needs-one",
+      "common-reasons-sunshine-coast-development-applications-get-delayed",
+    ],
+  },
+  {
+    slug: "driveway-access-engineering-sunshine-coast",
+    title: "Driveway and Access Engineering Sunshine Coast",
+    summary:
+      "Engineering support for driveway grades, sight distance, second access points, swept paths, frontage works and vehicle movement issues.",
+    primaryKeyword: "driveway access engineering Sunshine Coast",
+    metaDescription:
+      "Driveway and access engineering on the Sunshine Coast for sight distance, grades, swept paths, second driveways and frontage constraints.",
+    audience:
+      "Homeowners, designers, planners, developers and builders dealing with access constraints.",
+    commonConstraints: [
+      "Sight distance",
+      "Driveway grade",
+      "Crossover location",
+      "Service vehicle movement",
+      "Road frontage constraints",
+    ],
+    civilInputs: [
+      "Driveway review",
+      "Sight distance assessment",
+      "Swept path review",
+      "Long section advice",
+      "Council-response support",
+    ],
+    relatedServices: [
+      "sight-distance-assessments",
+      "car-parking-planning-and-investigations",
+      "civil-engineering-advice",
+    ],
+    relatedInsights: [
+      "driveway-design-on-the-sunshine-coast-what-a-civil-engineer-checks",
+      "driveway-long-sections-and-cross-sections-explained",
+      "swept-path-analysis-on-the-sunshine-coast-when-does-development-need-it",
+    ],
+  },
+  {
+    slug: "pre-purchase-development-site-due-diligence-sunshine-coast",
+    title: "Pre-Purchase Development Site Due Diligence Sunshine Coast",
+    summary:
+      "Civil engineering due diligence for buyers assessing subdivision, townhouse, dual occupancy or commercial development potential before committing to a site.",
+    primaryKeyword: "development site due diligence Sunshine Coast",
+    metaDescription:
+      "Civil engineering due diligence for Sunshine Coast development site buyers checking access, stormwater, services, slope, overlays and hidden civil costs.",
+    audience:
+      "Property buyers, developers, investors and planners screening a site before purchase or design commitment.",
+    commonConstraints: [
+      "Easements",
+      "Stormwater discharge",
+      "Slope",
+      "Flood or overlay constraints",
+      "Access and frontage limitations",
+    ],
+    civilInputs: [
+      "Site constraints review",
+      "Civil risk notes",
+      "Development feasibility advice",
+      "Pre-purchase engineering questions",
+      "Consultant coordination",
+    ],
+    relatedServices: [
+      "engineering-due-diligence",
+      "civil-engineering-advice",
+      "preliminary-civil-engineering-reporting-and-design",
+    ],
+    relatedInsights: [
+      "before-you-buy-a-development-site-civil-engineering-checks-that-matter",
+      "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+      "how-to-read-a-sunshine-coast-council-site-report",
+    ],
+  },
+  {
+    slug: "operational-works-civil-infrastructure-sunshine-coast",
+    title: "Operational Works Civil Infrastructure Sunshine Coast",
+    summary:
+      "Civil engineering documentation and support for approval-conditioned infrastructure, road frontage works, stormwater, earthworks and construction readiness.",
+    primaryKeyword: "operational works civil infrastructure Sunshine Coast",
+    metaDescription:
+      "Operational works civil infrastructure support on the Sunshine Coast for road frontage works, stormwater, earthworks and construction documentation.",
+    audience:
+      "Developers, planners, project managers and builders moving from approval conditions to construction documentation.",
+    commonConstraints: [
+      "Approval conditions",
+      "Civil drawing requirements",
+      "Stormwater details",
+      "Earthworks",
+      "Construction sequencing",
+    ],
+    civilInputs: [
+      "Operational works application support",
+      "Detailed civil design",
+      "RPEQ review",
+      "Tender preparation",
+      "Construction supervision",
+    ],
+    relatedServices: [
+      "operational-works-applications",
+      "detailed-civil-engineering-design-and-documentation",
+      "rpeq-certification",
+    ],
+    relatedInsights: [
+      "operational-works-approval-sunshine-coast-a-developers-guide",
+      "common-reasons-sunshine-coast-development-applications-get-delayed",
+      "plan-sealing-sunshine-coast-what-developers-need-to-know",
+    ],
+  },
+];
+
+export function getProjectType(slug: string) {
+  return projectTypes.find((projectType) => projectType.slug === slug);
+}
+
 export type BlogSection = {
   heading: string;
   body: string | string[];
