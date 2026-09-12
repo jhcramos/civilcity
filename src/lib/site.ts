@@ -657,6 +657,7 @@ export type BlogPost = {
   date: string;
   category: string;
   keywords: string[];
+  sourceLinks?: { label: string; href: string }[];
   faqs: Faq[];
   sections: BlogSection[];
   resources?: BlogResource[];
@@ -3043,6 +3044,265 @@ export const blogPosts: BlogPost[] = [
       }
     ],
   },
+  {
+    slug: "swept-path-analysis-on-the-sunshine-coast-when-does-development-need-it",
+    title: "Swept path analysis on the Sunshine Coast: when does development need it?",
+    description:
+      "A practical guide to swept path analysis for Sunshine Coast driveways, turning areas, service vehicles and tight-access sites.",
+    date: "2026-06-24",
+    category: "Access",
+    keywords: [
+      "swept path analysis Sunshine Coast",
+      "swept path engineer Sunshine Coast",
+      "vehicle access design Sunshine Coast",
+    ],
+    faqs: [
+      {
+        question: "When is swept path analysis usually needed?",
+        answer:
+          "It is often useful when access is tight, turning space is constrained, a development must fit service vehicles, or council wants proof that vehicles can enter, manoeuvre and exit safely.",
+      },
+    ],
+    sections: [
+      {
+        heading: "What the analysis is testing",
+        body:
+          "Swept path analysis checks the actual vehicle movement through a site layout, not just whether a car park or driveway looks wide enough on paper.",
+      },
+      {
+        heading: "Why it matters for Sunshine Coast sites",
+        body:
+          "Many Sunshine Coast developments deal with narrow frontages, steeper ground, rear access, townhouse layouts or service access constraints that can affect approval and constructability.",
+      },
+      {
+        heading: "How Civil City uses it",
+        body:
+          "CivilCity can test turning templates, access geometry and vehicle paths early so the layout can respond before the project becomes expensive to redesign.",
+      },
+    ],
+  },
+  {
+    slug: "driveway-design-on-the-sunshine-coast-what-a-civil-engineer-checks",
+    title: "Driveway design on the Sunshine Coast: what a civil engineer checks",
+    description:
+      "Driveway gradients, widths, visibility, drainage and access geometry explained for Sunshine Coast sites.",
+    date: "2026-06-24",
+    category: "Access",
+    keywords: [
+      "driveway design Sunshine Coast",
+      "driveway engineer Sunshine Coast",
+      "residential driveway access design",
+    ],
+    faqs: [
+      {
+        question: "What makes a driveway design difficult?",
+        answer:
+          "Slope, level differences, sight lines, site width, cross-fall, stormwater and the type of vehicle using the driveway all influence how practical the design will be.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Driveway design is not just a width check",
+        body:
+          "A workable driveway needs to suit grades, turning movements, drainage, visibility and the relationship between the road, footpath, boundary and building platform.",
+      },
+      {
+        heading: "Common Sunshine Coast constraints",
+        body:
+          "Steep blocks, infill lots, flood-prone land and narrow frontages often force more careful driveway design than owners first expect.",
+      },
+      {
+        heading: "Best time to review it",
+        body:
+          "Driveway design should be checked while the site layout is still flexible, because it often affects garage placement, car park count and even lot yield.",
+      },
+    ],
+  },
+  {
+    slug: "driveway-long-sections-and-cross-sections-explained",
+    title: "Driveway long sections and cross sections explained",
+    description:
+      "What driveway long sections and cross sections show, and why they matter for approval and buildability.",
+    date: "2026-06-24",
+    category: "Access",
+    keywords: [
+      "driveway long section Sunshine Coast",
+      "driveway cross section Sunshine Coast",
+      "civil driveway drawings",
+    ],
+    faqs: [
+      {
+        question: "Why does council or a consultant ask for driveway sections?",
+        answer:
+          "Sections show the slope, transitions and finished levels in a way a plan view cannot, which helps confirm whether the driveway can actually work on site.",
+      },
+    ],
+    sections: [
+      {
+        heading: "The long section shows the profile",
+        body:
+          "A long section follows the driveway from the road to the building or parking area so levels, grades and transitions can be checked against the site geometry.",
+      },
+      {
+        heading: "The cross section shows the width and shape",
+        body:
+          "Cross sections help confirm the driveway can be built with the right cross-fall, retaining edges and drainage outcomes for the project.",
+      },
+      {
+        heading: "Why developers should care",
+        body:
+          "These drawings can reveal hidden issues early, especially on sloping blocks where a driveway that looks simple in plan may be difficult to construct in reality.",
+      },
+    ],
+  },
+  {
+    slug: "secondary-driveways-on-the-sunshine-coast-can-you-add-another-access",
+    title: "Secondary driveways on the Sunshine Coast: can you add another access?",
+    description:
+      "When an extra driveway or second access point can help a Sunshine Coast development, and when it can create trouble.",
+    date: "2026-06-24",
+    category: "Access",
+    keywords: [
+      "secondary driveway Sunshine Coast",
+      "second driveway Sunshine Coast",
+      "additional access driveway",
+    ],
+    faqs: [
+      {
+        question: "Can a property have more than one driveway?",
+        answer:
+          "Sometimes yes, but it depends on frontage width, road safety, access spacing, services, visibility and how the site is intended to function.",
+      },
+    ],
+    sections: [
+      {
+        heading: "A second driveway is often about function",
+        body:
+          "Secondary access can help with construction staging, car movement, service access or separating different uses on the one site.",
+      },
+      {
+        heading: "It can also create approval issues",
+        body:
+          "Extra access points may create conflict with parking layout, tree removal, drainage, street character, or road authority expectations.",
+      },
+      {
+        heading: "Check it before the layout is fixed",
+        body:
+          "If an additional driveway might improve the project, it is best tested while lot layout and architectural planning are still fluid.",
+      },
+    ],
+  },
+  {
+    slug: "how-overlays-affect-your-sunshine-coast-property",
+    title: "How overlays affect your Sunshine Coast property",
+    description:
+      "A plain-English guide to how overlays can change what you can build, subdivide or approve on a Sunshine Coast site.",
+    date: "2026-06-24",
+    category: "Planning",
+    keywords: [
+      "overlays Sunshine Coast",
+      "property overlays Sunshine Coast",
+      "how overlays affect property",
+    ],
+    faqs: [
+      {
+        question: "Do overlays stop all development?",
+        answer:
+          "Not always. Overlays usually do not stop a project outright, but they can change design rules, trigger extra assessments or increase technical evidence requirements.",
+      },
+    ],
+    sections: [
+      {
+        heading: "What an overlay usually means",
+        body:
+          "An overlay marks a planning or environmental constraint on the land that needs to be considered when you design, subdivide or lodge a development application.",
+      },
+      {
+        heading: "Why it matters for feasibility",
+        body:
+          "Flooding, bushfire, coastal, environmental, slope, heritage and infrastructure overlays can all affect yield, access, drainage, building areas and approval cost.",
+      },
+      {
+        heading: "Check the mapping early",
+        body:
+          "Overlay mapping should be part of due diligence before purchase, because it can change the way a site is valued and the way Civil City approaches the design brief.",
+      },
+    ],
+  },
+  {
+    slug: "how-can-i-see-easements-on-my-property",
+    title: "How can I see easements on my property?",
+    description:
+      "Where to look for easements, what they mean and why they matter for Sunshine Coast development sites.",
+    date: "2026-06-24",
+    category: "Due diligence",
+    keywords: [
+      "how to see easements Sunshine Coast",
+      "easements on title",
+      "property easement check",
+    ],
+    faqs: [
+      {
+        question: "Where are easements usually shown?",
+        answer:
+          "They are commonly shown on title documents, survey plans, cadastral information or council and utility records, depending on the type of easement.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Easements are not just paperwork",
+        body:
+          "An easement is a legal corridor that can limit where you build, landscape or excavate, especially if it protects drainage, sewer, water, access or infrastructure assets.",
+      },
+      {
+        heading: "Why developers check them early",
+        body:
+          "Easements can affect lot layout, building envelopes, driveway placement, stormwater discharge and the ability to subdivide a site efficiently.",
+      },
+      {
+        heading: "What Civil City looks for",
+        body:
+          "CivilCity can help interpret how easements interact with the physical design of the site so the project team understands the practical constraints, not just the legal ones.",
+      },
+    ],
+  },
+  {
+    slug: "development-infrastructure-charges-on-the-sunshine-coast-what-to-allow-for",
+    title: "Development infrastructure charges on the Sunshine Coast: what to allow for",
+    description:
+      "How infrastructure charges and other site contributions can affect feasibility for small and medium Sunshine Coast developers.",
+    date: "2026-06-24",
+    category: "Planning",
+    keywords: [
+      "infrastructure charges Sunshine Coast",
+      "development charges Sunshine Coast",
+      "development feasibility costs",
+    ],
+    faqs: [
+      {
+        question: "Why do infrastructure charges matter so early?",
+        answer:
+          "Because they can change project feasibility, cash flow and yield before the site is purchased or the layout is locked in.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Charges belong in the feasibility model",
+        body:
+          "Developers should treat infrastructure charges as a core project cost, not a last-minute admin item after the design is finished.",
+      },
+      {
+        heading: "They can shape the project structure",
+        body:
+          "The final numbers may influence whether a project is worth pursuing, whether the yield is large enough, or whether the design needs to change.",
+      },
+      {
+        heading: "Get the engineering and planning view together",
+        body:
+          "CivilCity can help frame the likely civil consequences of a site so the charge discussion is not separated from access, drainage, servicing and delivery risk.",
+      },
+    ],
+  },
 ];
 
 export function getBlogPost(slug: string) {
@@ -3056,35 +3316,35 @@ export const latestBlogPosts = [...blogPosts].sort(
 export function getBlogImage(category: string, slug?: string) {
   const bySlug: Record<string, string> = {
     "can-i-subdivide-my-land-on-the-sunshine-coast": "/project-type-subdivision-infill.webp",
-    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers": "/insight-original-subdivision.webp",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers": "/insight-due-diligence-development-site-selection.webp",
     "operational-works-approval-sunshine-coast-a-developers-guide": "/insight-operational-works-application-package.webp",
     "driveway-design-on-the-sunshine-coast-what-a-civil-engineer-checks": "/insight-car-parking-access-design.webp",
     "swept-path-analysis-on-the-sunshine-coast-when-does-development-need-it": "/insight-car-parking-access-swept-path-review.webp",
-    "how-overlays-affect-your-sunshine-coast-property": "/insight-original-planning-overlays.webp",
-    "how-can-i-see-easements-on-my-property": "/insight-original-easements.webp",
-    "stormwater-design-on-the-sunshine-coast-what-developers-need-to-know": "/insight-original-stormwater-design.webp",
-    "lawful-point-of-discharge-why-it-can-make-or-break-a-development": "/insight-original-lawful-discharge.webp",
+    "how-overlays-affect-your-sunshine-coast-property": "/insight-sunshine-coast-overlays-property-assessment.png",
+    "how-can-i-see-easements-on-my-property": "/insight-sunshine-coast-easement-check.png",
+    "stormwater-design-on-the-sunshine-coast-what-developers-need-to-know": "/service-hero-stormwater-drainage.webp",
+    "lawful-point-of-discharge-why-it-can-make-or-break-a-development": "/insight-erosion-sediment-control-small-site.webp",
     "plan-sealing-sunshine-coast-what-developers-need-to-know": "/insight-operational-works-after-da-conditions.webp",
-    "driveway-long-sections-and-cross-sections-explained": "/insight-original-driveway-sections.webp",
-    "secondary-driveways-on-the-sunshine-coast-can-you-add-another-access": "/insight-original-secondary-driveway.webp",
-    "before-you-buy-a-development-site-civil-engineering-checks-that-matter": "/insight-original-site-feasibility.webp",
+    "driveway-long-sections-and-cross-sections-explained": "/insight-sunshine-coast-driveway-sections-review.png",
+    "secondary-driveways-on-the-sunshine-coast-can-you-add-another-access": "/insight-sunshine-coast-secondary-driveway-assessment.png",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter": "/civilcity-subdivision-hero.png",
     "common-reasons-sunshine-coast-development-applications-get-delayed": "/insight-operational-works-delays-review.webp",
-    "development-i-sunshine-coast-how-developers-can-research-nearby-approvals": "/insight-original-development-i-research.webp",
-    "how-to-read-a-sunshine-coast-council-site-report": "/insight-original-site-report-review.webp",
-    "flood-overlays-and-development-risk-on-the-sunshine-coast": "/insight-original-flood-overlay.webp",
-    "battle-axe-subdivision-on-the-sunshine-coast-access-services-and-stormwater-risks": "/insight-original-battle-axe-subdivision.webp",
-    "townhouse-development-sunshine-coast-civil-engineering-checklist": "/insight-original-townhouse-checklist.webp",
-    "development-infrastructure-charges-on-the-sunshine-coast-what-to-allow-for": "/insight-original-infrastructure-charges.webp",
-    "low-density-residential-subdivision-sunshine-coast-minimum-lot-size-checks": "/insight-original-low-density-subdivision.webp",
-    "secondary-dwelling-sunshine-coast-civil-engineering-checks-before-you-build": "/insight-original-secondary-dwelling.webp",
-    "dual-occupancy-sunshine-coast-approval-and-civil-design-risks": "/service-hero-approvals-subdivision.webp",
-    "medium-density-residential-zone-sunshine-coast-townhouse-feasibility": "/insight-original-medium-density-townhouse.webp",
-    "stormwater-management-plan-sunshine-coast-when-development-needs-one": "/service-hero-stormwater-drainage.webp",
+    "development-i-sunshine-coast-how-developers-can-research-nearby-approvals": "/insight-sunshine-coast-development-i-research.png",
+    "how-to-read-a-sunshine-coast-council-site-report": "/insight-sunshine-coast-council-site-report-review.png",
+    "flood-overlays-and-development-risk-on-the-sunshine-coast": "/insight-sunshine-coast-flood-overlay-drainage-risk.png",
+    "battle-axe-subdivision-on-the-sunshine-coast-access-services-and-stormwater-risks": "/insight-sunshine-coast-battle-axe-access-assessment.png",
+    "townhouse-development-sunshine-coast-civil-engineering-checklist": "/contact-hero-townhouses.webp",
+    "development-infrastructure-charges-on-the-sunshine-coast-what-to-allow-for": "/insight-sunshine-coast-infrastructure-charges-budget-review.png",
+    "low-density-residential-subdivision-sunshine-coast-minimum-lot-size-checks": "/service-hero-advice-office-plans.webp",
+    "secondary-dwelling-sunshine-coast-civil-engineering-checks-before-you-build": "/service-hero-approvals-subdivision.webp",
+    "dual-occupancy-sunshine-coast-approval-and-civil-design-risks": "/service-hero-due-diligence-rpeq.webp",
+    "medium-density-residential-zone-sunshine-coast-townhouse-feasibility": "/project-type-commercial-industrial.webp",
+    "stormwater-management-plan-sunshine-coast-when-development-needs-one": "/insight-rpeq-signing-civil-plan.webp",
     "landslide-hazard-and-steep-land-overlay-sunshine-coast-development": "/project-type-conditioned-infrastructure.webp",
     "bushfire-hazard-overlay-sunshine-coast-subdivision-development-checks": "/about-hero-subdivision-team.webp",
     "acid-sulfate-soils-overlay-sunshine-coast-earthworks-development-risk": "/civilcity-earthworks-bulldozer.png",
-    "transport-and-parking-code-sunshine-coast-small-development-checks": "/insight-original-transport-parking.webp",
-    "small-lot-housing-sunshine-coast-planning-civil-feasibility-checks": "/insight-original-small-lot-housing.webp",
+    "transport-and-parking-code-sunshine-coast-small-development-checks": "/insight-sight-distance-road-access-assessment.webp",
+    "small-lot-housing-sunshine-coast-planning-civil-feasibility-checks": "/service-hero-design-documentation.webp",
   };
 
   if (slug && bySlug[slug]) return bySlug[slug];
