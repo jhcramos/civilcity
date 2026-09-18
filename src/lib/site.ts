@@ -3623,6 +3623,33 @@ export const blogPosts: BlogPost[] = [
       { label: "Sunshine Coast Council development application forms", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms" },
     ],
   },
+  {
+    slug: "referral-agencies-and-sara-sunshine-coast-development",
+    title: "Referral agencies and SARA: when state assessment may affect a Sunshine Coast project",
+    description: "A practical guide to referral agency risk, SARA triggers and the civil information Sunshine Coast developers should check before lodging.",
+    date: "2026-09-19",
+    category: "Approvals",
+    keywords: ["SARA Sunshine Coast development", "referral agency Sunshine Coast", "state referral development application Queensland", "civil engineering referral agency assessment"],
+    faqs: [
+      { question: "Does every Sunshine Coast development need SARA referral?", answer: "No. Referral depends on the proposal, site location, triggering mapping and applicable Queensland planning rules. Confirm the actual trigger for the project with the planning team." },
+      { question: "What civil issues can create referral risk?", answer: "Access to a state-controlled road, stormwater or flooding impacts, waterways, coastal hazards, earthworks, environmental constraints and infrastructure interfaces can require early checking or specialist input." },
+      { question: "When should I check referral agencies?", answer: "Before buying a site unconditionally or fixing the concept, while access, drainage, servicing, levels and the site layout can still change." },
+    ],
+    sections: [
+      { heading: "Short answer", body: ["A Sunshine Coast development may need assessment by a referral agency when a state interest or mapped trigger is engaged. SARA is Queensland's central referral agency, but the exact pathway depends on the proposal, site and applicable planning rules.", "Treat referral risk as a feasibility issue, not end-of-process form filling. Check the trigger early, identify the information needed, and make sure the civil concept does not create avoidable access, drainage, flood, earthworks or road-interface problems."] },
+      { heading: "What referral agency assessment means", body: ["A development application can involve more than Sunshine Coast Council's local planning assessment. Where a state planning interest is affected, it may be referred to the relevant agency for assessment, advice or conditions. The referral agency responds to matters within its jurisdiction; it is not a general second opinion on the whole project.", "Examples can include proposals near state-controlled roads, waterways or coastal areas, mapped environmental or hazard constraints, infrastructure corridors or other regulated interests. The trigger is site- and proposal-specific, so a nearby project is not proof that another application will follow the same pathway."] },
+      { heading: "Sunshine Coast checks before lodgement", body: ["Start with the address, proposed use or reconfiguration, site plan, title information and survey. Review the Sunshine Coast Planning Scheme 2014 and relevant mapping, then use Council's development application information to understand the local pathway. Ask the planner to confirm whether a state trigger needs to be checked through the Queensland planning framework.", "Then test the physical consequences. Is access close to a state-controlled road? Does the site drain toward a waterway or constrained corridor? Are cut, fill or retaining likely to affect adjoining land? Will the concept need a new connection, service crossing, frontage work or traffic response? These questions determine whether civil evidence or specialist reports should be commissioned early.", "Do not rely on a desktop map alone. Mapping is a screening tool; a current survey, site inspection, levels, title review and project-specific design are needed to understand the actual impact."] },
+      { heading: "A practical referral-risk process", body: ["1. Define the proposal and record the address, intended use or lot outcome, access arrangement, footprint, known services and deadlines.", "2. Screen the triggers: review Council's planning scheme and mapping, identify state-road, waterway, coastal, environmental, hazard or infrastructure interfaces, and confirm the likely pathway.", "3. Test the civil concept: check access geometry, sight distance, grades, stormwater and lawful discharge, overland flow, earthworks, retaining, services and construction access.", "4. Match evidence to the trigger by coordinating the planner, surveyor, civil engineer and any required specialist on one base plan.", "5. Track conditions through delivery: referral conditions can affect detailed design, operational works, construction sequencing, inspections, as-constructed information and closeout."] },
+      { heading: "Mistakes that cost money and delay", body: ["The first mistake is assuming a Council development application is automatically the complete approval pathway. A state referral trigger can change the information needed, design response and programme.", "The second is treating referral as a planning-only problem. An access may be too close to a road interface, drainage may not demonstrate safe discharge, or earthworks may create an adjoining-property issue. If those matters appear after lodgement, redesign and another round of consultant work may follow.", "The third is designing to a map pin rather than verified site information. Old survey data, unconfirmed boundaries, incomplete service records and optimistic levels can undermine a polished submission."] },
+      { heading: "When to involve a civil engineer", body: ["Bring civil engineering in before the concept is fixed when the site interfaces with a state road, waterway, flood or coastal constraint, major drainage path, steep land, retaining, service corridor or constrained access. Civil input is also valuable when a referral condition could affect yield, frontage works, stormwater infrastructure or construction cost.", "CivilCity can work with the planner and surveyor to screen referral-related civil constraints, test access and levels, develop stormwater and servicing strategies, prepare proportionate civil documentation, respond to conditions and support operational works and construction closeout. Send the address, concept plan and approval target for a focused first review."] },
+    ],
+    sourceLinks: [
+      { label: "Sunshine Coast Council development applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications" },
+      { label: "Sunshine Coast Planning Scheme 2014", href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" },
+      { label: "Queensland planning framework", href: "https://www.planning.qld.gov.au/planning-framework" },
+      { label: "Queensland Development Assessment", href: "https://planning.dsdmip.qld.gov.au/" },
+    ],
+  },
 ];
 
 export function getBlogPost(slug: string) {
@@ -3657,6 +3684,7 @@ export function getBlogImage(category: string, slug?: string) {
     "development-infrastructure-charges-on-the-sunshine-coast-what-to-allow-for": "/insight-sunshine-coast-infrastructure-charges-budget-review.png",
     "what-consultants-do-you-need-for-a-sunshine-coast-subdivision": "/about-hero-subdivision-team.webp",
     "how-civil-engineering-supports-a-development-application": "/service-hero-design-documentation.webp",
+    "referral-agencies-and-sara-sunshine-coast-development": "/insight-original-planning-overlays.webp",
     "low-density-residential-subdivision-sunshine-coast-minimum-lot-size-checks": "/service-hero-advice-office-plans.webp",
     "secondary-dwelling-sunshine-coast-civil-engineering-checks-before-you-build": "/service-hero-approvals-subdivision.webp",
     "dual-occupancy-sunshine-coast-approval-and-civil-design-risks": "/service-hero-due-diligence-rpeq.webp",
