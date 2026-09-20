@@ -3650,6 +3650,34 @@ export const blogPosts: BlogPost[] = [
       { label: "Queensland Development Assessment", href: "https://planning.dsdmip.qld.gov.au/" },
     ],
   },
+  {
+    slug: "public-notification-sunshine-coast-developments-what-it-means",
+    title: "Public notification for Sunshine Coast developments: what it means",
+    description: "A practical guide to public notification, neighbour submissions and civil design risks for Sunshine Coast development applications.",
+    date: "2026-09-21",
+    category: "Approvals",
+    keywords: ["public notification Sunshine Coast development", "development application notification Queensland", "Sunshine Coast neighbour submissions", "development approval civil engineering"],
+    faqs: [
+      { question: "Does every Sunshine Coast development need public notification?", answer: "No. Whether notification is required depends on the application, the category of assessment and the applicable Queensland and local planning rules. Confirm the pathway for the specific proposal with the planner." },
+      { question: "Can a neighbour's submission stop a development?", answer: "A submission does not automatically stop an application. It can identify matters the assessment manager must consider, and may expose design, access, drainage, amenity or compliance issues that need a response." },
+      { question: "What civil information should be ready before notification?", answer: "At minimum, the concept should have a credible access, parking, earthworks, retaining, stormwater and servicing strategy. If the notified plans change materially, the programme and consultation risk can grow." },
+      { question: "When should I involve a civil engineer?", answer: "Before the notified design is locked when the project has constrained access, flood or overland flow, steep land, retaining, drainage, road works or service conflicts." },
+    ],
+    sections: [
+      { heading: "Short answer", body: ["Public notification gives affected or interested people an opportunity to inspect a development application and make a properly made submission where the applicable assessment pathway requires it. It is part of the planning process, not a vote on whether a project is popular.", "For a Sunshine Coast project, the practical risk is not simply receiving objections. It is notifying a concept before its access, stormwater, earthworks, servicing or built-form assumptions are mature, then discovering that a submission or assessment issue requires redesign. Treat notification as a design-readiness checkpoint." ] },
+      { heading: "What public notification changes", body: ["The application becomes visible to the community through the prescribed notification process. People may raise concerns about matters such as traffic, driveway location, flooding, drainage, overlooking, noise, earthworks, vegetation or the perceived fit of the proposal with the neighbourhood. The assessment manager must consider relevant submissions under the applicable rules, but not every concern is a planning ground or a reason for refusal.", "The exact notification requirements depend on the application type and Queensland development assessment framework. Sunshine Coast Council's development application guidance and the Planning Scheme 2014 should be checked for the current local process. Do not assume a nearby application used the same notification pathway." ] },
+      { heading: "Civil issues that attract avoidable attention", body: ["Civil design often sits behind the issues people notice first. A driveway that appears too close to a bend, a steep shared access, a retaining wall near a boundary, stormwater directed toward a neighbour, an unclear overland flow path or a service connection across another property can create legitimate questions about how the project will work.", "These matters are easier to explain when the application includes a coherent site plan, levels, access geometry, drainage strategy and earthworks response. They are harder to defend when the drawings show only a building footprint and leave infrastructure for a later stage." ] },
+      { heading: "A practical pre-notification checklist", body: ["1. Confirm the planning pathway and whether public notification applies. Record the relevant assessment rules and any referral or information requirements.", "2. Freeze the project assumptions that affect neighbours: access points, parking and manoeuvring, finished levels, retaining, cut and fill, stormwater discharge, construction access and service routes.", "3. Check the physical evidence. Use a current survey where levels, boundaries, trees, kerbs, pits or existing infrastructure matter. Review Council mapping, title information and available service records.", "4. Stress-test the concept. Ask whether runoff, retaining, vehicle movements, construction activity or changes in finished level could affect adjoining land. Resolve what can be resolved before notification and clearly identify what belongs to detailed design.", "5. Coordinate the response team. The planner should lead the planning narrative, while the civil engineer provides concise, evidence-based responses to access, drainage, earthworks and servicing matters." ] },
+      { heading: "Common mistakes that cost time", body: ["The first mistake is treating public notification as a communications exercise only. A friendly letter cannot fix a driveway grade, an unsupported stormwater assumption or an unexplained retaining wall.", "The second is overpromising in the application. If the drawings imply that civil works are solved but the details are not feasible, later conditions or redesign can undermine the programme. Show enough engineering to make the proposal credible, without pretending preliminary plans are construction documentation.", "The third is reacting defensively to every submission. Separate valid design risks from issues outside the assessment framework, then respond with measurements, plans and a clear commitment to the next design stage. Emotional replies are expensive and rarely improve an approval." ] },
+      { heading: "When to involve a civil engineer", body: ["Bring civil engineering in before notification where access is constrained, the site is sloping or flood-affected, stormwater cannot obviously discharge to the street, retaining is close to a boundary, a new crossover or frontage work is proposed, or shared services are involved. Early input can also identify whether a proposed condition may trigger operational works, bonding, inspection or as-constructed requirements later.", "CivilCity helps Sunshine Coast developers, planners, architects and builders test the civil story behind a development application: access and swept paths, levels, earthworks, retaining, stormwater, lawful discharge, services and likely approval-condition responses. We can review an early concept, prepare proportionate civil information and support the team through conditions and detailed design." ] },
+    ],
+    sourceLinks: [
+      { label: "Sunshine Coast Council development applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications" },
+      { label: "Sunshine Coast Planning Scheme 2014", href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" },
+      { label: "Queensland Development Assessment", href: "https://planning.dsdmip.qld.gov.au/" },
+      { label: "Queensland Planning Act 2016", href: "https://www.legislation.qld.gov.au/view/html/inforce/current/act-2016-005" },
+    ],
+  },
 ];
 
 export function getBlogPost(slug: string) {
@@ -3685,6 +3713,7 @@ export function getBlogImage(category: string, slug?: string) {
     "what-consultants-do-you-need-for-a-sunshine-coast-subdivision": "/about-hero-subdivision-team.webp",
     "how-civil-engineering-supports-a-development-application": "/service-hero-design-documentation.webp",
     "referral-agencies-and-sara-sunshine-coast-development": "/insight-original-planning-overlays.webp",
+    "public-notification-sunshine-coast-developments-what-it-means": "/about-hero-subdivision-team.webp",
     "low-density-residential-subdivision-sunshine-coast-minimum-lot-size-checks": "/service-hero-advice-office-plans.webp",
     "secondary-dwelling-sunshine-coast-civil-engineering-checks-before-you-build": "/service-hero-approvals-subdivision.webp",
     "dual-occupancy-sunshine-coast-approval-and-civil-design-risks": "/service-hero-due-diligence-rpeq.webp",
