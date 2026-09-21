@@ -3678,6 +3678,34 @@ export const blogPosts: BlogPost[] = [
       { label: "Queensland Planning Act 2016", href: "https://www.legislation.qld.gov.au/view/html/inforce/current/act-2016-005" },
     ],
   },
+  {
+    slug: "negotiating-development-conditions-sunshine-coast-civil-items-to-watch",
+    title: "Negotiating development conditions: Sunshine Coast civil items to watch",
+    description: "A practical guide for Sunshine Coast developers reviewing approval conditions affecting access, stormwater, services, earthworks and delivery.",
+    date: "2026-09-22",
+    category: "Approvals",
+    keywords: ["development conditions Sunshine Coast", "negotiate development conditions", "civil conditions development approval", "Sunshine Coast subdivision conditions"],
+    faqs: [
+      { question: "Can a developer negotiate a development condition?", answer: "Sometimes. The available response depends on the approval, condition wording, legal framework and evidence supporting the proposed change. Have the planner lead the formal process and use civil evidence to test technical conditions." },
+      { question: "Which conditions most often need civil review?", answer: "Access and frontage works, stormwater and lawful discharge, flood or overland flow, earthworks and retaining, services, operational works, inspections, bonds, as-constructed information and plan sealing." },
+      { question: "When should a civil engineer review the conditions?", answer: "As soon as the decision notice arrives, especially before accepting a tender, lodging operational works or committing to a construction sequence." },
+    ],
+    sections: [
+      { heading: "Short answer", body: ["Do not treat development conditions as boilerplate. Read each condition against the approved plans, the site and the delivery programme, then identify which items need clarification, technical evidence or a formal planning response. Conditions covering access, stormwater, earthworks, services and operational works can materially change cost and timing.", "The practical sequence is: understand the condition, check whether it is consistent with the approval and physically achievable, quantify its consequence, and have the planner coordinate the appropriate response. CivilCity can test the engineering implications before a condition becomes a construction surprise."] },
+      { heading: "Start with the decision notice and approved plans", body: ["Create a condition register as soon as the approval is issued. Record the condition number, responsible consultant, required evidence, dependency, likely cost and target date. Read the conditions together with the stamped plans and any referral agency requirements; a condition cannot be understood reliably in isolation.", "Check for contradictions between the approved layout and the conditions. Examples include an access arrangement that differs from the civil concept, a stormwater requirement that assumes a discharge point not confirmed during design, or a frontage-work obligation missing from the cost plan."] },
+      { heading: "Civil conditions that can change the project", body: ["Access conditions may require a crossover, road widening, verge works, sight-distance response, shared driveway upgrades or vehicle movement evidence. Stormwater conditions may require lawful discharge, detention, quality treatment, overland flow management, easements or maintenance arrangements. Test the point of discharge, levels and downstream interface rather than assuming they work.", "Earthworks, retaining and servicing conditions can create hidden cost. Cut and fill may alter adjoining levels; retaining can require geotechnical input; and water, sewer, power or telecommunications interfaces may require coordination beyond the civil drawing set. Operational works, inspection, bonding and as-constructed requirements affect closeout as well as construction."] },
+      { heading: "A practical condition-review process", body: ["1. Copy the exact wording into a condition register and identify the trigger: prior to approval, construction, plan sealing or another milestone. 2. Map each condition to the approved design and mark whether it is satisfied, needs normal detail, conflicts with the concept or requires another specialist. 3. Use current survey and site information to check access grades, turning, sight distance, drainage levels, discharge, overland flow, earthworks, retaining and service corridors. 4. Update budget, programme, bond allowance, consultant scope and construction sequence. 5. Have the planner choose the formal response pathway, supported by concise civil evidence and an achievable alternative. 6. Track the register through operational works, prestart, inspections, as-constructed records and plan sealing."] },
+      { heading: "Mistakes that cost money and delay", body: ["The expensive mistake is accepting a condition without checking its interaction with the design. Developers then discover during detailed drawings or tendering that the approved yield, driveway, drainage or retaining strategy cannot meet it without redesign.", "Another mistake is arguing that a condition is unreasonable without evidence. A useful response identifies the specific conflict, explains the engineering consequence and proposes a measurable alternative that still addresses the planning or infrastructure objective. Finally, keep one controlled base plan: conflicting survey, architectural, landscape and civil drawings create avoidable information requests."] },
+      { heading: "When to involve a civil engineer", body: ["Ask for civil review immediately after approval where conditions affect access, stormwater, flood or overland flow, earthworks, retaining, services, frontage works, operational works, bonding or plan sealing. Bring the engineer back before tendering if the response changes quantities, levels, materials or construction staging.", "CivilCity helps Sunshine Coast developers translate conditions into a coordinated delivery plan: condition registers, access and level checks, stormwater and lawful-discharge strategy, servicing and earthworks advice, operational works documentation, construction support and closeout evidence. Send the decision notice, approved plans and target programme for a focused review."] },
+    ],
+    sourceLinks: [
+      { label: "Sunshine Coast Council development applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications" },
+      { label: "Sunshine Coast Council operational work applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work" },
+      { label: "Sunshine Coast Council plan sealing", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing" },
+      { label: "Queensland Development Assessment", href: "https://planning.dsdmip.qld.gov.au/" },
+      { label: "Queensland Planning Act 2016", href: "https://www.legislation.qld.gov.au/view/html/inforce/current/act-2016-005" },
+    ],
+  },
 ];
 
 export function getBlogPost(slug: string) {
@@ -3714,6 +3742,7 @@ export function getBlogImage(category: string, slug?: string) {
     "how-civil-engineering-supports-a-development-application": "/service-hero-design-documentation.webp",
     "referral-agencies-and-sara-sunshine-coast-development": "/insight-original-planning-overlays.webp",
     "public-notification-sunshine-coast-developments-what-it-means": "/about-hero-subdivision-team.webp",
+    "negotiating-development-conditions-sunshine-coast-civil-items-to-watch": "/insight-operational-works-delays-review.webp",
     "low-density-residential-subdivision-sunshine-coast-minimum-lot-size-checks": "/service-hero-advice-office-plans.webp",
     "secondary-dwelling-sunshine-coast-civil-engineering-checks-before-you-build": "/service-hero-approvals-subdivision.webp",
     "dual-occupancy-sunshine-coast-approval-and-civil-design-risks": "/service-hero-due-diligence-rpeq.webp",
