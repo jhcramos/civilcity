@@ -3781,7 +3781,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Lot size is the first filter, not the decision",
         body: [
-          "The Reconfiguring a lot code does more than state a headline area. Table 9.4.4.3.2 deals with minimum lot size, minimum square or rectangle dimensions and frontage. For Low density residential land, the extracted scheme data identifies 600m² for slope up to 15%, 1,000m² for slope over 15% and up to 20%, 1,500m² for slope over 20%, a 15m x 20m minimum square or rectangle, and 15m frontage.",
+          "The Reconfiguring a lot code does more than state a headline area. Table 9.4.4.3.2 deals with minimum lot size, minimum square or rectangle dimensions and frontage. For Low density residential land, the table identifies 600m² for slope up to 15%, 1,000m² for slope over 15% and up to 20%, 1,500m² for slope over 20%, a 15m x 20m minimum square or rectangle, and 15m frontage.",
           "The trap is assuming that 1,200m² automatically means two 600m² lots. A site can fail because it is too narrow, too steep, constrained by an easement, affected by flood or overland flow, dependent on a rear access handle, missing a lawful discharge route, or unable to fit services and building envelopes without expensive retaining."
         ],
       },
@@ -3789,20 +3789,20 @@ export const blogPosts: BlogPost[] = [
         heading: "Rear lots and battle-axe subdivisions need extra testing",
         body: [
           "Rear lots can be useful on deep Sunshine Coast blocks, but they are not a shortcut around proper design. The Reconfiguring a lot code sets expectations for rear lots, including that the lot area excluding the access strip should comply with the minimum lot-size requirements, that the access-strip gradient does not exceed 10%, that rear-lot arrangements do not prejudice adjoining land, and that access-handle impacts such as noise, light, dust and stormwater runoff are managed.",
-          "The scheme material also identifies access strip requirements. For residential zones, the extracted table shows a minimum single access strip width of 5m, combined access strips with reciprocal easement of 6m, minimum driveway width of 3.5m, maximum driveway length of 40m, and sealed or concreted pavement. Those numbers matter because a battle-axe idea that looks simple in plan can fail on grade, width, stormwater, turning or neighbour impact."
+          "For residential rear lots, the access-strip table shows a minimum single access strip width of 5m, combined access strips with reciprocal easement of 6m, minimum driveway width of 3.5m, maximum driveway length of 40m, and sealed or concreted pavement. Those numbers matter because a battle-axe idea that looks simple in plan can fail on grade, width, stormwater, turning or neighbour impact."
         ],
       },
       {
         heading: "Stormwater can decide the yield",
         body: [
           "Stormwater is often the civil constraint that decides whether a Sunshine Coast subdivision works. Each new lot needs a lawful and constructible drainage strategy. A nearby pit, gully or watercourse is not enough. The design must check levels, overland flow, downstream route, easements, maintenance access, detention or treatment requirements and whether the outlet can actually be used.",
-          "The ingested Sunshine Coast development works and code material repeatedly points to stormwater quality, quantity, infrastructure design and easements as subdivision issues. For feasibility, the right question is: can every proposed lot drain by a practical route that Council or the asset owner is likely to accept, without forcing a redesign of access, retaining, building pads or lot boundaries?"
+          "Sunshine Coast subdivision design has to deal with stormwater quantity, water quality, infrastructure layout and drainage easements. For feasibility, the right question is: can every proposed lot drain by a practical route that Council or the asset owner is likely to accept, without forcing a redesign of access, retaining, building pads or lot boundaries?"
         ],
       },
       {
         heading: "Services and infrastructure are not admin details",
         body: [
-          "The Reconfiguring a lot code includes infrastructure and services outcomes. The ingested scheme material identifies that, in urban areas, new lots are expected to connect to reticulated water, reticulated sewer, electricity and, where available, high-speed telecommunications infrastructure. Stormwater management and sustainable design provisions also sit around those servicing questions.",
+          "The Reconfiguring a lot code includes infrastructure and services outcomes. In urban areas, new lots are generally expected to connect to reticulated water, reticulated sewer, electricity and, where available, high-speed telecommunications infrastructure. Stormwater management and sustainable design provisions also sit around those servicing questions.",
           "That means a subdivision feasibility check should look at more than planning maps. Confirm sewer and water location, depth and capacity; likely connection points; service clashes; whether extensions or easements are required; whether road frontage works are likely; and whether operational works will be needed before construction and plan sealing."
         ],
       },
