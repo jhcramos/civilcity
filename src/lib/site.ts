@@ -2830,7 +2830,7 @@ export const blogPosts: BlogPost[] = [
         ],
       },
       {
-        heading: "What the scheme material points toward",
+        heading: "What the planning scheme points toward",
         body: [
           "The Sunshine Coast Planning Scheme describes the Medium density residential zone as a place where medium density residential activities are contemplated, subject to the applicable zone code, local plan code and prescribed development codes. That is a starting point, not a feasibility conclusion.",
           "For reconfiguring-a-lot style checks, the planning scheme table shows Medium density residential zone lot-size outcomes of 800m² on slopes up to 15%, 1,000m² where slope is above 15% and up to 20%, and 1,500m² where slope is above 20%, with rectangle and frontage outcomes also relevant."
@@ -2958,7 +2958,7 @@ export const blogPosts: BlogPost[] = [
     faqs: [
       {
         question: "What slope can trigger steep land concern?",
-        answer: "The scheme material references steep land as slopes of 15% or greater on the Landslide Hazard and Steep Land Overlay Maps, but site-specific mapping and assessment should be checked.",
+        answer: "The Sunshine Coast Planning Scheme references steep land as slopes of 15% or greater on the Landslide Hazard and Steep Land Overlay Maps, but site-specific mapping and assessment should be checked.",
       },
       {
         question: "Do I always need a geotechnical report?",
@@ -3898,6 +3898,449 @@ export const blogPosts: BlogPost[] = [
       { label: "Queensland Development Assessment", href: "https://planning.dsdmip.qld.gov.au/" },
     ],
   },
+  {
+    slug: "operational-works-application-sunshine-coast",
+    title: "Operational works application Sunshine Coast: what developers need before construction",
+    description:
+      "A practical guide to Sunshine Coast operational works applications, civil drawings, approval conditions, RPEQ review and construction readiness.",
+    date: "2026-09-23",
+    category: "Approvals",
+    keywords: [
+      "operational works application Sunshine Coast",
+      "operational works engineer Sunshine Coast",
+      "civil operational works drawings Sunshine Coast",
+      "Sunshine Coast operational works conditions",
+      "RPEQ operational works Sunshine Coast",
+    ],
+    faqs: [
+      {
+        question: "When does a project need an operational works application?",
+        answer:
+          "Operational works is commonly needed when approved development requires detailed civil infrastructure, earthworks, stormwater, road, access or frontage works before construction can proceed. The exact trigger depends on the approval conditions and project scope.",
+      },
+      {
+        question: "Is operational works the same as a development approval?",
+        answer:
+          "No. A development approval may confirm the planning outcome, while operational works deals with the detailed engineering works needed to construct the approved development.",
+      },
+      {
+        question: "Who prepares operational works drawings?",
+        answer:
+          "A civil engineer usually prepares the civil drawing package, technical notes and supporting information, with RPEQ review or certification where required for the project.",
+      },
+      {
+        question: "Can CivilCity help after conditions have already been issued?",
+        answer:
+          "Yes. CivilCity can review the approval conditions, identify the civil deliverables, prepare or coordinate the engineering package and support responses through the operational works stage.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Quick answer",
+        body: [
+          "If your Sunshine Coast development approval includes civil works, frontage works, stormwater, earthworks, access upgrades or infrastructure conditions, you may need an operational works application before construction can start.",
+          "The practical question is not just whether you have an approval. It is whether the approval conditions can be turned into buildable civil drawings, technical responses and a construction-ready package without reopening the layout, levels or drainage strategy.",
+        ],
+      },
+      {
+        heading: "Why operational works matters",
+        body: [
+          "Operational works is where optimistic planning drawings meet engineering detail. Driveway grades, stormwater pits, pipe levels, retaining, pavement, frontage works, erosion control and service clashes become real design decisions.",
+          "For developers, this stage can either keep the project moving or expose gaps left during the development application. A vague condition can become a redesign if the site was not tested properly before approval.",
+        ],
+        table: {
+          columns: ["Trigger", "What to check", "Why it matters"],
+          rows: [
+            ["Stormwater works", "Discharge point, levels, detention and water quality", "Late drainage changes can affect lots, buildings and retaining."],
+            ["Access or frontage works", "Driveway grades, sight distance, kerb, road and footpath interfaces", "The approved layout still needs to work at construction detail."],
+            ["Earthworks", "Cut, fill, retaining, boundaries and adjoining land", "Small level changes can create expensive walls or drainage issues."],
+            ["Approval conditions", "Civil drawings, reports, certifications and staging", "Missing one condition can delay construction and closeout."],
+          ],
+        },
+      },
+      {
+        heading: "What a strong package should include",
+        body: [
+          "A useful operational works package normally starts with the approval conditions, stamped plans, current survey, civil concept, service information and any earlier stormwater or traffic advice. The civil drawings should then show enough detail for assessment, tendering and construction coordination.",
+          "Depending on the project, the package may include stormwater layout, drainage long sections, earthworks, retaining interfaces, driveway or road details, pavement, erosion and sediment control, service coordination notes, construction staging and RPEQ certification where required.",
+        ],
+      },
+      {
+        heading: "Common mistakes",
+        body: [
+          "The expensive mistake is treating operational works as drafting. If the planning-stage concept did not test levels, drainage, access and services, the operational works engineer may inherit a drawing that cannot be built cleanly.",
+          "Other common mistakes include relying on old survey, ignoring service clashes, underestimating stormwater treatment, assuming a condition can be handled later, and failing to coordinate the builder, planner, surveyor and engineer around the same drawing set.",
+        ],
+      },
+      {
+        heading: "When CivilCity should be involved",
+        body: [
+          "Bring CivilCity in as soon as approval conditions are issued, or earlier if the development application is likely to generate civil conditions. The best brief includes the approval, stamped plans, survey, title information, existing reports and the construction timing you are trying to protect.",
+          "CivilCity can review the conditions, identify the operational works deliverables, prepare civil drawings, coordinate technical responses and support the project through construction-phase questions and closeout planning.",
+        ],
+      },
+    ],
+    sourceLinks: [
+      { label: "Sunshine Coast Council operational work applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work" },
+      { label: "Sunshine Coast Council development applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications" },
+      { label: "Sunshine Coast Planning Scheme 2014", href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" },
+    ],
+  },
+  {
+    slug: "stormwater-engineer-sunshine-coast",
+    title: "Stormwater engineer Sunshine Coast: when development needs drainage advice",
+    description:
+      "When to involve a stormwater engineer on Sunshine Coast development sites, including lawful discharge, detention, overland flow, levels and approval risk.",
+    date: "2026-09-23",
+    category: "Stormwater",
+    keywords: [
+      "stormwater engineer Sunshine Coast",
+      "stormwater drainage engineer Sunshine Coast",
+      "lawful point of discharge Sunshine Coast",
+      "stormwater design Sunshine Coast",
+      "development stormwater engineer Sunshine Coast",
+    ],
+    faqs: [
+      {
+        question: "When should I contact a stormwater engineer?",
+        answer:
+          "Contact a stormwater engineer before the layout is fixed if the site has slope, flood or overland flow risk, uncertain discharge, downstream constraints, a new lot layout or a development application that changes hardstand or roof area.",
+      },
+      {
+        question: "Is a nearby pit always a lawful point of discharge?",
+        answer:
+          "No. A visible pit or drain is not automatically an accepted connection point. The levels, asset ownership, capacity, approval pathway and discharge rights still need to be checked.",
+      },
+      {
+        question: "Does every site need detention?",
+        answer:
+          "Not every site, but detention or other controls may be needed depending on the development, catchment, downstream conditions, council requirements and approval conditions.",
+      },
+      {
+        question: "Can stormwater change subdivision yield?",
+        answer:
+          "Yes. Drainage routes, easements, detention areas and levels can change lot layout, building envelopes, retaining and the number of lots that remain commercially practical.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Quick answer",
+        body: [
+          "A Sunshine Coast stormwater engineer helps test where water will go, whether the discharge route is lawful and practical, and what drainage works are needed for a development to be approved, built and maintained.",
+          "Get stormwater advice early when a project depends on subdivision yield, new buildings, driveway grades, filling, retaining, detention, overland flow paths or a tight downstream outlet. Stormwater is not a tidy detail at the end; it can decide the layout.",
+        ],
+      },
+      {
+        heading: "The stormwater checks that matter",
+        body: [
+          "A good drainage review joins levels, catchments, infrastructure and approval requirements. The engineer should test the existing flow path, proposed finished levels, roofwater, surface runoff, discharge point, easements, downstream impacts and whether treatment or detention is likely.",
+          "This is especially important on infill sites, rear lots, sloping blocks and townhouse or commercial projects where more hardstand area can change the way water moves across the site.",
+        ],
+        table: {
+          columns: ["Stormwater issue", "Evidence to check", "Common commercial risk"],
+          rows: [
+            ["Lawful discharge", "Outlet location, levels, ownership and approval pathway", "The site may need an easement or redesign."],
+            ["Overland flow", "Council mapping, survey levels and visible flow routes", "Buildings or access may sit in the wrong place."],
+            ["Detention", "Catchment, impervious area and downstream constraints", "Storage can consume valuable developable area."],
+            ["Water quality", "Treatment requirements and maintenance access", "Small sites can run out of room for practical devices."],
+          ],
+        },
+      },
+      {
+        heading: "Why Sunshine Coast sites need local judgement",
+        body: [
+          "Coastal infill, older urban areas, hinterland slopes, low-lying land and greenfield edges create different drainage problems. Some sites have formal stormwater infrastructure. Others rely on overland routes, table drains, gullies, easements or downstream private land.",
+          "Council information, mapping and nearby approvals are useful starting points, but the real answer comes from the project survey, site levels, discharge route, development footprint and proposed civil design.",
+        ],
+      },
+      {
+        heading: "Mistakes that delay approvals",
+        body: [
+          "The most common mistake is assuming stormwater can be solved after the planner or architect has locked the concept. If the outlet is too high, the downstream route is unavailable or detention takes too much space, the layout may need to change.",
+          "Other mistakes include ignoring tailwater, placing buildings across overland flow paths, forgetting maintenance access, underestimating water quality treatment, and treating roofwater separately from the full site grading strategy.",
+        ],
+      },
+      {
+        heading: "When CivilCity should be involved",
+        body: [
+          "Send CivilCity the address, survey if available, concept plan, known drainage assets, approval stage and the decision you need to make. For purchase due diligence, the key output may be a short drainage risk note. For approval or construction, the output may be a stormwater strategy, drawings or calculations.",
+          "CivilCity can support stormwater feasibility, drainage layouts, detention and treatment coordination, lawful discharge checks, operational works documentation and responses to approval conditions.",
+        ],
+      },
+    ],
+    sourceLinks: [
+      { label: "Sunshine Coast Council Development.i site report", href: "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report" },
+      { label: "Sunshine Coast Planning Scheme 2014", href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" },
+      { label: "Sunshine Coast Council operational work applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work" },
+    ],
+  },
+  {
+    slug: "civil-engineer-development-application-sunshine-coast",
+    title: "Civil engineer for a Sunshine Coast development application: what they check",
+    description:
+      "How a civil engineer supports Sunshine Coast development applications by testing access, stormwater, services, levels, earthworks and approval-condition risk.",
+    date: "2026-09-23",
+    category: "Approvals",
+    keywords: [
+      "civil engineer development application Sunshine Coast",
+      "development application civil engineer Sunshine Coast",
+      "civil engineering report development application Sunshine Coast",
+      "civil engineer for DA Sunshine Coast",
+      "development approval civil engineering Sunshine Coast",
+    ],
+    faqs: [
+      {
+        question: "Does every DA need a civil engineer?",
+        answer:
+          "No. The need depends on the proposal and site constraints. Civil input is valuable where access, stormwater, services, earthworks, parking, frontage works or construction conditions could affect approval or feasibility.",
+      },
+      {
+        question: "Should the civil engineer be involved before lodgement?",
+        answer:
+          "Yes where civil constraints are material. Early input is usually cheaper than redesign after an information request, approval condition or construction pricing issue.",
+      },
+      {
+        question: "What information should I send first?",
+        answer:
+          "Send the address, concept plan, survey if available, title information, planning pathway if known and the decision the team needs to make.",
+      },
+      {
+        question: "Can civil engineering guarantee approval?",
+        answer:
+          "No. It supports the application with better evidence and fewer avoidable design gaps, but approval depends on the full planning assessment and applicable requirements.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Quick answer",
+        body: [
+          "A civil engineer helps a Sunshine Coast development application prove that the project can be accessed, drained, serviced and constructed. Their role is to test the physical reality behind the planning concept.",
+          "The best time to involve civil engineering is before lodgement if the project has tight access, stormwater uncertainty, slope, flood risk, service constraints, parking issues, frontage works or a layout that depends on optimistic levels.",
+        ],
+      },
+      {
+        heading: "What civil engineering adds to a DA",
+        body: [
+          "A planner may lead the development application, but the planner should not be left carrying civil assumptions alone. The civil engineer checks the site mechanics: driveway grades, sight distance, turning, drainage, discharge, services, earthworks, retaining, pavement and interfaces with public infrastructure.",
+          "The output should match the project. Sometimes it is a short feasibility note. Sometimes it is a civil engineering report, concept drawings, stormwater strategy, access sketch, levels review or response to an information request.",
+        ],
+        table: {
+          columns: ["Civil question", "What the engineer checks", "Why it matters for the DA"],
+          rows: [
+            ["Can vehicles access the site?", "Grades, sight distance, swept paths and frontage", "Access problems can force layout changes."],
+            ["Can the site drain?", "Lawful discharge, overland flow, detention and levels", "Stormwater often drives information requests."],
+            ["Can services reach the proposal?", "Water, sewer, easements and likely clashes", "Service upgrades can affect cost and staging."],
+            ["Can it be built?", "Earthworks, retaining, boundaries and construction access", "Buildability issues become approval conditions or tender shocks."],
+          ],
+        },
+      },
+      {
+        heading: "Where DA teams get caught",
+        body: [
+          "The trap is lodging a polished plan that has not been tested against survey levels, drainage paths or service corridors. It may look approvable, but the first technical review exposes a driveway that is too steep, a discharge point that does not work or a retaining solution that consumes the buildable area.",
+          "This is why CivilCity treats DA support as a feasibility protection step, not paperwork. The point is to remove fragile assumptions before the application, consultant budget and client expectations are locked in.",
+        ],
+      },
+      {
+        heading: "A practical DA civil review process",
+        body: [
+          "Start with the address, title, survey, concept plan and proposed use or lot yield. Screen the planning scheme mapping, Development.i information and known services, then test the physical constraints against the concept.",
+          "The team should record what is confirmed, what is assumed and what needs specialist input. This gives the planner and client a cleaner basis for lodgement and avoids pretending that every civil issue can be deferred.",
+        ],
+      },
+      {
+        heading: "When CivilCity should be involved",
+        body: [
+          "Bring CivilCity in before lodgement where the project involves subdivision, townhouse development, dual occupancy, commercial works, stormwater constraints, difficult access, flood or slope risk, or possible operational works conditions.",
+          "CivilCity can provide planning-stage civil advice, access and stormwater strategy, servicing checks, civil reports, concept design input, RPEQ review where required and support through approval conditions and operational works.",
+        ],
+      },
+    ],
+    sourceLinks: [
+      { label: "Sunshine Coast Council development applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications" },
+      { label: "Sunshine Coast Council development application forms", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms" },
+      { label: "Sunshine Coast Council Development.i", href: "https://developmenti.sunshinecoast.qld.gov.au/" },
+      { label: "Sunshine Coast Planning Scheme 2014", href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" },
+    ],
+  },
+  {
+    slug: "rpeq-civil-engineer-sunshine-coast",
+    title: "RPEQ civil engineer Sunshine Coast: when certification and review matter",
+    description:
+      "When Sunshine Coast development projects need RPEQ civil engineering review, certification, design checks or a clearer engineering compliance trail.",
+    date: "2026-09-23",
+    category: "RPEQ",
+    keywords: [
+      "RPEQ civil engineer Sunshine Coast",
+      "RPEQ certification Sunshine Coast",
+      "civil engineering certification Queensland",
+      "registered professional engineer Queensland civil",
+      "RPEQ operational works Sunshine Coast",
+    ],
+    faqs: [
+      {
+        question: "What is an RPEQ civil engineer?",
+        answer:
+          "An RPEQ is a Registered Professional Engineer of Queensland. For civil projects, RPEQ involvement may support design review, certification, engineering judgement and compliance documentation where professional engineering services are required.",
+      },
+      {
+        question: "Does every civil drawing need RPEQ certification?",
+        answer:
+          "No. The requirement depends on the type of engineering service, project scope, approval conditions and recipient requirements. Check the actual condition or request before assuming.",
+      },
+      {
+        question: "Can RPEQ review fix a bad design at the end?",
+        answer:
+          "Not reliably. RPEQ review is strongest when engineering assumptions, calculations and drawings are coordinated before the project is locked in.",
+      },
+      {
+        question: "Can CivilCity provide RPEQ support?",
+        answer:
+          "CivilCity can support RPEQ review and certification pathways where the requested scope fits its civil engineering capability and the necessary evidence is available.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Quick answer",
+        body: [
+          "A Sunshine Coast project may need an RPEQ civil engineer when civil engineering work requires professional review, certification, design verification or a clear engineering sign-off trail for council, project consultants, builders or asset owners.",
+          "Do not leave RPEQ involvement until the last minute. If the design has not been developed with the right assumptions, evidence and calculations, certification can expose missing information rather than simply sign off the package.",
+        ],
+      },
+      {
+        heading: "When RPEQ review becomes important",
+        body: [
+          "RPEQ involvement is often relevant for detailed civil design, operational works, stormwater, earthworks, retaining interfaces, road or frontage works, construction-phase changes and engineering responses to approval conditions.",
+          "The exact need depends on the project. The practical approach is to read the condition or request carefully, confirm what needs to be certified, then assemble the drawings, calculations, survey and supporting information required for a proper review.",
+        ],
+        table: {
+          columns: ["Scenario", "RPEQ question", "What to prepare"],
+          rows: [
+            ["Operational works", "Does the civil package need professional engineering certification?", "Drawings, calculations, conditions and design basis."],
+            ["Stormwater design", "Are discharge, detention and levels supported?", "Catchments, levels, outlet evidence and calculations."],
+            ["Design change", "Does the change affect safety, compliance or infrastructure?", "Marked-up changes and reason for the revision."],
+            ["Construction closeout", "Is the built work consistent with the approved design?", "As-constructed information, inspection records and variations."],
+          ],
+        },
+      },
+      {
+        heading: "What RPEQ review is not",
+        body: [
+          "RPEQ review is not a magic stamp for incomplete design. It does not replace planning approval, survey, geotechnical evidence, asset-owner acceptance or the need to resolve inconsistent drawings.",
+          "It is also not a guarantee of approval. It is professional engineering involvement directed to the scope being reviewed. The stronger the project evidence, the cleaner the review process becomes.",
+        ],
+      },
+      {
+        heading: "Common mistakes",
+        body: [
+          "The most common mistake is asking for certification after the design has already been priced, lodged or built without giving the engineer enough time or evidence to review it properly.",
+          "Other mistakes include unclear scope, missing survey, undocumented assumptions, inconsistent drawings, no calculation trail, late design changes and confusing planning compliance with engineering certification.",
+        ],
+      },
+      {
+        heading: "When CivilCity should be involved",
+        body: [
+          "Contact CivilCity when you receive a condition, request or project requirement that mentions RPEQ review, engineering certification, civil design verification or professional engineering input.",
+          "Send the approval condition or request, drawings, survey, calculations if available, previous correspondence and the deadline. CivilCity can then confirm what is needed and whether the package is ready for review or needs design work first.",
+        ],
+      },
+    ],
+    sourceLinks: [
+      { label: "Board of Professional Engineers of Queensland", href: "https://www.bpeq.qld.gov.au/" },
+      { label: "Sunshine Coast Council operational work applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work" },
+      { label: "Sunshine Coast Council development applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications" },
+    ],
+  },
+  {
+    slug: "development-site-due-diligence-sunshine-coast",
+    title: "Development site due diligence Sunshine Coast: civil checks before you buy",
+    description:
+      "A buyer-focused civil engineering due diligence guide for Sunshine Coast development sites, covering access, stormwater, services, easements, slope and hidden costs.",
+    date: "2026-09-23",
+    category: "Due diligence",
+    keywords: [
+      "development site due diligence Sunshine Coast",
+      "civil engineering due diligence Sunshine Coast",
+      "pre purchase civil engineering review Sunshine Coast",
+      "development site checklist Sunshine Coast",
+      "property development feasibility Sunshine Coast",
+    ],
+    faqs: [
+      {
+        question: "What should development site due diligence check?",
+        answer:
+          "At minimum, check access, stormwater discharge, services, easements, slope, flood or overlays, road frontage, earthworks, retaining, constructability and likely approval-condition risk.",
+      },
+      {
+        question: "Should due diligence happen before making an offer?",
+        answer:
+          "Ideally yes, or at least before the contract becomes unconditional. The aim is to identify cost and yield risks while the buyer can still negotiate, redesign or walk away.",
+      },
+      {
+        question: "Can a desktop review replace survey?",
+        answer:
+          "No. A desktop review is useful for early screening, but survey and site-specific design evidence are needed before relying on levels, boundaries, drainage and buildability.",
+      },
+      {
+        question: "What should I send CivilCity for a first review?",
+        answer:
+          "Send the address, title or lot plan, listing or contract timing, proposed development outcome, survey if available and the specific decision you need to make.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Quick answer",
+        body: [
+          "Before buying a Sunshine Coast development site, check the civil engineering issues that can change yield, approval risk, construction cost and programme. The big ones are access, stormwater, services, easements, slope, overlays and buildability.",
+          "A site can look attractive in a listing and still be a poor development deal if the driveway cannot work, stormwater has no practical outlet, sewer is hard to reach, or the best building area is consumed by overlays, retaining or easements.",
+        ],
+      },
+      {
+        heading: "The due diligence checks that protect margin",
+        body: [
+          "Good due diligence should produce a decision, not a folder of screenshots. It should tell you what appears workable, what needs further evidence, what could affect price and what assumptions should be written into the feasibility model.",
+          "Start with council information, planning scheme mapping, title documents, nearby approvals and visible site constraints. Then test how those constraints affect the development outcome you actually want.",
+        ],
+        table: {
+          columns: ["Check", "Evidence to seek", "Decision it informs"],
+          rows: [
+            ["Access", "Frontage, sight distance, grades and existing driveway options", "Can the proposed use or lot layout function safely?"],
+            ["Stormwater", "Outlet, levels, overland flow, easements and downstream route", "Can the site drain without killing yield?"],
+            ["Services", "Water, sewer, electricity and likely extension points", "Will connections be simple or expensive?"],
+            ["Slope and earthworks", "Survey levels, retaining risk and building envelopes", "Will the site need costly walls, fill or redesign?"],
+            ["Overlays and easements", "Planning mapping, title, survey and site report", "What land is constrained before design starts?"],
+          ],
+        },
+      },
+      {
+        heading: "What buyers often miss",
+        body: [
+          "Buyers often focus on zone, lot size and headline yield. Those are important, but civil constraints decide whether the yield can be built at a price that still makes sense.",
+          "The hidden risks are usually practical: a low rear lot that cannot drain by gravity, a narrow frontage that fails access, an easement through the best building pad, an old sewer crossing the site, or a retaining wall that was never in the agent's feasibility.",
+        ],
+      },
+      {
+        heading: "A practical pre-purchase process",
+        body: [
+          "First, define the intended outcome: subdivision, townhouse, dual occupancy, commercial use or land banking. Second, screen the public planning and development information. Third, test access, drainage, services, slope and easements against that outcome. Fourth, identify what needs survey, planning, hydraulic, geotechnical or other specialist evidence.",
+          "The best output is a short risk note that separates deal breakers from manageable design issues. That helps the buyer negotiate price, adjust the concept, extend due diligence or walk away before sunk cost takes over.",
+        ],
+      },
+      {
+        heading: "When CivilCity should be involved",
+        body: [
+          "Bring CivilCity in before going unconditional where the site value depends on development potential. A fast civil review can help you understand whether the project needs more investigation or whether the civil risk is already obvious enough to affect the offer.",
+          "CivilCity can review Sunshine Coast development sites for access, stormwater, services, slope, easements, overlays, likely operational works and construction-cost risk, then coordinate with your planner, surveyor or designer on the next step.",
+        ],
+      },
+    ],
+    sourceLinks: [
+      { label: "Sunshine Coast Council Development.i site report", href: "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report" },
+      { label: "Sunshine Coast Council interactive mapping", href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014/interactive-mapping" },
+      { label: "Sunshine Coast Planning Scheme 2014", href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" },
+      { label: "Sunshine Coast Council development applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications" },
+    ],
+  },
 ];
 
 export function getBlogPost(slug: string) {
@@ -3947,6 +4390,11 @@ export function getBlogImage(category: string, slug?: string) {
     "acid-sulfate-soils-overlay-sunshine-coast-earthworks-development-risk": "/civilcity-earthworks-bulldozer.png",
     "transport-and-parking-code-sunshine-coast-small-development-checks": "/insight-sight-distance-road-access-assessment.webp",
     "small-lot-housing-sunshine-coast-planning-civil-feasibility-checks": "/service-hero-design-documentation.webp",
+    "operational-works-application-sunshine-coast": "/insight-operational-works-application-package.webp",
+    "stormwater-engineer-sunshine-coast": "/service-hero-stormwater-drainage.webp",
+    "civil-engineer-development-application-sunshine-coast": "/service-hero-design-documentation.webp",
+    "rpeq-civil-engineer-sunshine-coast": "/insight-rpeq-signing-civil-plan.webp",
+    "development-site-due-diligence-sunshine-coast": "/insight-due-diligence-development-site-selection.webp",
   };
 
   if (slug && bySlug[slug]) return bySlug[slug];
