@@ -3735,6 +3735,122 @@ export const blogPosts: BlogPost[] = [
       { label: "Queensland Development Assessment", href: "https://planning.dsdmip.qld.gov.au/" },
     ],
   },
+  {
+    slug: "subdivision-sunshine-coast",
+    title: "Subdivision Sunshine Coast: the practical approval and feasibility guide",
+    description: "A detailed Sunshine Coast subdivision guide covering lot size, assessment pathway, access, stormwater, services, overlays, operational works and plan sealing.",
+    date: "2026-09-23",
+    category: "Subdivision",
+    keywords: [
+      "subdivision Sunshine Coast",
+      "Sunshine Coast subdivision",
+      "subdivide land Sunshine Coast",
+      "subdivision feasibility Sunshine Coast",
+      "reconfiguring a lot Sunshine Coast",
+      "subdivision civil engineer Sunshine Coast",
+      "Sunshine Coast subdivision approval",
+    ],
+    faqs: [
+      { question: "What is the minimum lot size for subdivision on the Sunshine Coast?", answer: "It depends on the zone, slope and any local plan or structure plan provisions. The Sunshine Coast Planning Scheme Reconfiguring a lot code lists 600m2 for Low density residential land where slope is 15% or less, increasing to 1,000m2 where slope is over 15% and up to 20%, and 1,500m2 where slope is over 20%. Local plan or structure plan provisions can vary some lot-size requirements, so the site must be checked specifically." },
+      { question: "Is a Sunshine Coast subdivision code assessable or impact assessable?", answer: "Many reconfiguring-a-lot applications are code assessable, but the pathway can change. For example, creating additional lots in the Low density residential zone may become impact assessable if the proposal does not comply with the relevant minimum lot size specified in the local plan or Table 9.4.4.3.2 of the Reconfiguring a lot code. Always confirm the current assessment pathway for the exact site and proposal." },
+      { question: "Can a large block automatically be subdivided?", answer: "No. Area is only the first screen. A subdivision also needs workable frontage or rear-lot access, slope, stormwater discharge, sewer and water servicing, overlays, easements, earthworks, construction access and a path through operational works and plan sealing." },
+      { question: "When should a civil engineer review a Sunshine Coast subdivision?", answer: "Before the layout is fixed and ideally before purchase conditions go unconditional. Early civil review can test access, driveway grades, stormwater, services, earthworks, retaining, operational works triggers and plan-sealing risks while the concept can still change cheaply." },
+    ],
+    sections: [
+      {
+        heading: "Quick answer",
+        body: [
+          "A Sunshine Coast subdivision is feasible only when the planning controls and the civil engineering both work. The useful first test is not simply whether the block is big enough. It is whether the site can create compliant lots with practical access, lawful stormwater discharge, services, manageable slope, acceptable overlays and a realistic path from approval to plan sealing.",
+          "For Low density residential land, the Reconfiguring a lot code is a critical starting point: the planning scheme identifies minimum lot-size and dimension requirements, including 600m2 where slope is 15% or less, 1,000m2 where slope is over 15% and up to 20%, and 1,500m2 where slope is over 20%. That is a starting benchmark, not a guarantee of approval or buildability."
+        ],
+      },
+      {
+        heading: "The real search intent behind subdivision Sunshine Coast",
+        body: [
+          "Most people searching for subdivision on the Sunshine Coast are not trying to read planning theory. They want to know whether a specific property can be split, what could stop it, how long it might take, who they need, and whether the numbers still work after civil works, infrastructure charges and plan sealing.",
+          "That is why a good subdivision feasibility review should join the planner's question and the engineer's question. The planner asks whether the proposal fits the planning scheme and assessment pathway. The engineer asks whether the resulting lots can be accessed, drained, serviced, constructed and closed out without blowing up the budget."
+        ],
+      },
+      {
+        heading: "Start with the assessment pathway",
+        body: [
+          "Under the Sunshine Coast Planning Scheme 2014, reconfiguring a lot is assessed through the tables of assessment and the relevant benchmarks. The Reconfiguring a lot table identifies when subdivision is code assessable or impact assessable and points the applicant back to the applicable local plan code, zone code, Reconfiguring a lot code and prescribed other development codes.",
+          "For Low density residential land, the pathway becomes more serious where additional lots are created and the proposal does not comply with the minimum lot size specified in the applicable local plan code or Table 9.4.4.3.2 of the Reconfiguring a lot code. In plain English: a non-compliant lot-size outcome can change the approval risk materially."
+        ],
+      },
+      {
+        heading: "Lot size is the first filter, not the decision",
+        body: [
+          "The Reconfiguring a lot code does more than state a headline area. Table 9.4.4.3.2 deals with minimum lot size, minimum square or rectangle dimensions and frontage. For Low density residential land, the extracted scheme data identifies 600m2 for slope up to 15%, 1,000m2 for slope over 15% and up to 20%, 1,500m2 for slope over 20%, a 15m x 20m minimum square or rectangle, and 15m frontage.",
+          "The trap is assuming that 1,200m2 automatically means two 600m2 lots. A site can fail because it is too narrow, too steep, constrained by an easement, affected by flood or overland flow, dependent on a rear access handle, missing a lawful discharge route, or unable to fit services and building envelopes without expensive retaining."
+        ],
+      },
+      {
+        heading: "Rear lots and battle-axe subdivisions need extra testing",
+        body: [
+          "Rear lots can be useful on deep Sunshine Coast blocks, but they are not a shortcut around proper design. The Reconfiguring a lot code sets expectations for rear lots, including that the lot area excluding the access strip should comply with the minimum lot-size requirements, that the access-strip gradient does not exceed 10%, that rear-lot arrangements do not prejudice adjoining land, and that access-handle impacts such as noise, light, dust and stormwater runoff are managed.",
+          "The scheme material also identifies access strip requirements. For residential zones, the extracted table shows a minimum single access strip width of 5m, combined access strips with reciprocal easement of 6m, minimum driveway width of 3.5m, maximum driveway length of 40m, and sealed or concreted pavement. Those numbers matter because a battle-axe idea that looks simple in plan can fail on grade, width, stormwater, turning or neighbour impact."
+        ],
+      },
+      {
+        heading: "Stormwater can decide the yield",
+        body: [
+          "Stormwater is often the civil constraint that decides whether a Sunshine Coast subdivision works. Each new lot needs a lawful and constructible drainage strategy. A nearby pit, gully or watercourse is not enough. The design must check levels, overland flow, downstream route, easements, maintenance access, detention or treatment requirements and whether the outlet can actually be used.",
+          "The ingested Sunshine Coast development works and code material repeatedly points to stormwater quality, quantity, infrastructure design and easements as subdivision issues. For feasibility, the right question is: can every proposed lot drain by a practical route that Council or the asset owner is likely to accept, without forcing a redesign of access, retaining, building pads or lot boundaries?"
+        ],
+      },
+      {
+        heading: "Services and infrastructure are not admin details",
+        body: [
+          "The Reconfiguring a lot code includes infrastructure and services outcomes. The ingested scheme material identifies that, in urban areas, new lots are expected to connect to reticulated water, reticulated sewer, electricity and, where available, high-speed telecommunications infrastructure. Stormwater management and sustainable design provisions also sit around those servicing questions.",
+          "That means a subdivision feasibility check should look at more than planning maps. Confirm sewer and water location, depth and capacity; likely connection points; service clashes; whether extensions or easements are required; whether road frontage works are likely; and whether operational works will be needed before construction and plan sealing."
+        ],
+      },
+      {
+        heading: "Overlays and local plans can change the answer",
+        body: [
+          "A site may meet a broad zone-based lot-size benchmark and still carry a serious approval risk because of overlays or local plan provisions. Flood, overland flow, biodiversity, waterways and wetlands, bushfire hazard, steep land, landslide, coastal hazards, acid sulfate soils, heritage, transport corridors and local character provisions can all change design, reporting and conditions.",
+          "This is where Sunshine Coast subdivision work becomes local. The useful first screen is Development.i, the site report, planning scheme mapping and nearby approvals. The useful professional review then asks how those mapped constraints interact with the actual layout: where vehicles enter, where water flows, where services run, where retaining sits and what conditions are likely to appear after approval."
+        ],
+      },
+      {
+        heading: "A practical Sunshine Coast subdivision feasibility process",
+        body: [
+          "1. Gather the property address, title, survey if available, easements, current services information and any purchase deadline. 2. Check zoning, local plan area, overlays, nearby approvals and whether the proposal is likely to be code or impact assessable. 3. Test lot size, frontage, slope, rear-lot access, driveway grades, sight distance and service corridors. 4. Confirm stormwater discharge, overland flow and any drainage easement requirement. 5. Estimate infrastructure charges, frontage works, operational works, survey, planning, civil design, construction and contingency. 6. Decide whether to proceed, redesign, negotiate the purchase price or walk away.",
+          "The sequence matters. If you test civil issues after the planner has already sold the client on a yield, everyone is stuck defending a fragile concept. If civil, planning and survey input happen early, the project can move around the constraints before those constraints become sunk cost."
+        ],
+      },
+      {
+        heading: "Worked example: why two 600m2 lots may still fail",
+        body: [
+          "Assume a 1,240m2 Low density residential block appears to support two 600m2 lots on area alone. The optimistic answer is yes. The professional answer is: check slope, frontage, stormwater, services, overlays, building envelopes and the access arrangement before trusting the yield.",
+          "If the site has 15m frontage, a steep crossfall and the existing house sits across the best access route, the rear lot may need a long access handle, retaining beside the driveway and a stormwater easement to the rear. If the rear discharge route crosses private land or needs a pumped solution that Council is unlikely to accept, the lot yield may be technically possible but commercially poor. The feasibility decision changes from 'can we subdivide?' to 'can we subdivide without creating a bad lot and an expensive civil package?'"
+        ],
+      },
+      {
+        heading: "Common mistakes that cost money",
+        body: [
+          "The first mistake is using lot size as the whole feasibility test. The second is relying on a concept layout without survey levels. The third is assuming stormwater can be solved later. The fourth is ignoring the difference between a planning approval and completed, sealed lots. The fifth is forgetting that approval conditions can create operational works, bonding, inspections, as-constructed records and plan-sealing evidence.",
+          "A smaller, cleaner subdivision can be worth more than a stretched layout that creates retaining, drainage easements, access conflicts, information requests and slow plan sealing. Margin is often protected by deleting the risky lot, not by forcing one more lot onto a drawing."
+        ],
+      },
+      {
+        heading: "When CivilCity should be involved",
+        body: [
+          "Bring in civil engineering when the site has slope, narrow frontage, rear access, possible flood or overland flow, uncertain stormwater discharge, easements, sewer through the site, retaining risk, road frontage works, or a purchase decision that depends on yield. Those are the points where a quick civil review can save a bad acquisition or sharpen the offer price.",
+          "CivilCity can support Sunshine Coast subdivision projects from early feasibility through concept civil input, access and stormwater strategy, operational works documentation, RPEQ review where required, construction support, as-constructed records and plan sealing closeout. Send the address, proposed yield, title plan, survey if available and the decision you need to make."
+        ],
+      },
+    ],
+    sourceLinks: [
+      { label: "Sunshine Coast Planning Scheme 2014", href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" },
+      { label: "Sunshine Coast Council Development.i site report", href: "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report" },
+      { label: "Sunshine Coast Council development applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications" },
+      { label: "Sunshine Coast Council operational work applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work" },
+      { label: "Sunshine Coast Council plan sealing", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing" },
+      { label: "Queensland Development Assessment", href: "https://planning.dsdmip.qld.gov.au/" },
+    ],
+  },
 ];
 
 export function getBlogPost(slug: string) {
@@ -3773,6 +3889,7 @@ export function getBlogImage(category: string, slug?: string) {
     "public-notification-sunshine-coast-developments-what-it-means": "/about-hero-subdivision-team.webp",
     "negotiating-development-conditions-sunshine-coast-civil-items-to-watch": "/insight-operational-works-delays-review.webp",
     "how-long-does-a-sunshine-coast-subdivision-approval-take": "/insight-operational-works-delays-review.webp",
+    "subdivision-sunshine-coast": "/project-type-subdivision-infill.webp",
     "low-density-residential-subdivision-sunshine-coast-minimum-lot-size-checks": "/service-hero-advice-office-plans.webp",
     "secondary-dwelling-sunshine-coast-civil-engineering-checks-before-you-build": "/service-hero-approvals-subdivision.webp",
     "dual-occupancy-sunshine-coast-approval-and-civil-design-risks": "/service-hero-due-diligence-rpeq.webp",
