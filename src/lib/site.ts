@@ -907,6 +907,10 @@ export function getProjectType(slug: string) {
 export type BlogSection = {
   heading: string;
   body: string | string[];
+  table?: {
+    columns: string[];
+    rows: string[][];
+  };
 };
 
 export type BlogResource = {
@@ -3763,6 +3767,14 @@ export const blogPosts: BlogPost[] = [
           "A Sunshine Coast subdivision is feasible only when the planning controls and the civil engineering both work. The useful first test is not simply whether the block is big enough. It is whether the site can create compliant lots with practical access, lawful stormwater discharge, services, manageable slope, acceptable overlays and a realistic path from approval to plan sealing.",
           "For Low density residential land, the Reconfiguring a lot code is a critical starting point: the planning scheme identifies minimum lot-size and dimension requirements, including 600m² where slope is 15% or less, 1,000m² where slope is over 15% and up to 20%, and 1,500m² where slope is over 20%. That is a starting benchmark, not a guarantee of approval or buildability."
         ],
+        table: {
+          columns: ["Feasibility question", "What to check", "Why it matters"],
+          rows: [
+            ["Can the land be split?", "Zone, local plan, lot size, frontage and slope", "These decide whether the planning pathway starts cleanly or with risk."],
+            ["Can each lot work physically?", "Access, driveway grade, sight distance, stormwater, services and retaining", "A compliant planning layout can still fail when civil constraints are tested."],
+            ["Can the project be closed out?", "Operational works, construction, as-constructed records and plan sealing", "Approval is not the finish line; sealed lots are."],
+          ],
+        },
       },
       {
         heading: "The real search intent behind subdivision Sunshine Coast",
@@ -3784,6 +3796,14 @@ export const blogPosts: BlogPost[] = [
           "The Reconfiguring a lot code does more than state a headline area. Table 9.4.4.3.2 deals with minimum lot size, minimum square or rectangle dimensions and frontage. For Low density residential land, the table identifies 600m² for slope up to 15%, 1,000m² for slope over 15% and up to 20%, 1,500m² for slope over 20%, a 15m x 20m minimum square or rectangle, and 15m frontage.",
           "The trap is assuming that 1,200m² automatically means two 600m² lots. A site can fail because it is too narrow, too steep, constrained by an easement, affected by flood or overland flow, dependent on a rear access handle, missing a lawful discharge route, or unable to fit services and building envelopes without expensive retaining."
         ],
+        table: {
+          columns: ["Low density residential slope", "Minimum lot size", "Extra dimension check"],
+          rows: [
+            ["Slope up to 15%", "600m²", "15m x 20m rectangle and 15m frontage"],
+            ["Slope over 15% and up to 20%", "1,000m²", "The same layout still needs workable access and building area"],
+            ["Slope over 20%", "1,500m²", "Steep-land and landslide risk can drive specialist advice"],
+          ],
+        },
       },
       {
         heading: "Rear lots and battle-axe subdivisions need extra testing",
@@ -3791,6 +3811,15 @@ export const blogPosts: BlogPost[] = [
           "Rear lots can be useful on deep Sunshine Coast blocks, but they are not a shortcut around proper design. The Reconfiguring a lot code sets expectations for rear lots, including that the lot area excluding the access strip should comply with the minimum lot-size requirements, that the access-strip gradient does not exceed 10%, that rear-lot arrangements do not prejudice adjoining land, and that access-handle impacts such as noise, light, dust and stormwater runoff are managed.",
           "For residential rear lots, the access-strip table shows a minimum single access strip width of 5m, combined access strips with reciprocal easement of 6m, minimum driveway width of 3.5m, maximum driveway length of 40m, and sealed or concreted pavement. Those numbers matter because a battle-axe idea that looks simple in plan can fail on grade, width, stormwater, turning or neighbour impact."
         ],
+        table: {
+          columns: ["Rear-lot item", "Typical residential requirement", "Practical design risk"],
+          rows: [
+            ["Single access strip", "5m minimum width", "May not fit beside an existing house, services or retaining wall"],
+            ["Shared access strips", "6m combined width with reciprocal easement", "Needs clear legal access and a driveway people can actually use"],
+            ["Driveway", "3.5m minimum width and 40m maximum length", "Long, steep or tight driveways can reduce buyer appeal and increase cost"],
+            ["Construction standard", "Sealed or concreted pavement", "The driveway is a real civil works item, not just a line on the plan"],
+          ],
+        },
       },
       {
         heading: "Stormwater can decide the yield",
@@ -3798,6 +3827,15 @@ export const blogPosts: BlogPost[] = [
           "Stormwater is often the civil constraint that decides whether a Sunshine Coast subdivision works. Each new lot needs a lawful and constructible drainage strategy. A nearby pit, gully or watercourse is not enough. The design must check levels, overland flow, downstream route, easements, maintenance access, detention or treatment requirements and whether the outlet can actually be used.",
           "Sunshine Coast subdivision design has to deal with stormwater quantity, water quality, infrastructure layout and drainage easements. For feasibility, the right question is: can every proposed lot drain by a practical route that Council or the asset owner is likely to accept, without forcing a redesign of access, retaining, building pads or lot boundaries?"
         ],
+        table: {
+          columns: ["Stormwater check", "Evidence to look for", "Common surprise"],
+          rows: [
+            ["Discharge point", "Council drainage, lawful outlet, watercourse or approved connection point", "A visible pit is not automatically an approved outlet."],
+            ["Levels", "Survey levels, pit inverts, overland flow paths and pipe grades", "A low lot may not drain by gravity without redesign."],
+            ["Easements", "Title search, survey plan and likely drainage route", "A private downstream route can need a new easement."],
+            ["Capacity and treatment", "Detention, water quality treatment and downstream impact requirements", "Detention does not fix every downstream or tailwater problem."],
+          ],
+        },
       },
       {
         heading: "Services and infrastructure are not admin details",
@@ -3819,6 +3857,15 @@ export const blogPosts: BlogPost[] = [
           "1. Gather the property address, title, survey if available, easements, current services information and any purchase deadline. 2. Check zoning, local plan area, overlays, nearby approvals and whether the proposal is likely to be code or impact assessable. 3. Test lot size, frontage, slope, rear-lot access, driveway grades, sight distance and service corridors. 4. Confirm stormwater discharge, overland flow and any drainage easement requirement. 5. Estimate infrastructure charges, frontage works, operational works, survey, planning, civil design, construction and contingency. 6. Decide whether to proceed, redesign, negotiate the purchase price or walk away.",
           "The sequence matters. If you test civil issues after the planner has already sold the client on a yield, everyone is stuck defending a fragile concept. If civil, planning and survey input happen early, the project can move around the constraints before those constraints become sunk cost."
         ],
+        table: {
+          columns: ["Stage", "Main question", "Useful output"],
+          rows: [
+            ["Desktop screen", "Does the site deserve more money and time?", "Zone, overlays, local plan, title and nearby approval notes"],
+            ["Concept test", "Can the proposed lots actually work?", "Sketch layout checked against access, drainage, services and slope"],
+            ["Cost and risk review", "Could hidden civil works kill the margin?", "Infrastructure charges, frontage works, retaining, stormwater and operational works allowance"],
+            ["Go or no-go", "Should you buy, redesign, negotiate or walk away?", "A short decision note with assumptions and red flags"],
+          ],
+        },
       },
       {
         heading: "Worked example: why two 600m² lots may still fail",

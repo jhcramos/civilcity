@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeft, CalendarDays } from "lucide-react";
 import { blogPosts, getBlogImage, getBlogPost, site } from "@/lib/site";
+import type { BlogSection } from "@/lib/site";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -40,6 +41,37 @@ function renderBody(body: string | string[], className: string) {
       {paragraph}
     </p>
   ));
+}
+
+function renderSectionTable(table?: BlogSection["table"]) {
+  if (!table) return null;
+
+  return (
+    <div className="mt-6 overflow-x-auto rounded-lg border border-charcoal bg-white/75 shadow-sm">
+      <table className="min-w-full border-collapse text-left text-sm text-carbon-vellum">
+        <thead className="bg-iris-glow/10">
+          <tr>
+            {table.columns.map((column) => (
+              <th key={column} scope="col" className="border-b border-charcoal px-4 py-3 font-semibold">
+                {column}
+              </th>
+            ))}
+          </tr>
+        </thead>
+        <tbody>
+          {table.rows.map((row, rowIndex) => (
+            <tr key={row.join("-")} className={rowIndex % 2 ? "bg-iris-glow/5" : "bg-transparent"}>
+              {row.map((cell) => (
+                <td key={cell} className="border-b border-charcoal px-4 py-3 align-top leading-6">
+                  {cell}
+                </td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  );
 }
 
 export default async function BlogPostPage({ params }: Props) {
@@ -112,6 +144,7 @@ export default async function BlogPostPage({ params }: Props) {
                   <div className="mt-4 space-y-4">
                     {renderBody(section.body, "text-lg leading-8 text-ash")}
                   </div>
+                  {renderSectionTable(section.table)}
                 </section>
               ))}
             </div>

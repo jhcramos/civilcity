@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeft, CalendarDays } from "lucide-react";
 import { blogPosts, getBlogImage, getBlogPost, site } from "@/lib/site";
+import type { BlogSection } from "@/lib/site";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -40,6 +41,37 @@ function renderBody(body: string | string[], className: string) {
       {paragraph}
     </p>
   ));
+}
+
+function renderSectionTable(table?: BlogSection["table"]) {
+  if (!table) return null;
+
+  return (
+    <div className="mt-6 overflow-x-auto rounded-lg border border-[#0d3b1e]/15 bg-white/80 shadow-sm">
+      <table className="min-w-full border-collapse text-left text-sm text-[#0d3b1e]">
+        <thead className="bg-[#0d3b1e]/8">
+          <tr>
+            {table.columns.map((column) => (
+              <th key={column} scope="col" className="border-b border-[#0d3b1e]/15 px-4 py-3 font-semibold">
+                {column}
+              </th>
+            ))}
+          </tr>
+        </thead>
+        <tbody>
+          {table.rows.map((row, rowIndex) => (
+            <tr key={row.join("-")} className={rowIndex % 2 ? "bg-[#0d3b1e]/4" : "bg-transparent"}>
+              {row.map((cell) => (
+                <td key={cell} className="border-b border-[#0d3b1e]/10 px-4 py-3 align-top leading-6">
+                  {cell}
+                </td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  );
 }
 
 export default async function InsightPostPage({ params }: Props) {
@@ -112,6 +144,7 @@ export default async function InsightPostPage({ params }: Props) {
                   <div className="mt-4 space-y-4">
                     {renderBody(section.body, "text-lg leading-8 text-[#0d3b1e]/72")}
                   </div>
+                  {renderSectionTable(section.table)}
                 </section>
               ))}
             </div>
