@@ -98,6 +98,64 @@ Include:
 - Primary keyword and secondary keywords.
 - `sourceLinks` to official resources where relevant.
 
+## CivilCity Article Style
+
+Write like a professional Sunshine Coast civil engineering consultancy, not like an AI system explaining how it found information.
+
+Do not publish internal process language:
+
+- ingested
+- extracted
+- RAG
+- chunk
+- vector database
+- scheme material
+- source material says
+- the data identifies
+- based on our database
+
+Use public, client-facing language instead:
+
+- The Sunshine Coast Planning Scheme identifies...
+- The Reconfiguring a lot code sets out...
+- Council guidance points applicants to...
+- For feasibility, check...
+- A civil engineer should test...
+
+Use this structure for important articles:
+
+1. Quick answer: answer the query in 2 concise paragraphs.
+2. Why it matters: explain the decision the reader is trying to make.
+3. Technical explanation in plain English: name the relevant code, table or process without sounding like council minutes.
+4. Practical table: include at least one real rendered table, not text pretending to be a table.
+5. Civil risk section: access, stormwater, services, earthworks, retaining, overlays, construction or closeout as relevant.
+6. Worked example: use a realistic hypothetical Sunshine Coast scenario.
+7. Common mistakes: tie mistakes to cost, delay, redesign, information requests or plan sealing.
+8. When CivilCity should be involved: state what to send and when to get help.
+9. FAQ and official resources.
+
+Preferred table patterns:
+
+| Pattern | Columns |
+| --- | --- |
+| Feasibility summary | Question / What to check / Why it matters |
+| Planning threshold | Site condition / Requirement / Practical implication |
+| Risk register | Risk / Evidence to seek / Common surprise |
+| Process | Stage / Main question / Useful output |
+| Consultant roles | Consultant / What they test / When to involve them |
+| Approval pathway | Trigger / Likely pathway / What changes |
+
+Keep table cells short. Tables should help readers scan and decide, not become dense reports.
+
+Pre-publish style check:
+
+- No internal workflow words are visible.
+- At least one useful table is included for cornerstone or technical articles.
+- The first section gives a direct answer.
+- The article includes a practical example, checklist or decision process.
+- It links to official public sources where relevant.
+- It does not promise approval or a legal outcome.
+
 ## Research Requirements
 
 Use current official/primary sources before making process, fee, approval, planning, or compliance claims.
@@ -139,7 +197,7 @@ Prefer existing realistic assets in `public/`. If a new asset is needed, create 
 
 ## Implementation Steps
 
-1. Update `src/lib/insights.ts`.
+1. Update `src/lib/site.ts`.
 2. Keep existing slugs stable.
 3. Add the next article in the correct order.
 4. Map a realistic article image in `getBlogImage`.
