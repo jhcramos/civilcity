@@ -933,6 +933,42 @@ export type BlogPost = {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "development-application-costs-sunshine-coast-small-developers",
+    title: "Development application costs on the Sunshine Coast: what small developers should budget for",
+    description: "A practical Sunshine Coast development cost checklist covering application fees, consultants, civil works, infrastructure charges and contingency.",
+    date: "2026-09-24",
+    category: "Development feasibility",
+    keywords: [
+      "development application costs Sunshine Coast",
+      "development fees Sunshine Coast",
+      "development feasibility costs Sunshine Coast",
+      "civil engineering costs development application",
+      "small developer project costs Sunshine Coast",
+    ],
+    faqs: [
+      { question: "How much does a Sunshine Coast development application cost?", answer: "There is no single reliable number. The council application fee depends on the application type and current fee schedule, while the total project cost also includes planning, survey, civil engineering, specialist reports, infrastructure charges, construction and possible conditions. Confirm current statutory fees with Council before lodging." },
+      { question: "Are civil engineering fees part of the council application fee?", answer: "No. Civil engineering is a separate consultant cost. It may cover feasibility, concept design, stormwater, access, earthworks, servicing, operational works documentation, certification or construction support depending on the project stage." },
+      { question: "What cost is most often missed by small developers?", answer: "The commonly missed items are not always the application fee. Service connections or upgrades, frontage works, retaining, stormwater discharge, operational works, bonds, plan sealing closeout and redesign after an information request can have a greater effect on feasibility." },
+      { question: "Should I get a civil estimate before buying the site?", answer: "Yes, when the project depends on a particular yield or access arrangement. A proportionate civil feasibility review can identify cost drivers before the purchase becomes unconditional." },
+    ],
+    sections: [
+      { heading: "Quick answer", body: ["A Sunshine Coast development application has more than one cost. The council fee is only the statutory starting point; the real feasibility allowance may also include planning, survey, civil engineering, specialist reports, infrastructure charges, service connections, construction, bonds and contingency.", "For a small developer, the useful question is not ‘what is the application fee?’ It is ‘what must I spend to get from this site to an approvable, constructible and closeable project?’ That answer depends on the proposal, site constraints and approval pathway." ] },
+      { heading: "Build the budget in layers", body: ["Start with the current Council application requirements and fee information for the exact application type. A Reconfiguration of a Lot, Material Change of Use, operational works application or other pathway can involve different documentation and statutory charges. Do not copy a fee from an old project or a different assessment pathway.", "Then separate consultant costs from delivery costs. Planning, cadastral survey, civil engineering, geotechnical, traffic, bushfire, environmental, hydraulic or other specialist advice may be triggered by the site. After approval, detailed design, construction, inspections, as-constructed records and plan sealing can create a second cost phase rather than one single consultant invoice." ] },
+      { heading: "A practical cost map", body: [], table: { columns: ["Cost group", "What to check", "Why it can move"], rows: [["Statutory and application", "Current Council fee, referral or assessment requirements", "Application type and fee schedule"], ["Consultants", "Planner, surveyor, civil and triggered specialists", "Site constraints and evidence required"], ["Civil delivery", "Access, drainage, earthworks, retaining, services and frontage", "Levels, discharge, existing infrastructure and conditions"], ["Contributions and closeout", "Infrastructure charges, bonds, inspections and plan sealing", "Approval conditions and final constructed outcome"], ["Risk allowance", "Redesign, information requests, escalation and holding costs", "Unknown site conditions and programme delay"]] } },
+      { heading: "Sunshine Coast civil costs that change the answer", body: ["Coastal infill and established urban sites can have tight frontages, older services, constrained drainage and little room for construction staging. Buderim and hinterland sites may add slope, retaining, driveway grades and difficult stormwater paths. Low-lying sites may need flood and overland-flow testing rather than relying on a desktop assumption. A site that looks inexpensive to acquire can be expensive to make serviceable.", "The civil review should test the proposed yield against access, sight distance, driveway grades, turning, stormwater and lawful discharge, sewer and water, easements, cut and fill, retaining, erosion controls and likely frontage works. These items can affect both the consultant budget and the amount of physical work the project must fund." ] },
+      { heading: "A decision process before you commit", body: ["1. Define the outcome: extra lot, townhouse, secondary dwelling, commercial use or another development. 2. Obtain the address, title, survey if available and proposed concept. 3. Check Council's Development.i information, Planning Scheme mapping and nearby approvals. 4. Ask the planner and civil engineer to list known, likely and unknown costs. 5. Price triggered specialist reports and service authority investigations. 6. Add construction, charges, bonds, closeout and a realistic contingency. 7. Re-run the feasibility model after the concept and approval conditions change." ] },
+      { heading: "Mistakes that cost more than the fee", body: ["The first mistake is treating the statutory fee as the project budget. The second is choosing the cheapest consultant package without checking what deliverables are excluded. A low initial quote that excludes stormwater calculations, condition responses, operational works or construction support may simply move the cost later.", "Another mistake is designing for a best-case point of discharge or service connection without confirming it. If that assumption fails, the project may need an easement, pump, upgrade, redesign or a different layout. Finally, allow for time: holding costs and lost contractor windows can outweigh the original application fee." ] },
+      { heading: "When CivilCity should be involved", body: ["Involve CivilCity before purchase or before the concept is fixed when the project depends on yield, constrained access, slope, flood or overland flow, stormwater discharge, existing services, retaining or frontage works. The first engagement can be a focused feasibility review rather than a full construction package.", "CivilCity helps Sunshine Coast developers turn a broad cost question into a site-specific risk list: access and levels, stormwater, servicing, earthworks, retaining, operational works triggers, construction support and plan-sealing closeout. Send the site address, proposed outcome, available survey and purchase or lodgement deadline for a practical first review." ] },
+    ],
+    sourceLinks: [
+      { label: "Sunshine Coast Council development applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications" },
+      { label: "Sunshine Coast Council development application forms", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms" },
+      { label: "Sunshine Coast Council operational work applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work" },
+      { label: "Sunshine Coast Planning Scheme 2014", href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" },
+      { label: "Queensland development infrastructure charges", href: "https://www.qld.gov.au/environment/land/planning/infrastructure-charges" },
+    ],
+  },
+  {
     slug: "can-i-subdivide-my-land-on-the-sunshine-coast",
     title: "Can I subdivide my land on the Sunshine Coast?",
     description: "A practical Sunshine Coast subdivision guide for owners and small developers checking whether a property is worth investigating.",
@@ -4353,6 +4389,7 @@ export const latestBlogPosts = [...blogPosts].sort(
 
 export function getBlogImage(category: string, slug?: string) {
   const bySlug: Record<string, string> = {
+    "development-application-costs-sunshine-coast-small-developers": "/insight-sunshine-coast-infrastructure-charges-budget-review.png",
     "can-i-subdivide-my-land-on-the-sunshine-coast": "/project-type-subdivision-infill.webp",
     "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers": "/insight-due-diligence-development-site-selection.webp",
     "operational-works-approval-sunshine-coast-a-developers-guide": "/insight-operational-works-application-package.webp",
