@@ -3751,7 +3751,7 @@ export const blogPosts: BlogPost[] = [
       "Sunshine Coast subdivision approval",
     ],
     faqs: [
-      { question: "What is the minimum lot size for subdivision on the Sunshine Coast?", answer: "It depends on the zone, slope and any local plan or structure plan provisions. The Sunshine Coast Planning Scheme Reconfiguring a lot code lists 600m2 for Low density residential land where slope is 15% or less, increasing to 1,000m2 where slope is over 15% and up to 20%, and 1,500m2 where slope is over 20%. Local plan or structure plan provisions can vary some lot-size requirements, so the site must be checked specifically." },
+      { question: "What is the minimum lot size for subdivision on the Sunshine Coast?", answer: "It depends on the zone, slope and any local plan or structure plan provisions. The Sunshine Coast Planning Scheme Reconfiguring a lot code lists 600m² for Low density residential land where slope is 15% or less, increasing to 1,000m² where slope is over 15% and up to 20%, and 1,500m² where slope is over 20%. Local plan or structure plan provisions can vary some lot-size requirements, so the site must be checked specifically." },
       { question: "Is a Sunshine Coast subdivision code assessable or impact assessable?", answer: "Many reconfiguring-a-lot applications are code assessable, but the pathway can change. For example, creating additional lots in the Low density residential zone may become impact assessable if the proposal does not comply with the relevant minimum lot size specified in the local plan or Table 9.4.4.3.2 of the Reconfiguring a lot code. Always confirm the current assessment pathway for the exact site and proposal." },
       { question: "Can a large block automatically be subdivided?", answer: "No. Area is only the first screen. A subdivision also needs workable frontage or rear-lot access, slope, stormwater discharge, sewer and water servicing, overlays, easements, earthworks, construction access and a path through operational works and plan sealing." },
       { question: "When should a civil engineer review a Sunshine Coast subdivision?", answer: "Before the layout is fixed and ideally before purchase conditions go unconditional. Early civil review can test access, driveway grades, stormwater, services, earthworks, retaining, operational works triggers and plan-sealing risks while the concept can still change cheaply." },
@@ -3761,7 +3761,7 @@ export const blogPosts: BlogPost[] = [
         heading: "Quick answer",
         body: [
           "A Sunshine Coast subdivision is feasible only when the planning controls and the civil engineering both work. The useful first test is not simply whether the block is big enough. It is whether the site can create compliant lots with practical access, lawful stormwater discharge, services, manageable slope, acceptable overlays and a realistic path from approval to plan sealing.",
-          "For Low density residential land, the Reconfiguring a lot code is a critical starting point: the planning scheme identifies minimum lot-size and dimension requirements, including 600m2 where slope is 15% or less, 1,000m2 where slope is over 15% and up to 20%, and 1,500m2 where slope is over 20%. That is a starting benchmark, not a guarantee of approval or buildability."
+          "For Low density residential land, the Reconfiguring a lot code is a critical starting point: the planning scheme identifies minimum lot-size and dimension requirements, including 600m² where slope is 15% or less, 1,000m² where slope is over 15% and up to 20%, and 1,500m² where slope is over 20%. That is a starting benchmark, not a guarantee of approval or buildability."
         ],
       },
       {
@@ -3781,8 +3781,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: "Lot size is the first filter, not the decision",
         body: [
-          "The Reconfiguring a lot code does more than state a headline area. Table 9.4.4.3.2 deals with minimum lot size, minimum square or rectangle dimensions and frontage. For Low density residential land, the extracted scheme data identifies 600m2 for slope up to 15%, 1,000m2 for slope over 15% and up to 20%, 1,500m2 for slope over 20%, a 15m x 20m minimum square or rectangle, and 15m frontage.",
-          "The trap is assuming that 1,200m2 automatically means two 600m2 lots. A site can fail because it is too narrow, too steep, constrained by an easement, affected by flood or overland flow, dependent on a rear access handle, missing a lawful discharge route, or unable to fit services and building envelopes without expensive retaining."
+          "The Reconfiguring a lot code does more than state a headline area. Table 9.4.4.3.2 deals with minimum lot size, minimum square or rectangle dimensions and frontage. For Low density residential land, the extracted scheme data identifies 600m² for slope up to 15%, 1,000m² for slope over 15% and up to 20%, 1,500m² for slope over 20%, a 15m x 20m minimum square or rectangle, and 15m frontage.",
+          "The trap is assuming that 1,200m² automatically means two 600m² lots. A site can fail because it is too narrow, too steep, constrained by an easement, affected by flood or overland flow, dependent on a rear access handle, missing a lawful discharge route, or unable to fit services and building envelopes without expensive retaining."
         ],
       },
       {
@@ -3821,9 +3821,9 @@ export const blogPosts: BlogPost[] = [
         ],
       },
       {
-        heading: "Worked example: why two 600m2 lots may still fail",
+        heading: "Worked example: why two 600m² lots may still fail",
         body: [
-          "Assume a 1,240m2 Low density residential block appears to support two 600m2 lots on area alone. The optimistic answer is yes. The professional answer is: check slope, frontage, stormwater, services, overlays, building envelopes and the access arrangement before trusting the yield.",
+          "Assume a 1,240m² Low density residential block appears to support two 600m² lots on area alone. The optimistic answer is yes. The professional answer is: check slope, frontage, stormwater, services, overlays, building envelopes and the access arrangement before trusting the yield.",
           "If the site has 15m frontage, a steep crossfall and the existing house sits across the best access route, the rear lot may need a long access handle, retaining beside the driveway and a stormwater easement to the rear. If the rear discharge route crosses private land or needs a pumped solution that Council is unlikely to accept, the lot yield may be technically possible but commercially poor. The feasibility decision changes from 'can we subdivide?' to 'can we subdivide without creating a bad lot and an expensive civil package?'"
         ],
       },
