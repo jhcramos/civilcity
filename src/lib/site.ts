@@ -4377,6 +4377,42 @@ export const blogPosts: BlogPost[] = [
       { label: "Sunshine Coast Council development applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications" },
     ],
   },
+  {
+    slug: "when-does-a-subdivision-need-operational-works",
+    title: "When does a Sunshine Coast subdivision need operational works?",
+    description: "A practical guide to operational works triggers for Sunshine Coast subdivisions, including roads, stormwater, earthworks, services, documentation and plan-sealing risk.",
+    date: "2026-09-25",
+    category: "Operational works",
+    keywords: [
+      "operational works subdivision Sunshine Coast",
+      "when does subdivision need operational works",
+      "Sunshine Coast operational works application",
+      "subdivision civil engineering Sunshine Coast",
+      "plan sealing operational works",
+    ],
+    faqs: [
+      { question: "Does every Sunshine Coast subdivision need an operational works application?", answer: "Not every proposal follows exactly the same pathway. The need depends on the approval conditions, the work proposed and whether development infrastructure such as roads, access, drainage, earthworks or services must be constructed or altered. Confirm the applicable pathway with Council and the approval documents for the site." },
+      { question: "Can I start subdivision construction after the reconfiguration approval?", answer: "Do not assume so. A reconfiguration approval may be followed by conditions, operational works approvals, detailed civil documentation, bonds, inspections or other pre-start requirements. Construction should proceed against the approved documents and required permissions, not only the original concept plan." },
+      { question: "What civil works commonly trigger operational works?", answer: "Common triggers include new roads or road widening, kerb and channel, frontage works, stormwater infrastructure, earthworks, retaining, access works, sewer or water infrastructure and works needed to satisfy development conditions. The exact trigger is site and approval specific." },
+      { question: "When should a civil engineer be involved?", answer: "Before the subdivision concept is fixed and again as soon as approval conditions are issued. Early civil input tests whether the proposed lots can be accessed, drained, serviced and constructed; post-approval design translates conditions into coordinated, buildable documentation." },
+    ],
+    sections: [
+      { heading: "Quick answer", body: ["A Sunshine Coast subdivision generally needs an operational works pathway when the approved development requires physical works to create compliant, serviceable lots. That can include new or altered access, roads, stormwater drainage, earthworks, retaining, frontage works, sewer, water or other infrastructure required by the approval conditions.", "The important distinction is between approving the land-use or reconfiguration proposal and approving or authorising the civil work needed to deliver it. A subdivision approval is not automatically a construction-ready civil package. Read the conditions, confirm the required application pathway with Council and have the civil design coordinated before work starts."] },
+      { heading: "Why the trigger matters", body: ["Operational works is where a planning concept becomes physical infrastructure. A layout that appears acceptable on a subdivision plan may still need detailed levels, grades, drainage calculations, service coordination, erosion and sediment controls, construction details and inspection points before it can be built and closed out.", "For developers, the risk is timing. If operational works is treated as a late administrative step, the project can lose months to redesign, information requests, missing survey data, service clashes, unpriced frontage works or incomplete records needed for plan sealing."] },
+      { heading: "What to check after the subdivision approval", body: [], table: { columns: ["Question", "Evidence to review", "Practical implication"], rows: [["What works are conditioned?", "Decision notice, conditions and approved plans", "Create a condition register before detailed design."], ["Is a separate operational works pathway required?", "Council application guidance and the specific approval", "Confirm the pathway before procurement or construction."], ["Can the lots be accessed and drained?", "Survey, levels, driveway grades, stormwater and discharge", "A planning layout may need civil revision."], ["Are services or frontage works affected?", "Existing services, road reserve and authority requirements", "Allow for coordination, protection or upgrades."], ["What closes the project?", "Inspection, as-constructed and plan-sealing requirements", "Capture evidence during construction, not after the contractor leaves."]] } },
+      { heading: "Common operational works components", body: ["On a small Sunshine Coast subdivision, the package may include civil drawings for access and driveways, road or frontage works, stormwater drainage, earthworks and retaining, erosion and sediment control, sewer and water servicing, and details for any conditioned infrastructure. Sloping Buderim or hinterland sites may need more attention to grades, retaining and overland flow. Coastal and low-lying sites can make lawful discharge, flood behaviour and construction levels the controlling issue.", "The drawings should be based on reliable survey information and coordinated with the planner, cadastral surveyor, architect, geotechnical engineer and relevant service authorities. The civil engineer should identify assumptions such as point of discharge, service connection location, retaining ownership and finished levels rather than burying them in a note that nobody checks."] },
+      { heading: "A practical decision process", body: ["1. Read the development approval and mark every condition involving infrastructure, access, drainage, earthworks, services, inspection or plan sealing. 2. Compare those conditions with the approved layout and identify work outside the original concept. 3. Confirm the Council pathway and required forms, plans, calculations, reports and fees. 4. Update the survey and civil base plan. 5. Test grades, sight distance, turning, stormwater, services, earthworks and retaining. 6. Coordinate the package with the planner, surveyor and contractor before lodging or starting work. 7. Build an inspection and records schedule that leads to as-constructed information and plan sealing."] },
+      { heading: "Mistakes that cost money or delay closeout", body: ["A common mistake is assuming the subdivision approval itself authorises every physical work. Another is designing from an old concept plan after conditions have changed the access, drainage or lot layout. Both mistakes create rework and can leave the contractor pricing the wrong scope.", "Developers also underestimate closeout. Missing inspection evidence, unapproved changes, incomplete as-constructed drawings, unresolved bonds or a service authority sign-off can hold up plan sealing even when the works look finished. Treat closeout as part of the construction package from day one."] },
+      { heading: "When CivilCity should be involved", body: ["Bring CivilCity in before purchase or before the subdivision layout is locked if the project depends on a narrow frontage, shared access, steep land, flood or overland flow, difficult discharge, existing services, retaining or frontage works. After approval, send the decision notice, conditions, approved plans, survey and target construction date so the required civil scope can be confirmed quickly.", "CivilCity helps Sunshine Coast developers translate approval conditions into coordinated operational works documentation, test access and levels, design stormwater and servicing solutions, coordinate construction support and maintain the evidence needed for practical completion and plan sealing. The goal is a buildable package with fewer surprises between approval and registered lots."] },
+    ],
+    sourceLinks: [
+      { label: "Sunshine Coast Council operational work applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work" },
+      { label: "Sunshine Coast Council development applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications" },
+      { label: "Sunshine Coast Council plan sealing", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing" },
+      { label: "Sunshine Coast Planning Scheme 2014", href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" },
+      { label: "Queensland Development Assessment", href: "https://planning.dsdmip.qld.gov.au/" },
+    ],
+  },
 ];
 
 export function getBlogPost(slug: string) {
@@ -4416,6 +4452,7 @@ export function getBlogImage(category: string, slug?: string) {
     "public-notification-sunshine-coast-developments-what-it-means": "/about-hero-subdivision-team.webp",
     "negotiating-development-conditions-sunshine-coast-civil-items-to-watch": "/insight-operational-works-delays-review.webp",
     "how-long-does-a-sunshine-coast-subdivision-approval-take": "/insight-operational-works-delays-review.webp",
+    "when-does-a-subdivision-need-operational-works": "/insight-operational-works-application-package.webp",
     "subdivision-sunshine-coast": "/project-type-subdivision-infill.webp",
     "low-density-residential-subdivision-sunshine-coast-minimum-lot-size-checks": "/service-hero-advice-office-plans.webp",
     "secondary-dwelling-sunshine-coast-civil-engineering-checks-before-you-build": "/service-hero-approvals-subdivision.webp",
