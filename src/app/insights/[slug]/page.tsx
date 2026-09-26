@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import type { ReactNode } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -33,14 +34,68 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
+function getNumberedItems(paragraph: string) {
+  const markerPattern = /(?:^|\s)(\d+)\.\s+/g;
+  const markers = Array.from(paragraph.matchAll(markerPattern));
+
+  if (!markers.length || markers[0].index !== 0) return null;
+
+  return markers.map((marker, index) => {
+    const start = marker.index! + marker[0].length;
+    const end = markers[index + 1]?.index ?? paragraph.length;
+
+    return {
+      number: marker[1],
+      text: paragraph.slice(start, end).trim(),
+    };
+  });
+}
+
+function renderNumberedList(items: { number: string; text: string }[], key: string) {
+  return (
+    <ol key={key} className="mt-5 space-y-3">
+      {items.map((item) => (
+        <li key={`${item.number}-${item.text}`} className="grid grid-cols-[2.25rem_1fr] gap-4">
+          <span className="flex h-9 w-9 items-center justify-center rounded-full bg-[#0d3b1e] text-sm font-semibold tabular-nums text-warm-cream shadow-sm">
+            {item.number}
+          </span>
+          <span className="pt-1.5 text-lg leading-8 text-[#0d3b1e]/76">{item.text}</span>
+        </li>
+      ))}
+    </ol>
+  );
+}
+
 function renderBody(body: string | string[], className: string) {
   const paragraphs = Array.isArray(body) ? body : body.split("\n\n");
+  const rendered: ReactNode[] = [];
+  let listItems: { number: string; text: string }[] = [];
 
-  return paragraphs.map((paragraph) => (
-    <p key={paragraph} className={className}>
-      {paragraph}
-    </p>
-  ));
+  function flushList(key: string) {
+    if (!listItems.length) return;
+    rendered.push(renderNumberedList(listItems, key));
+    listItems = [];
+  }
+
+  paragraphs.forEach((paragraph, index) => {
+    const numberedItems = getNumberedItems(paragraph);
+
+    if (numberedItems) {
+      listItems.push(...numberedItems);
+      return;
+    }
+
+    flushList(`list-${index}`);
+    rendered.push(
+      <p key={paragraph} className={className}>
+        {paragraph}
+      </p>,
+    );
+  });
+
+  flushList("list-final");
+
+  return rendered;
 }
 
 function renderSectionTable(table?: BlogSection["table"]) {
