@@ -4448,6 +4448,35 @@ export const blogPosts: BlogPost[] = [
       { label: "Queensland Development Assessment", href: "https://planning.dsdmip.qld.gov.au/" },
     ],
   },
+  {
+    slug: "as-constructed-drawings-sunshine-coast-subdivision-closeout",
+    title: "As-constructed drawings: why they matter for Sunshine Coast subdivision closeout",
+    description: "A practical guide to as-constructed drawings for Sunshine Coast subdivision and operational works, including survey pickup, inspections, changes and plan-sealing risk.",
+    date: "2026-09-27",
+    category: "Operational works",
+    keywords: ["as-constructed drawings Sunshine Coast", "subdivision plan sealing Sunshine Coast", "operational works closeout", "civil as constructed survey"],
+    faqs: [
+      { question: "What are as-constructed drawings?", answer: "They record what was actually built, including final levels, locations, dimensions and relevant infrastructure details. They are different from approved design drawings, which show what was intended." },
+      { question: "When should as-constructed information be collected?", answer: "Plan it before construction and collect critical information while assets, connections and levels are visible. Waiting until the site is finished can make buried infrastructure difficult to verify." },
+      { question: "Can missing as-constructed drawings delay plan sealing?", answer: "Yes. Incomplete records, unresolved variations, missing inspection evidence or uncertainty about constructed infrastructure can delay demonstrating that conditions and closeout requirements have been satisfied." },
+      { question: "Who prepares the final record?", answer: "The civil engineer coordinates the requirements, while construction records and survey pickup are normally supplied by the contractor's surveyor or another suitably qualified survey professional." },
+    ],
+    sections: [
+      { heading: "Quick answer", body: ["As-constructed drawings record the infrastructure that was actually built on a Sunshine Coast development site. They can show final lot levels, roads, driveways, stormwater pipes and pits, drainage connections, services, retaining interfaces and other works relevant to completion and plan sealing.", "The approved civil drawings describe the design, not necessarily the final site. If construction changed a level, alignment, pipe location, pit position or connection, the closeout record needs to show that change clearly and be supported by the required inspections, tests, certificates and approvals. Plan sealing should be treated as a deliverable designed into construction, not paperwork discovered at the end."] },
+      { heading: "Why the distinction matters", body: ["A subdivision can look complete while the project file is not. A contractor may adjust a stormwater line around an existing service, change a retaining edge or alter a driveway level. Those changes may be reasonable, but they still need to be assessed, documented and approved where required.", "The commercial risk appears when civil works look finished and registration is expected, but the team has to reconstruct what happened months earlier. Missing evidence can mean extra survey, exposure of buried assets, redesign, authority queries or a contractor return visit."] },
+      { heading: "What the closeout record should answer", body: ["The exact submission requirements depend on the approval, works and Council's current process. As a practical starting point, the record should show what was installed, where it is, what levels and dimensions apply, and whether the work matches the approved design or an accepted variation."], table: { columns: ["Question", "Evidence to coordinate", "Why it matters"], rows: [["Where are the assets?", "Surveyed alignments, pits, pipes, kerbs and connections", "Confirms the infrastructure footprint."], ["What levels were achieved?", "Surface, invert, cover, lot and tie-in levels", "Confirms drainage, access and falls."], ["What changed?", "Marked-up drawings, variation records and approvals", "Prevents hidden site changes."], ["Was the work inspected?", "Inspection records, tests, photos and certificates", "Supports completion and condition responses."], ["Can the project close out?", "Coordinated package and outstanding-item register", "Connects construction evidence to plan sealing."]] } },
+      { heading: "A Sunshine Coast example", body: ["Imagine a two-lot subdivision in Buderim with a shared access handle and a new stormwater connection. An existing service forces the contractor to shift a pipe, move a pit and adjust the driveway transition to suit the surveyed road level.", "A better process records the change immediately, confirms the revised design response, surveys the installed infrastructure before it is covered, and updates the as-constructed drawing with final levels and connection details."] },
+      { heading: "Practical closeout process", body: ["1. Read the approval conditions and Council's operational works and plan-sealing requirements before construction. 2. Add as-constructed deliverables to the contractor's scope and inspection plan. 3. Agree which assets need survey pickup before backfill. 4. Record site changes immediately and obtain confirmation where required. 5. Collect tests, inspections, photos, certificates and service sign-offs as work progresses. 6. Reconcile the final survey against the approved drawings and condition register. 7. Resolve outstanding items before requesting completion or plan sealing."] },
+      { heading: "Mistakes that cause closeout delays", body: ["The most common mistake is asking for an as-constructed plan after the contractor has demobilised. Other failures include relying on red-line sketches without survey pickup, omitting invert levels, showing design values instead of installed values, failing to record service connections, and treating a construction variation as informal because it looks minor.", "The survey, civil plan, engineering certificate, service authority record and plan-sealing application should describe the same completed works. If they disagree, someone must investigate before the file can be closed."] },
+      { heading: "When CivilCity should be involved", body: ["Bring CivilCity in before construction starts if the project has conditioned infrastructure, new drainage, shared access, retaining, frontage works, service relocations or a plan-sealing deadline. Send the approval decision and conditions, approved civil plans, current survey, construction programme and proposed variations.", "CivilCity can define closeout requirements, coordinate inspection and survey inputs, review changes against the approved design, update the as-constructed package and identify unresolved items before they become a plan-sealing problem. The goal is a traceable record of what was built."] },
+    ],
+    sourceLinks: [
+      { label: "Sunshine Coast Council plan sealing", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing" },
+      { label: "Sunshine Coast Council operational work applications", href: "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work" },
+      { label: "Sunshine Coast Planning Scheme 2014", href: "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" },
+      { label: "Queensland Development Assessment", href: "https://planning.statedevelopment.qld.gov.au/" },
+    ],
+  },
 ];
 
 export function getBlogPost(slug: string) {
@@ -4489,6 +4518,7 @@ export function getBlogImage(category: string, slug?: string) {
     "how-long-does-a-sunshine-coast-subdivision-approval-take": "/insight-operational-works-delays-review.webp",
     "when-does-a-subdivision-need-operational-works": "/insight-operational-works-application-package.webp",
     "what-civil-drawings-are-needed-for-operational-works-sunshine-coast": "/service-hero-design-documentation.webp",
+    "as-constructed-drawings-sunshine-coast-subdivision-closeout": "/insight-operational-works-after-da-conditions.webp",
     "subdivision-sunshine-coast": "/project-type-subdivision-infill.webp",
     "low-density-residential-subdivision-sunshine-coast-minimum-lot-size-checks": "/service-hero-advice-office-plans.webp",
     "secondary-dwelling-sunshine-coast-civil-engineering-checks-before-you-build": "/service-hero-approvals-subdivision.webp",
