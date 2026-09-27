@@ -227,7 +227,7 @@ export const blogPosts: BlogPost[] = [
       },
       {
         "label": "Queensland development infrastructure charges",
-        "href": "https://www.qld.gov.au/environment/land/planning/infrastructure-charges"
+        "href": "https://www.planning.qld.gov.au/planning-framework/infrastructure-planning/infrastructure-charges"
       }
     ]
   },
@@ -5298,7 +5298,7 @@ export const blogPosts: BlogPost[] = [
       },
       {
         "label": "Queensland Planning Act 2016",
-        "href": "https://www.legislation.qld.gov.au/view/html/inforce/current/act-2016-005"
+        "href": "https://www.legislation.qld.gov.au/view/html/inforce/current/act-2016-025"
       }
     ]
   },
@@ -5461,7 +5461,7 @@ export const blogPosts: BlogPost[] = [
       },
       {
         "label": "Queensland Planning Act 2016",
-        "href": "https://www.legislation.qld.gov.au/view/html/inforce/current/act-2016-005"
+        "href": "https://www.legislation.qld.gov.au/view/html/inforce/current/act-2016-025"
       },
       {
         "label": "Current Sunshine Coast Planning Scheme",
@@ -7514,7 +7514,7 @@ export const blogPosts: BlogPost[] = [
       },
       {
         "label": "Queensland Development Assessment",
-        "href": "https://planning.statedevelopment.qld.gov.au/"
+        "href": "https://www.planning.qld.gov.au/planning-framework/development-assessment"
       },
       {
         "label": "Unitywater subdivision servicing pathway",

@@ -47,3 +47,9 @@ Review queries shared across multiple URLs before considering consolidation. Pre
 ## Future evidence that would strengthen authority
 
 Prioritise verified project lessons, original annotated site diagrams, genuine named technical authors and reviewed cost examples where the business can provide publishable evidence. Keep customer/title documents and other sensitive material out of Git. The current hypothetical scenarios are explicitly labelled and are not substitutes for real case studies.
+
+## Validation evidence
+
+GitHub Actions [run 36281845460](https://github.com/jhcramos/civilcity/actions/runs/36281845460) passed a clean dependency install, content integrity, repository-wide ESLint, production build and inspection of all 46 generated article pages. Local TypeScript also passed. The first push was preceded by Gitleaks scans of all Git history and the current text tree, plus a sensitive-filename audit; no leaks were found. Local ESLint was unable to read evicted dependency files while the Mac disk was critically full, so clean-runner checks were used.
+
+The inherited infrastructure-charges and planning-portal links were replaced with current official destinations. The Planning Act link was corrected to Act 2016 No. 25.
