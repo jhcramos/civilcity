@@ -939,6 +939,7 @@ export function getBlogImage(category: string, slug?: string) {
     "when-does-a-subdivision-need-operational-works": "/insight-operational-works-application-package.webp",
     "what-civil-drawings-are-needed-for-operational-works-sunshine-coast": "/service-hero-design-documentation.webp",
     "as-constructed-drawings-sunshine-coast-subdivision-closeout": "/insight-operational-works-after-da-conditions.webp",
+    "why-plan-sealing-gets-delayed-sunshine-coast": "/insight-operational-works-delays-review.webp",
     "subdivision-sunshine-coast": "/project-type-subdivision-infill.webp",
     "low-density-residential-subdivision-sunshine-coast-minimum-lot-size-checks": "/service-hero-advice-office-plans.webp",
     "secondary-dwelling-sunshine-coast-civil-engineering-checks-before-you-build": "/service-hero-approvals-subdivision.webp",
