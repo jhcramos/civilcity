@@ -24,3 +24,7 @@ Open `http://localhost:3000`.
 - Services live in `src/lib/site.ts` under `services`.
 - Blog posts live in `src/lib/site.ts` under `blogPosts`.
 - Sitemap and robots are generated from the same content data.
+
+## Insight editing and validation
+
+Articles live in `src/lib/insights.ts`; `site.ts` re-exports the public helpers for existing callers. Keep slugs stable. Each article has explicit lists, tables, contextual links, a related service and further reading. Run `npm run check:content`, `npm run lint` and `npm run build` before review. See `docs/blog-editorial-review.md` for the scope, source checks and Search Console follow-up.
