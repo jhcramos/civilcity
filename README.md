@@ -22,7 +22,7 @@ Open `http://localhost:3000`.
 ## Content model
 
 - Services live in `src/lib/site.ts` under `services`.
-- Blog posts live in `src/lib/site.ts` under `blogPosts`.
+- Blog posts live in `src/lib/insights.ts` under `blogPosts`.
 - Sitemap and robots are generated from the same content data.
 
 ## Insight editing and validation

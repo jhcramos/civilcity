@@ -197,13 +197,13 @@ Prefer existing realistic assets in `public/`. If a new asset is needed, create 
 
 ## Implementation Steps
 
-1. Update `src/lib/site.ts`.
+1. Update article data in `src/lib/insights.ts`.
 2. Keep existing slugs stable.
 3. Add the next article in the correct order.
-4. Map a realistic article image in `getBlogImage`.
-5. Run `npm run build`.
-6. If build passes and Vercel auth is available, deploy with `npx vercel deploy --prod --yes`.
-7. Verify the new live article URL returns `200`.
+4. Map a realistic article image in `getBlogImage` in `src/lib/site.ts`.
+5. Run `npm run check:content`, `npm run lint` and `npm run build`.
+6. Commit and push to the authorised remote after the required secret scan. Follow the review and deployment authorisation for the run; available Vercel credentials alone do not authorise production publication.
+7. After an authorised deployment, verify the new live article URL returns `200`.
 8. Verify `https://civilcity.com.au/sitemap.xml` includes the new URL.
 
 ## Final Report
