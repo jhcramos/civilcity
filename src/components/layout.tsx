@@ -34,8 +34,9 @@ export function Footer() {
         <div>
           <Logo />
           <p className="mt-5 max-w-md text-sm leading-6 text-driftwood">
-            CivilCity Engineering Consultants helps Sunshine Coast project teams create value
-            from early feasibility through approvals, civil design, RPEQ review and construction support.
+            Develop your Sunshine Coast site with a clear engineering plan. Get expert advice
+            on feasibility, council requirements and civil design before committing to costly
+            decisions. Talk to CivilCity about your subdivision or development project.
           </p>
           <div className="mt-6 flex flex-wrap gap-3 text-sm text-driftwood">
             <a className="inline-flex items-center gap-2 hover:text-amber-forge" href={`tel:${site.phone.replace(/\s/g, "")}`}>
