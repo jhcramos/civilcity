@@ -8,7 +8,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const staticAndServiceEntries = [...staticRoutes, ...serviceRoutes, ...projectTypeRoutes].map((route) => ({
     url: `${site.domain}${route}`,
-    lastModified: new Date("2026-06-29"),
+    lastModified: new Date(route === "/contact" || route === "/services" || route.startsWith("/services/") ? "2026-09-28" : "2026-06-29"),
     changeFrequency: route === "" ? "weekly" : "monthly",
     priority: route === "" ? 1 : route.startsWith("/services") ? 0.9 : route.startsWith("/projects/") ? 0.85 : 0.7,
   })) satisfies MetadataRoute.Sitemap;

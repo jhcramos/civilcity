@@ -27,3 +27,4 @@ jobs:
         env:
           NEXT_TELEMETRY_DISABLED: '1'
       - run: node scripts/check-built-insights.mjs
+      - run: node scripts/check-commercial-pages.mjs
