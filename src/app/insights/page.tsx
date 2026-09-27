@@ -1,75 +1,32 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight, BadgeCheck, ClipboardCheck, FileText } from "lucide-react";
-import { PageHero } from "@/components/page-hero";
-import { getBlogImage, imagery, latestBlogPosts } from "@/lib/site";
+import { ArrowRight } from "lucide-react";
+import { InsightsLibrary } from "@/components/insights-library";
+import { getBlogImage, latestBlogPosts } from "@/lib/site";
+import { getArticleWordCount } from "@/lib/insights";
 
 export const metadata: Metadata = {
-  title: "Civil Engineering Insights",
-  description:
-    "CivilCity insights on operational works, RPEQ certification, stormwater, due diligence and construction support on the Sunshine Coast.",
+  title: "Sunshine Coast Land Development Guides",
+  description: "Practical Sunshine Coast land development guides: subdivision feasibility, civil engineering costs, stormwater, operational works and plan sealing.",
   alternates: { canonical: "/insights" },
 };
-
+const startingPoints = [
+  { title: "Before you buy", text: "Test access, drainage, services and the assumptions behind the proposed yield.", slug: "development-site-due-diligence-sunshine-coast" },
+  { title: "Planning a subdivision", text: "Understand the decisions from feasibility through approvals and delivery.", slug: "subdivision-sunshine-coast" },
+  { title: "Ready for civil works", text: "Turn approval conditions into a defined engineering and construction scope.", slug: "operational-works-application-sunshine-coast" },
+];
 export default function InsightsPage() {
-  return (
-    <>
-      <PageHero
-        eyebrow="Insights"
-        title="Civil engineering guidance for Sunshine Coast development projects."
-        copy="Practical explainers for approvals, stormwater, RPEQ certification, due diligence, design documentation and construction support."
-        image={imagery.documentation}
-        imageAlt="Civil engineering documentation and project planning"
-        ctaLabel="Ask about a project"
-        secondaryLabel="View services"
-        secondaryHref="/services"
-        statement="Clear notes for the decisions that slow projects down."
-        cards={[
-          {
-            icon: FileText,
-            title: "Approval explainers",
-            body: "Operational works, MCU, ROL and council-condition topics written in plain language.",
-          },
-          {
-            icon: ClipboardCheck,
-            title: "Risk notes",
-            body: "Common causes of delays across stormwater, access, due diligence and documentation.",
-          },
-          {
-            icon: BadgeCheck,
-            title: "RPEQ context",
-            body: "Helpful framing for when engineering review and sign-off may be required.",
-          },
-        ]}
-      />
-      <section className="cream-site-section section-pad">
-        <div className="mx-auto grid max-w-7xl gap-5 px-4 sm:px-6 md:grid-cols-2 lg:grid-cols-3 lg:px-8">
-          {latestBlogPosts.map((post) => (
-            <Link key={post.slug} href={`/insights/${post.slug}`} className="site-card group">
-              <div className="relative aspect-[16/10]">
-                <Image
-                  src={getBlogImage(post.category, post.slug)}
-                  alt={`${post.category} civil engineering visual`}
-                  fill
-                  sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
-                  className="image-muted object-cover transition duration-500 group-hover:scale-105"
-                />
-              </div>
-              <div className="p-6">
-                <p className="eyebrow">{post.category}</p>
-                <h2 className="mt-4 text-xl font-normal tracking-[-0.03em] text-warm-cream">
-                  {post.title}
-                </h2>
-                <p className="mt-3 text-sm leading-6 text-driftwood">{post.description}</p>
-                <p className="mt-5 inline-flex items-center gap-2 text-sm font-medium text-amber-forge">
-                  Read insight <ArrowRight size={15} className="transition group-hover:translate-x-1" />
-                </p>
-              </div>
-            </Link>
-          ))}
-        </div>
-      </section>
-    </>
-  );
+  const cards = latestBlogPosts.map((post) => ({
+    slug: post.slug, title: post.title, description: post.description, category: post.category,
+    image: getBlogImage(post.category, post.slug), readingMinutes: Math.max(1, Math.ceil(getArticleWordCount(post) / 220)),
+  }));
+  return <>
+    <header className="bg-espresso px-4 pt-32 pb-14 sm:px-6 sm:pb-20 lg:px-8 lg:pt-40">
+      <div className="mx-auto max-w-7xl"><p className="eyebrow">CivilCity insights · Sunshine Coast</p><h1 className="mt-5 max-w-4xl text-4xl leading-[1.1] font-normal tracking-[-0.035em] text-warm-cream sm:text-5xl lg:text-6xl">Better-informed land development decisions.</h1><p className="mt-6 max-w-2xl text-lg leading-8 text-driftwood">Practical guides to feasibility, approvals and civil works, with the evidence to gather, questions to ask and project risks to resolve.</p><a href="#all-guides" className="mt-7 inline-flex items-center gap-2 font-medium text-amber-forge">Explore the guide library <ArrowRight size={18} aria-hidden /></a></div>
+    </header>
+    <section className="cream-site-section px-4 py-12 sm:px-6 lg:px-8" aria-labelledby="start-heading">
+      <div className="mx-auto max-w-7xl"><h2 id="start-heading" className="text-2xl text-[#0d3b1e]">Start with your next decision</h2><div className="mt-6 grid gap-4 md:grid-cols-3">{startingPoints.map((point, index) => <Link key={point.slug} href={`/insights/${point.slug}`} className="rounded-2xl border border-[#0d3b1e]/20 bg-white/75 p-6 text-[#0d3b1e] transition hover:bg-white"><span className="text-xs font-semibold tracking-wider">0{index + 1}</span><h3 className="mt-3 text-2xl">{point.title}</h3><p className="mt-3 text-sm leading-7">{point.text}</p><ArrowRight size={20} className="mt-5" aria-hidden /></Link>)}</div></div>
+    </section>
+    <section id="all-guides" className="cream-site-section scroll-mt-24 px-4 pb-16 sm:px-6 lg:px-8" aria-labelledby="library-heading"><div className="mx-auto max-w-7xl"><h2 id="library-heading" className="mb-6 text-3xl text-[#0d3b1e]">Find a guide for your project</h2><InsightsLibrary articles={cards} /></div></section>
+  </>;
 }

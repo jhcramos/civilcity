@@ -1,245 +1,149 @@
 import type { Metadata } from "next";
-import type { ReactNode } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArrowLeft, CalendarDays } from "lucide-react";
+import { ArrowLeft, ArrowRight, Check } from "lucide-react";
 import { blogPosts, getBlogImage, getBlogPost, site } from "@/lib/site";
-import type { BlogSection } from "@/lib/site";
+import { getArticleWordCount, getSectionId, type BlogSection } from "@/lib/insights";
 
-type Props = {
-  params: Promise<{ slug: string }>;
-};
+type Props = { params: Promise<{ slug: string }> };
+const formatDate = (date: string) => new Intl.DateTimeFormat("en-AU", {
+  dateStyle: "long", timeZone: "Australia/Brisbane",
+}).format(new Date(date));
 
 export function generateStaticParams() {
   return blogPosts.map((post) => ({ slug: post.slug }));
 }
-
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { slug } = await params;
-  const post = getBlogPost(slug);
+  const post = getBlogPost((await params).slug);
   if (!post) return {};
-
   return {
     title: post.title,
     description: post.description,
     alternates: { canonical: `/insights/${post.slug}` },
     keywords: post.keywords,
     openGraph: {
-      title: post.title,
-      description: post.description,
-      type: "article",
-      publishedTime: post.date,
+      title: post.title, description: post.description, type: "article",
+      url: `/insights/${post.slug}`, publishedTime: post.date,
+      modifiedTime: post.updatedDate ?? post.date,
+      images: [{ url: getBlogImage(post.category, post.slug) }],
     },
   };
 }
 
-function getNumberedItems(paragraph: string) {
-  const markerPattern = /(?:^|\s)(\d+)\.\s+/g;
-  const markers = Array.from(paragraph.matchAll(markerPattern));
-
-  if (!markers.length || markers[0].index !== 0) return null;
-
-  return markers.map((marker, index) => {
-    const start = marker.index! + marker[0].length;
-    const end = markers[index + 1]?.index ?? paragraph.length;
-
-    return {
-      number: marker[1],
-      text: paragraph.slice(start, end).trim(),
-    };
-  });
-}
-
-function renderNumberedList(items: { number: string; text: string }[], key: string) {
+function SectionTable({ table, title }: { table: NonNullable<BlogSection["table"]>; title: string }) {
   return (
-    <ol key={key} className="mt-5 space-y-3">
-      {items.map((item) => (
-        <li key={`${item.number}-${item.text}`} className="grid grid-cols-[2.25rem_1fr] gap-4">
-          <span className="flex h-9 w-9 items-center justify-center rounded-full bg-[#0d3b1e] text-sm font-semibold tabular-nums text-warm-cream shadow-sm">
-            {item.number}
-          </span>
-          <span className="pt-1.5 text-lg leading-8 text-[#0d3b1e]/76">{item.text}</span>
-        </li>
-      ))}
-    </ol>
-  );
-}
-
-function renderBody(body: string | string[], className: string) {
-  const paragraphs = Array.isArray(body) ? body : body.split("\n\n");
-  const rendered: ReactNode[] = [];
-  let listItems: { number: string; text: string }[] = [];
-
-  function flushList(key: string) {
-    if (!listItems.length) return;
-    rendered.push(renderNumberedList(listItems, key));
-    listItems = [];
-  }
-
-  paragraphs.forEach((paragraph, index) => {
-    const numberedItems = getNumberedItems(paragraph);
-
-    if (numberedItems) {
-      listItems.push(...numberedItems);
-      return;
-    }
-
-    flushList(`list-${index}`);
-    rendered.push(
-      <p key={paragraph} className={className}>
-        {paragraph}
-      </p>,
-    );
-  });
-
-  flushList("list-final");
-
-  return rendered;
-}
-
-function renderSectionTable(table?: BlogSection["table"]) {
-  if (!table) return null;
-
-  return (
-    <div className="mt-6 overflow-x-auto rounded-lg border border-[#0d3b1e]/15 bg-white/80 shadow-sm">
-      <table className="min-w-full border-collapse text-left text-sm text-[#0d3b1e]">
-        <thead className="bg-[#0d3b1e]/8">
-          <tr>
-            {table.columns.map((column) => (
-              <th key={column} scope="col" className="border-b border-[#0d3b1e]/15 px-4 py-3 font-semibold">
-                {column}
-              </th>
-            ))}
-          </tr>
+    <div role="region" aria-label={`${title} comparison table`} tabIndex={0}
+      className="mt-7 overflow-x-auto rounded-2xl border border-[#0d3b1e]/20 bg-white/80 shadow-sm focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#0d3b1e]">
+      <table className="w-full min-w-[36rem] border-collapse text-left text-sm text-[#0d3b1e]">
+        <caption className="sr-only">{title}</caption>
+        <thead className="bg-[#0d3b1e] text-warm-cream">
+          <tr>{table.columns.map((column) => <th key={column} scope="col" className="px-5 py-4 font-semibold">{column}</th>)}</tr>
         </thead>
-        <tbody>
-          {table.rows.map((row, rowIndex) => (
-            <tr key={row.join("-")} className={rowIndex % 2 ? "bg-[#0d3b1e]/4" : "bg-transparent"}>
-              {row.map((cell) => (
-                <td key={cell} className="border-b border-[#0d3b1e]/10 px-4 py-3 align-top leading-6">
-                  {cell}
-                </td>
-              ))}
-            </tr>
-          ))}
-        </tbody>
+        <tbody>{table.rows.map((row, rowIndex) => (
+          <tr key={rowIndex} className={rowIndex % 2 ? "bg-[#0d3b1e]/5" : "bg-transparent"}>
+            {row.map((cell, columnIndex) => columnIndex === 0
+              ? <th key={columnIndex} scope="row" className="border-t border-[#0d3b1e]/10 px-5 py-4 align-top font-semibold leading-6">{cell}</th>
+              : <td key={columnIndex} className="border-t border-[#0d3b1e]/10 px-5 py-4 align-top leading-6">{cell}</td>)}
+          </tr>
+        ))}</tbody>
       </table>
     </div>
   );
 }
 
 export default async function InsightPostPage({ params }: Props) {
-  const { slug } = await params;
-  const post = getBlogPost(slug);
+  const post = getBlogPost((await params).slug);
   if (!post) notFound();
-  const resources = post.resources ?? post.sourceLinks;
-
+  const resources = [...new Map([...(post.resources ?? []), ...(post.sourceLinks ?? [])].map((r) => [r.href, r])).values()];
+  const related = post.relatedSlugs.map(getBlogPost).filter((p) => p !== undefined);
+  const readingMinutes = Math.max(1, Math.ceil(getArticleWordCount(post) / 220));
   const schema = [
     {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      headline: post.title,
-      description: post.description,
-      datePublished: post.date,
-      author: { "@type": "Organization", name: site.name },
-      publisher: { "@type": "Organization", name: site.name },
+      "@context": "https://schema.org", "@type": "Article",
+      headline: post.title, description: post.description,
+      datePublished: post.date, dateModified: post.updatedDate ?? post.date,
+      author: { "@type": "Organization", name: site.name, url: `${site.domain}/about` },
+      publisher: { "@type": "Organization", name: site.name, url: site.domain },
+      image: new URL(getBlogImage(post.category, post.slug), site.domain).href,
       mainEntityOfPage: `${site.domain}/insights/${post.slug}`,
-      keywords: post.keywords.join(", "),
+      inLanguage: "en-AU", keywords: post.keywords.join(", "),
     },
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      mainEntity: post.faqs.map((faq) => ({
-        "@type": "Question",
-        name: faq.question,
-        acceptedAnswer: { "@type": "Answer", text: faq.answer },
-      })),
+      "@context": "https://schema.org", "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: site.domain },
+        { "@type": "ListItem", position: 2, name: "Insights", item: `${site.domain}/insights` },
+        { "@type": "ListItem", position: 3, name: post.title, item: `${site.domain}/insights/${post.slug}` },
+      ],
     },
+    ...(post.faqs.length ? [{
+      "@context": "https://schema.org", "@type": "FAQPage",
+      mainEntity: post.faqs.map((faq) => ({ "@type": "Question", name: faq.question,
+        acceptedAnswer: { "@type": "Answer", text: faq.answer } })),
+    }] : []),
   ];
-
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, "\\u003c") }} />
       <article>
-        <header className="relative min-h-[86dvh] overflow-hidden bg-espresso">
-          <Image
-            src={getBlogImage(post.category, post.slug)}
-            alt={`${post.title} visual`}
-            fill
-            priority
-            sizes="100vw"
-            className="object-cover"
-          />
-          <div className="absolute inset-0 bg-gradient-to-r from-espresso/86 via-espresso/48 to-espresso/0" />
-          <div className="absolute inset-0 bg-gradient-to-b from-espresso/16 via-transparent to-midnight-cocoa/88" />
-          <div className="relative mx-auto flex min-h-[86dvh] max-w-[1200px] flex-col px-4 pt-28 sm:px-6 lg:px-8">
-            <div className="max-w-4xl pt-12 lg:pt-20">
-              <Link href="/insights" className="inline-flex items-center gap-2 text-sm font-medium text-amber-forge">
-                <ArrowLeft size={16} aria-hidden />
-                Insights
-              </Link>
-              <p className="eyebrow mt-8 inline-flex items-center gap-2">
-                <CalendarDays size={16} aria-hidden />
-                {post.category} - {new Intl.DateTimeFormat("en-AU", { dateStyle: "long" }).format(new Date(post.date))}
-              </p>
-              <h1 className="hero-title mt-7">{post.title}</h1>
-              <p className="mt-7 max-w-xl text-base leading-7 text-warm-cream/90">{post.description}</p>
-            </div>
+        <header className="relative overflow-hidden bg-espresso">
+          <Image src={getBlogImage(post.category, post.slug)} alt="" fill priority sizes="100vw" className="object-cover" />
+          <div className="absolute inset-0 bg-gradient-to-r from-espresso/95 via-espresso/85 to-espresso/55" />
+          <div className="relative mx-auto max-w-[1200px] px-4 pb-14 pt-32 sm:px-6 sm:pb-20 lg:px-8 lg:pt-40">
+            <Link href="/insights" className="inline-flex items-center gap-2 text-sm font-medium text-amber-forge"><ArrowLeft size={16} aria-hidden /> All insights</Link>
+            <p className="eyebrow mt-8">{post.category} · Sunshine Coast</p>
+            <h1 className="mt-5 max-w-4xl text-4xl leading-[1.1] font-normal tracking-[-0.035em] text-warm-cream sm:text-5xl lg:text-6xl">{post.title}</h1>
+            <p className="mt-6 max-w-2xl text-lg leading-8 text-warm-cream/90">{post.description}</p>
           </div>
         </header>
-        <div className="cream-site-section px-4 py-16 sm:px-6 lg:px-8">
+        <div className="cream-site-section px-4 py-10 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-4xl">
-            <div className="space-y-10">
-              {post.sections.map((section) => (
-                <section key={section.heading}>
-                  <h2 className="text-2xl font-normal tracking-[-0.03em] text-[#0d3b1e]">
-                    {section.heading}
-                  </h2>
-                  <div className="mt-4 space-y-4">
-                    {renderBody(section.body, "text-lg leading-8 text-[#0d3b1e]/72")}
-                  </div>
-                  {renderSectionTable(section.table)}
-                </section>
-              ))}
+            <div className="flex flex-wrap items-center gap-x-5 gap-y-2 border-b border-[#0d3b1e]/20 pb-6 text-sm leading-6 text-[#0d3b1e]/80">
+              <Link href="/about" className="font-semibold underline decoration-[#0d3b1e]/30 underline-offset-4">CivilCity Engineering Consultants</Link>
+              <span>{readingMinutes} min read</span>
+              <span>Published <time dateTime={post.date}>{formatDate(post.date)}</time></span>
+              {post.updatedDate && <span>Updated <time dateTime={post.updatedDate}>{formatDate(post.updatedDate)}</time></span>}
             </div>
-            <section className="site-card mt-12 p-6">
-              <p className="eyebrow">FAQ</p>
-              <h2 className="mt-4 text-2xl font-normal tracking-[-0.03em] text-warm-cream">
-                Common question
-              </h2>
-              {post.faqs.map((faq) => (
-                <div key={faq.question} className="mt-5">
-                  <h3 className="font-medium text-warm-cream">{faq.question}</h3>
-                  <p className="mt-2 leading-7 text-driftwood">{faq.answer}</p>
-                </div>
-              ))}
+            <nav aria-label="On this page" className="my-9 rounded-2xl border border-[#0d3b1e]/15 bg-white/65 p-6 sm:p-8">
+              <p className="text-sm font-semibold uppercase tracking-wider text-[#0d3b1e]">On this page</p>
+              <ol className="mt-4 grid gap-x-8 gap-y-3 sm:grid-cols-2">
+                {post.sections.map((section, index) => <li key={index}><a href={`#${getSectionId(index)}`} className="text-sm leading-6 text-[#0d3b1e] underline decoration-[#0d3b1e]/25 underline-offset-4 hover:decoration-[#0d3b1e]">{section.heading}</a></li>)}
+              </ol>
+              <a href="#project-checklist" className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-[#0d3b1e]">Jump to the project checklist <ArrowRight size={15} aria-hidden /></a>
+            </nav>
+            <div className="space-y-12">
+              {post.sections.map((section, index) => {
+                const List = section.ordered ? "ol" : "ul";
+                return <section key={index} id={getSectionId(index)} className="scroll-mt-28">
+                  {section.heading === "Checklist for your project brief" && <span id="project-checklist" className="block scroll-mt-28" />}
+                  <h2 className="text-2xl leading-tight font-normal tracking-[-0.025em] text-[#0d3b1e] sm:text-3xl">{section.heading}</h2>
+                  <div className="mt-5 space-y-5">{(Array.isArray(section.body) ? section.body : section.body.split("\n\n")).map((paragraph, i) => <p key={i} className="text-lg leading-8 text-[#173c28]/90">{paragraph}</p>)}</div>
+                  {section.list && <List className="mt-6 space-y-3">{section.list.map((item, i) => <li key={i} className="flex gap-4 rounded-xl border border-[#0d3b1e]/10 bg-white/70 p-5"><span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-[#0d3b1e] text-sm font-semibold text-white" aria-hidden>{section.ordered ? i + 1 : <Check size={16} />}</span><span className="pt-0.5 text-base leading-7 text-[#173c28]">{item}</span></li>)}</List>}
+                  {section.table && <SectionTable table={section.table} title={section.heading} />}
+                  {section.links && <ul className="mt-5 space-y-2 border-l-2 border-[#0d3b1e]/25 pl-4">{section.links.map((link) => <li key={link.href}><Link href={link.href} className="text-sm leading-6 font-medium text-[#0d3b1e] underline underline-offset-4">{link.label}</Link></li>)}</ul>}
+                </section>;
+              })}
+            </div>
+            {post.faqs.length > 0 && <section className="mt-12 rounded-2xl bg-[#0d3b1e] p-6 sm:p-8" aria-labelledby="faq-heading">
+              <h2 id="faq-heading" className="text-2xl text-warm-cream">Common questions</h2>
+              {post.faqs.map((faq) => <div key={faq.question} className="mt-6 border-t border-white/15 pt-5"><h3 className="font-semibold text-warm-cream">{faq.question}</h3><p className="mt-2 leading-7 text-warm-cream/85">{faq.answer}</p></div>)}
+            </section>}
+            {resources.length > 0 && <section className="mt-10 rounded-2xl border border-[#0d3b1e]/15 bg-white/70 p-6 text-[#0d3b1e]">
+              <h2 className="text-xl">Official sources and further guidance</h2>
+              <ul className="mt-4 space-y-3">{resources.map((r) => <li key={r.href}><a href={r.href} className="text-sm leading-6 underline underline-offset-4">{r.label}</a></li>)}</ul>
+              <p className="mt-5 text-sm leading-6">Use the current requirements for your property and proposal. Illustrative scenarios describe possible design issues; they are not reported client projects.</p>
+            </section>}
+            <section className="mt-12 border-y border-[#0d3b1e]/20 py-10 text-[#0d3b1e]">
+              <p className="text-sm font-semibold uppercase tracking-wider">Discuss your project</p>
+              <h2 className="mt-3 text-3xl tracking-tight">{post.cta.label}</h2>
+              <p className="mt-4 max-w-2xl leading-7">{post.cta.body}</p>
+              <div className="mt-6 flex flex-wrap items-center gap-5"><Link href="/contact" className="pill-primary">Request a project review</Link><Link href={`/services/${post.serviceSlug}`} className="font-medium underline underline-offset-4">View service scope</Link></div>
             </section>
-            {resources?.length ? (
-              <section className="mt-10 rounded-[1.5rem] border border-[#0d3b1e]/15 bg-white/70 p-6 text-[#0d3b1e] shadow-sm">
-                <p className="eyebrow text-[#0d3b1e]/60">Useful official resources</p>
-                <div className="mt-4 flex flex-wrap gap-3">
-                  {resources.map((resource) => (
-                    <Link
-                      key={resource.href}
-                      href={resource.href}
-                      className="rounded-full border border-[#0d3b1e]/20 px-4 py-2 text-sm font-medium text-[#0d3b1e] transition hover:border-[#0d3b1e]/50 hover:bg-[#0d3b1e]/5"
-                    >
-                      {resource.label}
-                    </Link>
-                  ))}
-                </div>
-              </section>
-            ) : null}
-            <div className="mt-12 border-t border-[#0d3b1e]/20 pt-10 text-[#0d3b1e]">
-              <h2 className="text-2xl font-normal tracking-[-0.03em]">Need project-specific civil advice?</h2>
-              <p className="mt-2 text-[#0d3b1e]/70">
-                Send CivilCity the project location, approval stage and the issue you need resolved.
-              </p>
-              <Link href="/contact" className="pill-primary mt-5">
-                Contact CivilCity
-              </Link>
-            </div>
+            <nav aria-label="Related articles" className="my-12">
+              <h2 className="text-2xl text-[#0d3b1e]">Continue your project research</h2>
+              <div className="mt-6 grid gap-4 sm:grid-cols-3">{related.map((p) => <Link key={p.slug} href={`/insights/${p.slug}`} className="rounded-2xl border border-[#0d3b1e]/20 bg-white/70 p-5 text-[#0d3b1e] transition hover:bg-white"><span className="text-xs font-semibold uppercase tracking-wider">{p.category}</span><span className="mt-3 block text-lg leading-7">{p.title}</span><ArrowRight className="mt-4" size={18} aria-hidden /></Link>)}</div>
+            </nav>
           </div>
         </div>
       </article>

@@ -197,13 +197,13 @@ Prefer existing realistic assets in `public/`. If a new asset is needed, create 
 
 ## Implementation Steps
 
-1. Update `src/lib/site.ts`.
+1. Update article data in `src/lib/insights.ts`.
 2. Keep existing slugs stable.
 3. Add the next article in the correct order.
-4. Map a realistic article image in `getBlogImage`.
-5. Run `npm run build`.
-6. If build passes and Vercel auth is available, deploy with `npx vercel deploy --prod --yes`.
-7. Verify the new live article URL returns `200`.
+4. Map a realistic article image in `getBlogImage` in `src/lib/site.ts`.
+5. Run `npm run check:content`, `npm run lint` and `npm run build`.
+6. Commit and push to the authorised remote after the required secret scan. Follow the review and deployment authorisation for the run; available Vercel credentials alone do not authorise production publication.
+7. After an authorised deployment, verify the new live article URL returns `200`.
 8. Verify `https://civilcity.com.au/sitemap.xml` includes the new URL.
 
 ## Final Report
@@ -217,3 +217,18 @@ Report:
 - live URL verification
 - sitemap verification
 - official source URLs used
+
+
+## Editorial maintenance requirements
+
+- Use `src/lib/insights.ts` as the article source of truth. `site.ts` re-exports its helpers.
+- Inspect all existing slugs before choosing a topic. Improve an existing guide where it answers the same reader decision; never add duplicate slug objects.
+- Preserve published URLs unless a separately reviewed redirect strategy is supported by Search Console and backlink evidence.
+- Write for property owners, developers and their consultant teams. Never publish keyword-strategy notes, search-intent commentary or sarcastic remarks about other disciplines.
+- Do not use competitor material, including Urbis, as a content or design reference.
+- Add an original decision table, an actionable checklist, contextual internal links, a related service/CTA and valid relatedSlugs. Do not pad content to a word target.
+- Use the structured `list`, `ordered`, `table` and `links` fields. Verify current official sources for regulatory claims; avoid universal thresholds without their applicable context.
+- Distinguish Council/EDQ pathways, separate water and sewer authority requirements, RPEQ professional-service responsibility and specific certification, and plan sealing versus title registration.
+- Preserve the original publication date. Set updatedDate only after a substantive revision. Attribute to the organisation unless a real author and review are confirmed; never invent an RPEQ byline or technical approval.
+- Label hypothetical examples clearly. Do not imply a client project, measured outcome, approval guarantee or search ranking without evidence.
+- Run the content integrity check, lint and build. Changes must go through the authorised remote repository and review process; an automated content run must not bypass repository policy.
