@@ -3,7 +3,9 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowRight, BadgeCheck, CheckCircle2, ClipboardList, DraftingCompass, Map } from "lucide-react";
-import { getService, imagery, serviceImageBySlug, services, site } from "@/lib/site";
+import { blogPosts, getService, imagery, serviceImageBySlug, services, site } from "@/lib/site";
+
+import { serviceBriefs } from "@/lib/service-briefs";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -40,6 +42,8 @@ export default async function ServicePage({ params }: Props) {
   const related = service.related
     .map((relatedSlug) => services.find((item) => item.slug === relatedSlug))
     .filter(Boolean);
+  const brief = serviceBriefs[service.slug];
+  const guides = blogPosts.filter((post) => post.serviceSlug === service.slug).slice(0, 3);
   const image = serviceImageBySlug[service.slug] ?? imagery.field;
 
   const faqSchema = {
@@ -126,7 +130,7 @@ export default async function ServicePage({ params }: Props) {
                 href={`/contact?service=${service.slug}`}
                 className="pill-primary"
               >
-                Enquire about this service
+                Request an engineering proposal
                 <ArrowRight size={16} aria-hidden />
               </Link>
               <Link href="/services" className="pill-ghost">
@@ -232,6 +236,29 @@ export default async function ServicePage({ params }: Props) {
           </div>
         </div>
       </section>
+
+      {brief && <section className="cream-site-section section-pad" aria-labelledby="engagement-heading">
+        <div className="mx-auto max-w-7xl px-4 text-[#0d3b1e] sm:px-6 lg:px-8">
+          <p className="eyebrow">Your next decision</p>
+          <h2 id="engagement-heading" className="mt-5 max-w-3xl text-3xl leading-tight sm:text-4xl">{brief.heading}</h2>
+          <p className="mt-6 max-w-3xl text-lg leading-8">{brief.introduction}</p>
+          <div role="region" aria-label="Engineering engagement options" tabIndex={0} className="mt-8 overflow-x-auto rounded-2xl border border-[#0d3b1e]/20 focus-visible:outline-2 focus-visible:outline-offset-4">
+            <table className="w-full min-w-[40rem] text-left text-sm leading-6">
+              <caption className="sr-only">Match your project stage to an engineering scope</caption>
+              <thead className="bg-[#0d3b1e] text-white"><tr>{["Your situation", "Engineering scope", "What it helps you decide"].map((label) => <th key={label} scope="col" className="px-5 py-4">{label}</th>)}</tr></thead>
+              <tbody>{brief.decisions.map((item) => <tr key={item.situation} className="border-t border-[#0d3b1e]/15 bg-white/70 even:bg-[#0d3b1e]/5"><th scope="row" className="px-5 py-5 align-top font-semibold">{item.situation}</th><td className="px-5 py-5 align-top">{item.scope}</td><td className="px-5 py-5 align-top">{item.result}</td></tr>)}</tbody>
+            </table>
+          </div>
+          <div className="mt-10 grid gap-8 lg:grid-cols-2">
+            <div><h3 className="text-2xl">What to send for a proposal</h3><ul className="mt-5 space-y-4">{brief.documents.map((document) => <li key={document} className="flex gap-3"><CheckCircle2 size={18} className="mt-1 shrink-0" aria-hidden /><span>{document}</span></li>)}</ul><p className="mt-5 text-sm leading-6">Send what you have. We can identify the missing information when scoping the work.</p></div>
+            <div className="rounded-2xl border border-[#0d3b1e]/20 bg-white/70 p-6"><h3 className="text-2xl">How we scope the fee</h3><p className="mt-5 leading-7">{brief.feeFactors}</p><Link href={`/contact?service=${service.slug}#enquiry`} className="pill-primary mt-6">Request an engineering proposal <ArrowRight size={16} aria-hidden /></Link></div>
+          </div>
+        </div>
+      </section>}
+
+      {guides.length > 0 && <section className="cream-site-section section-pad" aria-labelledby="project-guides-heading">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8"><h2 id="project-guides-heading" className="text-3xl text-[#0d3b1e]">Prepare for your next project decision</h2><div className="mt-7 grid gap-4 md:grid-cols-3">{guides.map((post) => <Link key={post.slug} href={`/insights/${post.slug}`} className="rounded-2xl border border-[#0d3b1e]/20 bg-white/70 p-6 text-[#0d3b1e] hover:bg-white"><h3 className="text-xl leading-7">{post.title}</h3><p className="mt-3 text-sm leading-6">{post.description}</p><span className="mt-5 inline-flex items-center gap-2 font-medium">Read the guide <ArrowRight size={16} aria-hidden /></span></Link>)}</div></div>
+      </section>}
 
       <section className="espresso-section section-pad border-y border-walnut">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">

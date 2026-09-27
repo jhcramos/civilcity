@@ -5,7 +5,7 @@ import { FileText, Send, UploadCloud } from "lucide-react";
 
 type FormState = "idle" | "submitting" | "success" | "error";
 
-export function ContactForm() {
+export function ContactForm({ initialService, serviceOptions }: { initialService?: string; serviceOptions: string[] }) {
   const [state, setState] = useState<FormState>("idle");
   const [message, setMessage] = useState("");
   const [files, setFiles] = useState<File[]>([]);
@@ -48,15 +48,8 @@ export function ContactForm() {
         <Select
           label="Service needed"
           name="service"
-          options={[
-            "Operational works",
-            "RPEQ certification",
-            "Stormwater design",
-            "Civil design documentation",
-            "Engineering due diligence",
-            "Construction support",
-            "Not sure yet",
-          ]}
+          defaultValue={initialService ?? "Not sure yet"}
+          options={["Not sure yet", ...serviceOptions]}
         />
         <Select
           label="Project stage"
@@ -167,12 +160,13 @@ function Field({
   );
 }
 
-function Select({ label, name, options }: { label: string; name: string; options: string[] }) {
+function Select({ label, name, options, defaultValue }: { label: string; name: string; options: string[]; defaultValue?: string }) {
   return (
     <label className="grid gap-2 text-sm font-medium text-warm-cream">
       {label}
       <select
         name={name}
+        defaultValue={defaultValue}
         className="pill-input h-11 px-4 text-base outline-none transition"
       >
         {options.map((option) => (

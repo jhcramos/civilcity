@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { ClipboardCheck, Mail, MapPin, Phone, Route } from "lucide-react";
 import { ContactForm } from "@/components/contact-form";
 import { PageHero } from "@/components/page-hero";
-import { site } from "@/lib/site";
+import { getService, services, site } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Contact",
@@ -11,13 +11,15 @@ export const metadata: Metadata = {
   alternates: { canonical: "/contact" },
 };
 
-export default function ContactPage() {
+export default async function ContactPage({ searchParams }: { searchParams: Promise<{ service?: string | string[] }> }) {
+  const requested = (await searchParams).service;
+  const selected = typeof requested === "string" ? getService(requested)?.title : undefined;
   return (
     <>
       <PageHero
         eyebrow="Contact"
-        title="Send the project location, stage and civil issue."
-        copy={`CivilCity Engineering Consultants is set up for developer, planner, architect, builder and project-manager enquiries across ${site.region}.`}
+        title="Get an engineering proposal for your project."
+        copy={`Tell us what you want to develop, where the site is and what you need to resolve. CivilCity will help define the civil engineering scope for your ${site.region} project.`}
         image="/contact-hero-townhouses.webp"
         imageAlt="Modern Sunshine Coast townhouse development with access, kerb and drainage infrastructure"
         ctaLabel="Use the enquiry form"
@@ -68,7 +70,7 @@ export default function ContactPage() {
               respond with the right next step for feasibility, approval or delivery support.
             </p>
           </aside>
-          <ContactForm />
+          <ContactForm key={selected ?? "general"} initialService={selected} serviceOptions={services.map((service) => service.title)} />
         </div>
       </section>
     </>

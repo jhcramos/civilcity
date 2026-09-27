@@ -194,7 +194,7 @@ export const services: Service[] = [
   },
   {
     slug: "reconfiguration-of-a-lot-engineering",
-    title: "Reconfiguration of a Lot Engineering",
+    title: "Subdivision & Reconfiguration of a Lot Engineering",
     eyebrow: "ROL civil input",
     summary:
       "Civil engineering support for Reconfiguration of a Lot applications, including subdivision access, stormwater, levels, road frontage and servicing advice.",
@@ -328,7 +328,7 @@ export const services: Service[] = [
       {
         question: "Can CivilCity certify Unitywater connection applications?",
         answer:
-          "CivilCity is planned to launch with RPEQ capability only. Unitywater Accredited Entity or Registered Certifier services should only be advertised if that accreditation is later obtained and verified.",
+          "RPEQ registration and Unitywater accreditation are different. For a connection application requiring a Unitywater Registered Certifier, engage an appropriately accredited provider. Confirm the required certification pathway before commissioning the work.",
       },
       ...standardFaqs("RPEQ certification"),
     ],
@@ -341,7 +341,7 @@ export const services: Service[] = [
     summary:
       "Stormwater drainage design for development sites, including runoff management, drainage layouts and coordination with approval requirements.",
     approvalContext:
-      "Stormwater design is a common approval risk for Sunshine Coast infill, subdivision, commercial and industrial sites. This page supports searchers who need runoff, detention, drainage layout and downstream-discharge issues resolved before lodgement, operational works or construction.",
+      "Stormwater design is a common approval risk for Sunshine Coast infill, subdivision, commercial and industrial sites. Resolve runoff, detention, drainage layout and downstream-discharge issues before lodgement, operational works or construction.",
     primaryKeyword: "stormwater design Sunshine Coast",
     secondaryKeywords: [
       "stormwater drainage engineer Sunshine Coast",

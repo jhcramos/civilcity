@@ -138,7 +138,7 @@ export default async function InsightPostPage({ params }: Props) {
               <p className="text-sm font-semibold uppercase tracking-wider">Discuss your project</p>
               <h2 className="mt-3 text-3xl tracking-tight">{post.cta.label}</h2>
               <p className="mt-4 max-w-2xl leading-7">{post.cta.body}</p>
-              <div className="mt-6 flex flex-wrap items-center gap-5"><Link href="/contact" className="pill-primary">Request a project review</Link><Link href={`/services/${post.serviceSlug}`} className="font-medium underline underline-offset-4">View service scope</Link></div>
+              <div className="mt-6 flex flex-wrap items-center gap-5"><Link href={`/contact?service=${post.serviceSlug}#enquiry`} className="pill-primary">Request an engineering proposal</Link><Link href={`/services/${post.serviceSlug}`} className="font-medium underline underline-offset-4">View service scope</Link></div>
             </section>
             <nav aria-label="Related articles" className="my-12">
               <h2 className="text-2xl text-[#0d3b1e]">Continue your project research</h2>
