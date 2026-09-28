@@ -909,6 +909,7 @@ export type { BlogPost, BlogResource, BlogSection } from "./insights";
 
 export function getBlogImage(category: string, slug?: string) {
   const bySlug: Record<string, string> = {
+    "civil-construction-hold-points-small-sunshine-coast-developments": "/civilcity-earthworks-bulldozer.png",
     "development-application-costs-sunshine-coast-small-developers": "/insight-sunshine-coast-infrastructure-charges-budget-review.png",
     "can-i-subdivide-my-land-on-the-sunshine-coast": "/project-type-subdivision-infill.webp",
     "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers": "/insight-due-diligence-development-site-selection.webp",

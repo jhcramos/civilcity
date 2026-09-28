@@ -26,6 +26,133 @@ export type BlogPost = {
 
 export const blogPosts: BlogPost[] = [
   {
+    "slug": "civil-construction-hold-points-small-sunshine-coast-developments",
+    "title": "Civil construction hold points for small Sunshine Coast developments",
+    "description": "A practical guide to civil construction hold points for Sunshine Coast subdivisions and small developments, including what to inspect before work is covered or approved.",
+    "date": "2026-09-29",
+    "category": "Civil construction",
+    "keywords": [
+      "civil construction hold points Sunshine Coast",
+      "subdivision civil inspections Sunshine Coast",
+      "civil works inspection checklist",
+      "operational works construction Sunshine Coast",
+      "civil engineer construction inspections"
+    ],
+    "faqs": [
+      {
+        "question": "What is a civil construction hold point?",
+        "answer": "It is an agreed inspection point where the contractor pauses before covering, filling or progressing work until the required evidence or inspection has been completed. It is a project-control step, not automatically a Council approval or a guarantee that the work will be accepted."
+      },
+      {
+        "question": "Does Council inspect every civil construction stage?",
+        "answer": "Do not assume that Council attendance replaces the project team's inspection and quality records. The applicable approval conditions, inspection arrangements and authority requirements control what must be submitted or inspected. Confirm the current requirements for the particular approval."
+      },
+      {
+        "question": "Who should attend a civil hold-point inspection?",
+        "answer": "The attendees depend on the work and approval: typically the contractor, superintendent or project manager, civil engineer and sometimes the surveyor or relevant service authority. The important outcome is a clear record of what was checked, against which drawing or specification, and what must happen next."
+      },
+      {
+        "question": "Can a missed hold point delay plan sealing?",
+        "answer": "Yes. If a critical asset is covered without reliable evidence, the team may need additional survey, testing, exposure or remedial work before the engineer can support closeout. That creates avoidable cost and programme risk."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Quick answer",
+        "body": [
+          "For a small Sunshine Coast development, hold points should be set at the moments when the next activity would hide or permanently change the work: subgrade preparation, underground drainage, service crossings, pavement layers, retaining elements and final levels. The contractor should not simply continue because the site is busy; the project team should know what evidence is required before the work is covered.",
+          "A hold point is most useful when it is tied to an approved drawing, specification, test or survey record. It does not mean every task needs an engineer on site. It means the team has identified the few stages where a missed check could cause redesign, excavation, failed testing, safety issues or plan-sealing delay."
+        ]
+      },
+      {
+        "heading": "Why small projects need deliberate inspection points",
+        "body": "Small subdivisions and townhouse projects often have tight sites, short construction programmes and limited space to correct mistakes. A drainage line may be backfilled before its grade is surveyed; a driveway subgrade may be paved before weak material is removed; or a retaining wall may be built without the drainage and set-out information needed for certification. The cost is rarely the inspection itself. It is the loss of evidence and the disruption after the work is inaccessible.",
+        "links": [
+          { "label": "Sunshine Coast operational works information", "href": "https://developmenti.sunshinecoast.qld.gov.au/" },
+          { "label": "Sunshine Coast Planning Scheme 2014", "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" }
+        ]
+      },
+      {
+        "heading": "A practical hold-point register",
+        "body": [],
+        "table": {
+          "columns": ["Stage", "What to verify", "Evidence to retain"],
+          "rows": [
+            ["Set-out and subgrade", "Location, levels, formation and unsuitable material", "Survey set-out, photos and inspection record"],
+            ["Underground drainage", "Pipe grade, connections, pits, cover and lawful discharge details", "Pre-cover photos, survey and test results"],
+            ["Services and crossings", "Alignment, separation, protection and authority requirements", "Authority records, photos and as-built survey"],
+            ["Pavement and access", "Subgrade, layer thickness, compaction and finished grades", "Test reports, level checks and delivery records"],
+            ["Retaining and earthworks", "Foundations, drainage, batter or wall geometry and stability inputs", "Engineer inspection, survey and construction evidence"],
+            ["Completion", "Drainage function, final levels, defects and approved changes", "Defects list, completion photos and as-constructed package"]
+          ]
+        }
+      },
+      {
+        "heading": "The decision process before work starts",
+        "body": [],
+        "list": [
+          "List each civil asset and identify the activity that will hide it or make correction difficult.",
+          "Match each hold point to the current approved civil drawings, conditions and project specification.",
+          "Nominate who can inspect, who records the result and who can release the next activity.",
+          "Tell the contractor the notice period and the minimum information needed before attendance.",
+          "Record approved variations immediately; do not rely on a marked-up plan months later.",
+          "Collect survey, testing, photographs and certificates progressively into the closeout register.",
+          "Review the register before practical completion and plan sealing so missing evidence is found early."
+        ],
+        "ordered": true
+      },
+      {
+        "heading": "Sunshine Coast risks that deserve attention",
+        "body": [
+          "Coastal and established urban sites can have constrained access, existing services and limited room for stockpiles or rework. On sloping sites around Buderim, Nambour and the hinterland, grades, retaining and overland flow can interact: changing one level may affect a driveway, neighbour interface or drainage path. On low-lying sites, finished levels and overland-flow routes should be checked against the approved design rather than assumed from a visual inspection.",
+          "The applicable operational works approval and conditions remain the starting point. Council's plan-sealing process also depends on the approval and the evidence required to demonstrate that conditions have been addressed. A hold-point register helps the civil engineer and surveyor assemble that evidence, but it cannot replace the specific conditions or an authority's requirements."
+        ],
+        "links": [
+          { "label": "Sunshine Coast plan sealing guidance", "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing" }
+        ]
+      },
+      {
+        "heading": "Hypothetical example: a two-lot infill project",
+        "body": "A hypothetical two-lot subdivision in an established Sunshine Coast street has a shared driveway, a new stormwater connection and a short retaining wall. The contractor backfills the drainage trench before the engineer is notified. The issue is not necessarily that the pipe is wrong; it is that grade, connection location and bedding are now harder to verify. A sensible register would have required the survey and pre-cover inspection first, then released backfill once the record was complete. If the design later changes, the project team can identify the affected asset instead of reopening the whole site."
+      },
+      {
+        "heading": "Mistakes that create cost and delay",
+        "body": [
+          "The common mistake is treating inspections as a final event. By completion, defects are buried, construction staff have moved on and the original set-out information is difficult to reconstruct. Another mistake is using photographs without location, scale, date or a link to the relevant drawing. Photos help, but they are not a substitute for testing or survey where those are required.",
+          "Do not let a contractor's proposed substitution become an undocumented field decision. A different pipe, pavement material, pit location, retaining detail or finished level can affect hydraulic performance, access, easements and certification. Put the change through the engineer and approval process while the evidence is available."
+        ]
+      },
+      {
+        "heading": "When CivilCity should be involved",
+        "body": "Engage CivilCity before construction starts when the project has operational works, subdivision conditions, stormwater, access, retaining, frontage works or service coordination. Send the approved drawings and conditions, contractor programme, proposed inspection dates, survey information and any requested substitutions. CivilCity can turn the design into a proportionate inspection and evidence plan, attend critical stages, review test and survey records, document changes and help close out the civil package for the next approval step.",
+        "links": [
+          { "label": "Operational works applications", "href": "/services/operational-works-applications" },
+          { "label": "Construction supervision", "href": "/services/construction-supervision" }
+        ]
+      },
+      {
+        "heading": "Checklist for your project brief",
+        "body": "Before the first excavation, confirm the approved drawing revision, site datum, inspection contacts, notice period, testing responsibilities, survey requirements, variation pathway and closeout deliverables. Then put the hold points in the contractor's programme and review them at each site meeting. A short register used consistently is more valuable than a long checklist nobody owns."
+      }
+    ],
+    "resources": [
+      { "label": "Sunshine Coast plan sealing guidance", "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing" },
+      { "label": "Sunshine Coast Planning Scheme 2014", "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" },
+      { "label": "Sunshine Coast Development.i", "href": "https://developmenti.sunshinecoast.qld.gov.au/" }
+    ],
+    "sourceLinks": [
+      { "label": "Sunshine Coast plan sealing guidance", "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing" },
+      { "label": "Sunshine Coast Planning Scheme 2014", "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" }
+    ],
+    "serviceSlug": "construction-supervision",
+    "cta": { "label": "Plan civil construction inspections", "body": "Send CivilCity your approved drawings, conditions and contractor programme so the critical hold points and closeout evidence can be scoped before work is covered." },
+    "relatedSlugs": [
+      "what-civil-drawings-are-needed-for-operational-works-sunshine-coast",
+      "why-plan-sealing-gets-delayed-sunshine-coast",
+      "as-constructed-drawings-sunshine-coast-subdivision-closeout"
+    ]
+  },
+  {
     "slug": "development-application-costs-sunshine-coast-small-developers",
     "title": "Development application costs on the Sunshine Coast: what small developers should budget for",
     "description": "A practical Sunshine Coast development cost checklist covering application fees, consultants, civil works, infrastructure charges and contingency.",
@@ -7540,7 +7667,7 @@ export const blogPosts: BlogPost[] = [
       { "heading": "Why a finished-looking site may not be ready", "body": ["A driveway, drainage system or retaining wall can look complete while the closeout file is incomplete. Buried pipes may not have been surveyed before backfill; a pit may have moved around an existing service; a level may differ from the approved design; or a contractor may have changed materials without recording the change.", "Council's plan-sealing process must be assessed against the specific approval, conditions and current forms. A visual inspection alone does not replace the technical, cadastral, service and certification evidence needed to show what was approved and what was built."] },
       { "heading": "The closeout risk register", "body": ["Use the following as a pre-submission review. The exact requirements depend on the development approval and works, so confirm them with Council and the project consultants."], "table": { "columns": ["Risk area", "Evidence to check", "Typical delay trigger"], "rows": [["Civil conditions", "Condition register, approved drawings and completion records", "A condition is marked complete without supporting evidence"], ["Stormwater and access", "Final levels, inspections, tests and connection records", "Constructed grades or discharge differ from the design"], ["As-constructed information", "Surveyed assets, inverts, dimensions and marked variations", "Design drawings are submitted as if they record the built work"], ["Services and authorities", "Connection approvals, certificates and acceptance records", "Utility or contributed-asset item remains unresolved"], ["Cadastral closeout", "Surveyor's plan, boundaries and required supporting documents", "The cadastral plan and civil records do not align"]] } },
       { "heading": "A practical Sunshine Coast example", "body": ["Consider a two-lot subdivision in Buderim with a shared driveway, a stormwater connection and a short retaining edge. During construction, an existing service forces the stormwater pit to move and the driveway transition to change. The works may still be acceptable, but the team needs to assess the change, obtain approval where required, survey the installed assets, update the civil records and retain inspection evidence.", "If the change is discovered only when plan sealing is due, the project may need a return survey, exposure of buried infrastructure, revised calculations, a condition response or contractor attendance. That is avoidable closeout cost caused by late evidence, not by the original design alone."] },
-      { "heading": "How to prevent the usual delays", "body": ["1. Read the decision notice, conditions, approved plans and current Council plan-sealing information before tender. 2. Convert every condition into an owner, deliverable and evidence item. 3. Add survey pickup before backfill for buried drainage, services and critical levels. 4. Record site changes immediately and have the civil engineer assess whether a formal variation is needed. 5. Collect inspections, tests, photos, certificates and authority sign-offs as the work progresses. 6. Reconcile the as-constructed package against the approved plans and the cadastral survey. 7. Run an outstanding-items review before requesting completion or plan sealing."] },
+      { "heading": "Checklist for your project brief", "body": "Use a staged closeout process rather than waiting until the end of construction.", "list": ["Read the decision notice, conditions, approved plans and current Council plan-sealing information before tender.", "Convert every condition into an owner, deliverable and evidence item.", "Add survey pickup before backfill for buried drainage, services and critical levels.", "Record site changes immediately and have the civil engineer assess whether a formal variation is needed.", "Collect inspections, tests, photos, certificates and authority sign-offs as the work progresses.", "Reconcile the as-constructed package against the approved plans and the cadastral survey.", "Run an outstanding-items review before requesting completion or plan sealing."], "ordered": true },
       { "heading": "Mistakes that cost time and money", "body": ["The first mistake is leaving closeout to the end. The second is assuming a contractor's red-line markup is a surveyed as-constructed record. The third is treating minor field changes as informal when they alter levels, drainage, access or infrastructure. Other common problems include missing inspection records, inconsistent lot numbers, unresolved bonds, unconfirmed service connections and a plan-sealing request based on an old approval or superseded drawing.", "These failures create avoidable holding costs and can require consultants or contractors to revisit a site after equipment has left. They also make it harder to distinguish a genuine construction defect from a documentation gap."] },
       { "heading": "When CivilCity should be involved", "body": ["Bring CivilCity in before construction if the approval includes new stormwater, shared access, retaining, frontage works, service connections or other conditioned infrastructure. Provide the decision notice, conditions, approved plans, current survey, construction programme and any proposed variations.", "CivilCity helps Sunshine Coast developers build a closeout path around the actual civil risks: condition registers, inspection hold points, access and level checks, stormwater and service records, variation review, as-constructed coordination and outstanding-item tracking. The aim is a traceable, buildable and closeable project rather than a last-minute document chase."] }
     ],
@@ -7548,6 +7675,12 @@ export const blogPosts: BlogPost[] = [
       { "label": "Sunshine Coast Council plan sealing", "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing" },
       { "label": "Sunshine Coast Council operational work applications", "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work" },
       { "label": "Sunshine Coast Council development application forms", "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms" },
+      { "label": "Sunshine Coast Planning Scheme 2014", "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" }
+    ],
+    "resources": [
+      { "label": "Sunshine Coast Council plan sealing", "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing" },
+      { "label": "Sunshine Coast Council operational work applications", "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work" },
+      { "label": "Sunshine Coast Council development application forms", "href": "https://www.sunshinecoast.qld.au/development/development-applications/development-application-forms" },
       { "label": "Sunshine Coast Planning Scheme 2014", "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" }
     ],
     "serviceSlug": "operational-works-applications",
