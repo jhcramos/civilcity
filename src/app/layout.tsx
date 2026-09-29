@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   // Public asset URLs stay stable across deployments for search crawlers.
   icons: {
     icon: [{ url: "/cc-favicon.png", type: "image/png", sizes: "512x512" }],
-    shortcut: "/favicon.ico",
+    shortcut: "/cc-favicon.png",
     apple: [{ url: "/cc-favicon.png", type: "image/png", sizes: "512x512" }],
   },
   openGraph: {
