@@ -21,6 +21,12 @@ export const metadata: Metadata = {
     template: "%s | CivilCity",
   },
   description: site.description,
+  // Public asset URLs stay stable across deployments for search crawlers.
+  icons: {
+    icon: [{ url: "/cc-favicon.png", type: "image/png", sizes: "512x512" }],
+    shortcut: "/cc-favicon.png",
+    apple: [{ url: "/cc-favicon.png", type: "image/png", sizes: "512x512" }],
+  },
   openGraph: {
     title: "CivilCity | Sunshine Coast Civil Engineering Consultancy",
     description: site.description,
