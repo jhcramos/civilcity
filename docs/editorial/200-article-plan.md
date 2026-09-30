@@ -1,17 +1,17 @@
 # CivilCity 200 Commercial Article Plan
 
-Updated: 2026-09-30
+Updated: 2026-10-01
 
 ## Purpose
 
 This is the controlled expansion queue for another 200 high-value CivilCity articles. The goal is not content volume. The goal is to capture commercial Sunshine Coast development intent and route readers to the right CivilCity service, project page or proposal request.
 
-Use the Urbix article pattern:
+Use this reader-focused article structure:
 
 1. **Quick answer** at the top.
 2. **Local Sunshine Coast context** that cannot be swapped to another council without rewriting.
 3. **Decision table** for feasibility, risk, approval stage, cost driver or consultant role.
-4. **Worked hypothetical example** where it clarifies the decision.
+4. **Practical illustrative example** where it clarifies the decision.
 5. **Common mistakes** tied to cost, delay, redesign, information requests or closeout.
 6. **When to involve CivilCity** with documents to send.
 7. **Official sources** for planning, approval, fee, mapping, utility or compliance claims.
@@ -280,3 +280,11 @@ Primary destination: relevant `/projects/*` page or service page
 3. Improve existing articles before creating competing pages.
 4. Create GitHub issues for the commercial clusters, not one issue per article.
 5. Require PR review or at least CI checks for each publication batch.
+
+## Reader-facing quality gate
+
+- Never publish drafting instructions, competitor references, SEO strategy notes or commentary about how an article should be written.
+- Use a topic-specific `Example:` heading and introduce invented scenarios with `Consider…`. Do not imply a real client project, approval or outcome.
+- Proofread the title, summary, introduction, headings, tables and FAQs as continuous reader-facing copy. Do not insert a lowercased article title into a generic sentence.
+- Assign every article a relevant, distinct image in `src/lib/insight-images.json`. Reusing the same asset under a new filename does not meet this requirement.
+- Run `npm run check:content`, lint and the production build before publishing. The content check rejects missing or byte-identical article images and known drafting phrases.

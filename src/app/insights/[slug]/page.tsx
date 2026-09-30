@@ -55,6 +55,7 @@ function SectionTable({ table, title }: { table: NonNullable<BlogSection["table"
 export default async function InsightPostPage({ params }: Props) {
   const post = getBlogPost((await params).slug);
   if (!post) notFound();
+  const articleImage = getBlogImage(post.category, post.slug);
   const resources = [...new Map([...(post.resources ?? []), ...(post.sourceLinks ?? [])].map((r) => [r.href, r])).values()];
   const related = post.relatedSlugs.map(getBlogPost).filter((p) => p !== undefined);
   const readingMinutes = Math.max(1, Math.ceil(getArticleWordCount(post) / 220));
@@ -65,7 +66,7 @@ export default async function InsightPostPage({ params }: Props) {
       datePublished: post.date, dateModified: post.updatedDate ?? post.date,
       author: { "@type": "Organization", name: site.name, url: `${site.domain}/about` },
       publisher: { "@type": "Organization", name: site.name, url: site.domain },
-      image: new URL(getBlogImage(post.category, post.slug), site.domain).href,
+      image: new URL(articleImage, site.domain).href,
       mainEntityOfPage: `${site.domain}/insights/${post.slug}`,
       inLanguage: "en-AU", keywords: post.keywords.join(", "),
     },
@@ -88,7 +89,7 @@ export default async function InsightPostPage({ params }: Props) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, "\\u003c") }} />
       <article>
         <header className="relative overflow-hidden bg-espresso">
-          <Image src={getBlogImage(post.category, post.slug)} alt="" fill priority sizes="100vw" className="object-cover" />
+          <Image src={articleImage} alt="" fill priority sizes="100vw" className="object-cover" />
           <div className="absolute inset-0 bg-gradient-to-r from-espresso/95 via-espresso/85 to-espresso/55" />
           <div className="relative mx-auto max-w-[1200px] px-4 pb-14 pt-32 sm:px-6 sm:pb-20 lg:px-8 lg:pt-40">
             <Link href="/insights" className="inline-flex items-center gap-2 text-sm font-medium text-amber-forge"><ArrowLeft size={16} aria-hidden /> All insights</Link>
@@ -96,6 +97,7 @@ export default async function InsightPostPage({ params }: Props) {
             <h1 className="mt-5 max-w-4xl text-4xl leading-[1.1] font-normal tracking-[-0.035em] text-warm-cream sm:text-5xl lg:text-6xl">{post.title}</h1>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-warm-cream/90">{post.description}</p>
           </div>
+          {articleImage.includes("/illustrations/") && <p className="absolute right-4 bottom-3 rounded bg-espresso/70 px-2 py-1 text-xs text-warm-cream sm:right-6">Concept illustration</p>}
         </header>
         <div className="cream-site-section px-4 py-10 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-4xl">
@@ -109,7 +111,7 @@ export default async function InsightPostPage({ params }: Props) {
               <div className="grid gap-5 md:grid-cols-[1fr_auto] md:items-center">
                 <div>
                   <p className="text-xs font-semibold uppercase tracking-[0.18em] text-amber-forge">Project question?</p>
-                  <h2 id="early-project-help" className="mt-3 text-2xl font-normal tracking-[-0.02em]">Get civil input before the site, layout or approval path hardens.</h2>
+                  <h2 id="early-project-help" className="mt-3 text-2xl font-normal tracking-[-0.02em]">Check the civil constraints before committing to your next step.</h2>
                   <p className="mt-3 max-w-2xl text-sm leading-6 text-warm-cream/85">
                     Send CivilCity the address, current plans, approval stage and the issue you are trying to resolve. We will help scope the right civil engineering input for the project.
                   </p>

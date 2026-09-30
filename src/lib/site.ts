@@ -1,3 +1,5 @@
+import insightImages from "./insight-images.json";
+
 export const site = {
   name: "CivilCity Engineering Consultants",
   domain: "https://civilcity.com.au",
@@ -908,71 +910,6 @@ export { blogPosts, getBlogPost, latestBlogPosts } from "./insights";
 export type { BlogPost, BlogResource, BlogSection } from "./insights";
 
 export function getBlogImage(category: string, slug?: string) {
-  const bySlug: Record<string, string> = {
-    "civil-construction-hold-points-small-sunshine-coast-developments": "/civilcity-earthworks-bulldozer.png",
-    "development-application-costs-sunshine-coast-small-developers": "/insight-sunshine-coast-infrastructure-charges-budget-review.png",
-    "can-i-subdivide-my-land-on-the-sunshine-coast": "/project-type-subdivision-infill.webp",
-    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers": "/insight-due-diligence-development-site-selection.webp",
-    "operational-works-approval-sunshine-coast-a-developers-guide": "/insight-operational-works-application-package.webp",
-    "driveway-design-on-the-sunshine-coast-what-a-civil-engineer-checks": "/insight-car-parking-access-design.webp",
-    "swept-path-analysis-on-the-sunshine-coast-when-does-development-need-it": "/insight-car-parking-access-swept-path-review.webp",
-    "how-overlays-affect-your-sunshine-coast-property": "/insight-sunshine-coast-overlays-property-assessment.png",
-    "how-can-i-see-easements-on-my-property": "/insight-sunshine-coast-easement-check.png",
-    "stormwater-design-on-the-sunshine-coast-what-developers-need-to-know": "/service-hero-stormwater-drainage.webp",
-    "lawful-point-of-discharge-why-it-can-make-or-break-a-development": "/insight-erosion-sediment-control-small-site.webp",
-    "plan-sealing-sunshine-coast-what-developers-need-to-know": "/insight-operational-works-after-da-conditions.webp",
-    "driveway-long-sections-and-cross-sections-explained": "/insight-sunshine-coast-driveway-sections-review.png",
-    "secondary-driveways-on-the-sunshine-coast-can-you-add-another-access": "/insight-sunshine-coast-secondary-driveway-assessment.png",
-    "before-you-buy-a-development-site-civil-engineering-checks-that-matter": "/civilcity-subdivision-hero.png",
-    "common-reasons-sunshine-coast-development-applications-get-delayed": "/insight-operational-works-delays-review.webp",
-    "development-i-sunshine-coast-how-developers-can-research-nearby-approvals": "/insight-sunshine-coast-development-i-research.png",
-    "how-to-read-a-sunshine-coast-council-site-report": "/insight-sunshine-coast-council-site-report-review.png",
-    "flood-overlays-and-development-risk-on-the-sunshine-coast": "/insight-sunshine-coast-flood-overlay-drainage-risk.png",
-    "battle-axe-subdivision-on-the-sunshine-coast-access-services-and-stormwater-risks": "/insight-sunshine-coast-battle-axe-access-assessment.png",
-    "townhouse-development-sunshine-coast-civil-engineering-checklist": "/contact-hero-townhouses.webp",
-    "development-infrastructure-charges-on-the-sunshine-coast-what-to-allow-for": "/insight-sunshine-coast-infrastructure-charges-budget-review.png",
-    "what-consultants-do-you-need-for-a-sunshine-coast-subdivision": "/about-hero-subdivision-team.webp",
-    "how-civil-engineering-supports-a-development-application": "/service-hero-design-documentation.webp",
-    "referral-agencies-and-sara-sunshine-coast-development": "/insight-original-planning-overlays.webp",
-    "public-notification-sunshine-coast-developments-what-it-means": "/about-hero-subdivision-team.webp",
-    "negotiating-development-conditions-sunshine-coast-civil-items-to-watch": "/insight-operational-works-delays-review.webp",
-    "how-long-does-a-sunshine-coast-subdivision-approval-take": "/insight-operational-works-delays-review.webp",
-    "when-does-a-subdivision-need-operational-works": "/insight-operational-works-application-package.webp",
-    "what-civil-drawings-are-needed-for-operational-works-sunshine-coast": "/service-hero-design-documentation.webp",
-    "as-constructed-drawings-sunshine-coast-subdivision-closeout": "/insight-operational-works-after-da-conditions.webp",
-    "why-plan-sealing-gets-delayed-sunshine-coast": "/insight-operational-works-delays-review.webp",
-    "subdivision-sunshine-coast": "/project-type-subdivision-infill.webp",
-    "low-density-residential-subdivision-sunshine-coast-minimum-lot-size-checks": "/service-hero-advice-office-plans.webp",
-    "secondary-dwelling-sunshine-coast-civil-engineering-checks-before-you-build": "/service-hero-approvals-subdivision.webp",
-    "dual-occupancy-sunshine-coast-approval-and-civil-design-risks": "/service-hero-due-diligence-rpeq.webp",
-    "medium-density-residential-zone-sunshine-coast-townhouse-feasibility": "/project-type-commercial-industrial.webp",
-    "stormwater-management-plan-sunshine-coast-when-development-needs-one": "/insight-rpeq-signing-civil-plan.webp",
-    "landslide-hazard-and-steep-land-overlay-sunshine-coast-development": "/project-type-conditioned-infrastructure.webp",
-    "bushfire-hazard-overlay-sunshine-coast-subdivision-development-checks": "/about-hero-subdivision-team.webp",
-    "acid-sulfate-soils-overlay-sunshine-coast-earthworks-development-risk": "/civilcity-earthworks-bulldozer.png",
-    "transport-and-parking-code-sunshine-coast-small-development-checks": "/insight-sight-distance-road-access-assessment.webp",
-    "small-lot-housing-sunshine-coast-planning-civil-feasibility-checks": "/service-hero-design-documentation.webp",
-    "operational-works-application-sunshine-coast": "/insight-operational-works-application-package.webp",
-    "stormwater-engineer-sunshine-coast": "/service-hero-stormwater-drainage.webp",
-    "civil-engineer-development-application-sunshine-coast": "/service-hero-design-documentation.webp",
-    "rpeq-civil-engineer-sunshine-coast": "/insight-rpeq-signing-civil-plan.webp",
-    "development-site-due-diligence-sunshine-coast": "/insight-due-diligence-development-site-selection.webp",
-  };
-
-  if (slug && bySlug[slug]) return bySlug[slug];
-
-  const byCategory: Record<string, string> = {
-    Approvals: imagery.construction,
-    RPEQ: "/insight-rpeq-signing-civil-plan.webp",
-    Stormwater: "/service-hero-stormwater-drainage.webp",
-    "Due diligence": "/insight-due-diligence-development-site-selection.webp",
-    Access: "/project-type-road-access.webp",
-    Construction: imagery.construction,
-    Earthworks: "/civilcity-earthworks-bulldozer.png",
-    Planning: "/service-hero-advice-office-plans.webp",
-    Subdivision: "/project-type-subdivision-infill.webp",
-    Tendering: "/insight-tender-earthworks-quantity-surveying.webp",
-  };
-
-  return byCategory[category] ?? imagery.field;
+  if (slug && slug in insightImages) return insightImages[slug as keyof typeof insightImages];
+  return category === "Stormwater" ? imagery.stormwater : imagery.plans;
 }

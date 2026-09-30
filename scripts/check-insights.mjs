@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import ts from 'typescript';
+import { createHash } from 'node:crypto';
 
 const source = fs.readFileSync('src/lib/insights.ts', 'utf8');
 const compiled = ts.transpileModule(source, { compilerOptions: { module: ts.ModuleKind.ESNext, target: ts.ScriptTarget.ES2020 } }).outputText;
@@ -18,6 +19,15 @@ for (const statement of site.statements) {
   }
 }
 const slugs = new Set(blogPosts.map((post) => post.slug));
+const images = JSON.parse(fs.readFileSync('src/lib/insight-images.json', 'utf8'));
+const imageHashes = new Set();
+for (const post of blogPosts) {
+  assert(images[post.slug], `${post.slug}: missing dedicated image`);
+  const bytes = fs.readFileSync(`public${images[post.slug]}`);
+  const hash = createHash('sha256').update(bytes).digest('hex');
+  assert(!imageHashes.has(hash), `${post.slug}: repeated article image`);
+  imageHashes.add(hash);
+}
 assert.equal(slugs.size, blogPosts.length, 'Duplicate article URLs');
 const baseline = JSON.parse(fs.readFileSync('docs/blog-editorial-upgrade.json', 'utf8'));
 for (const slug of baseline.preservedSlugs) assert(slugs.has(slug), `Existing URL removed: ${slug}`);
@@ -46,6 +56,6 @@ for (const post of blogPosts) {
     if (section.table) for (const row of section.table.rows) assert.equal(row.length, section.table.columns.length, `${post.slug}: malformed table`);
   }
 }
-assert(!/search intent|high-intent searches|commercially useful|Frankenstein|faceplant|mood-board|bring evidence, not vibes|Urbis/i.test(source), 'Reader-facing SEO notes or prohibited competitor content');
+assert(!/search intent|high-intent searches|commercially useful|Frankenstein|faceplant|mood-board|bring evidence, not vibes|Urbi[sx]|hypothetical|strongest article|the reader|CivilCity topic|article should/i.test(source), 'Reader-facing drafting notes or prohibited competitor content');
 const counts = blogPosts.map(getArticleWordCount).sort((a, b) => a - b);
 console.log(JSON.stringify({ articles: blogPosts.length, minWords: counts[0], medianWords: Math.round((counts[Math.floor((counts.length - 1) / 2)] + counts[Math.floor(counts.length / 2)]) / 2), under500: counts.filter((n) => n < 500).length, tables: blogPosts.reduce((n, p) => n + p.sections.filter((s) => s.table).length, 0), message: 'All content, preserved URLs, internal links, dates and table checks passed.' }, null, 2));
