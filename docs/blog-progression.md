@@ -17,6 +17,12 @@ This document is the current-cycle editorial roadmap. The broader commercial key
 
 ## Editorial queue, in priority order
 
+### Reference-quality revision programme — owner request, 1 October 2026
+
+The immediate content priority is depth across the existing library, alongside accessible mobile navigation. The owner wants the articles to become the most useful, in-depth and interesting Australian references on their subjects. Treat that as a quality objective, not a public ranking claim. The acceptance criteria and future-article requirements are now part of the existing [200-article strategy](editorial/200-article-plan.md); the [URL-level backlog](editorial/reference-quality-backlog.md) tracks all current articles.
+
+The first substantive revision covers pre-purchase due diligence, infill screening and small-developer feasibility. Remaining pages are explicitly pending. Preserve the commercial priorities below when selecting later batches, but do not create more overlapping articles while existing guides still need substantive work.
+
 Improve the existing canonical guide before creating a competing article. Each brief must add decision support beyond the service page; do not copy the service description into a blog post.
 
 | Priority | Existing guide | Next editorial improvement | Commercial destination |

@@ -6,6 +6,39 @@ Updated: 2026-10-01
 
 This is the controlled expansion queue for another 200 high-value CivilCity articles. The goal is not content volume. The goal is to capture commercial Sunshine Coast development intent and route readers to the right CivilCity service, project page or proposal request.
 
+## Owner direction: reference-quality Australian development guides
+
+On 1 October 2026 the owner requested that existing and future articles aim to be the most in-depth, interesting and useful Australian resources on their subjects. This is an editorial ambition, not a substantiated claim of national superiority or a ranking guarantee. Sunshine Coast remains the primary market; distinguish transferable engineering reasoning from local requirements.
+
+Apply this direction to every topic in this existing strategy list. Prioritise substantive upgrades to existing URLs before expanding the library. Some entries below are already published: always check `src/lib/insights.ts` before treating a queue number as an unpublished topic.
+
+- Explain the mechanism: why a constraint arises, how it affects other parts of the project and which evidence changes the decision.
+- Cover the important alternatives, trade-offs, failure modes, consultant responsibilities and limits of the advice. Answer the next practical question instead of repeating the introduction.
+- Make each guide distinctive. A reader should learn something specific to this topic that cannot be obtained by changing the title of another guide.
+- Include a developed example with starting assumptions, investigation, alternatives and a decision. Use `Example:` and `Consider…`; never invent a client result, fee, saving or approval.
+- Use clear lists and concise, topic-specific decision tables. More tables or words alone do not establish quality.
+- Check current primary sources and link them near the relevant claims. Record the review date and claim supported. Explain jurisdiction and document-version limits.
+- Use distinct relevant imagery, natural Australian English and a proposal CTA that follows from the reader's actual problem.
+- Review mobile navigation, table scrolling, section links and reading comfort as part of editorial delivery.
+
+Comprehensive guides will often need roughly 1,800–3,000 words; focused questions may need less and complex subjects more. This is a planning range, not a pass mark, cap or invitation to pad. An article that lacks substance must be rewritten, consolidated or held, regardless of length.
+
+### Existing-library revision queue
+
+The URL-level audit and status list is [reference-quality-backlog.md](reference-quality-backlog.md). It covers all 98 current articles and records remaining work explicitly. No page is declared the “best in Australia” merely because it passes automated checks.
+
+1. **Delivered in the first depth revision:** queue 001 (pre-purchase due diligence), 002 (infill screening) and 003 (small-developer feasibility). Rewritten with separate purposes, developed examples, source-linked explanations and 2–3 decision tables each.
+2. **Next: remaining due diligence topics 004–025.** Remove repeated body sections; check overlap with the three revised guides and existing canonical pillars. Develop the specific investigation, evidence and trade-off for each topic.
+3. **Then: subdivision topics 026–050.** Explain layout-to-approval-to-construction dependencies using topic-specific evidence, examples and current official requirements.
+4. **Then: the remaining 48 established guides.** Reassess depth and source currency; preserve useful material and improve gaps. Their status is pending review, not automatically poor or complete.
+5. **Future topics:** start only after the relevant existing cluster passes the quality review below. Maintain deliberate batches with review between them.
+
+For every revision, record: reader decision, distinct contribution, existing canonical overlap, evidence reviewed, unresolved technical questions, before/after scope, review status and verification. An editorial/source check is not an RPEQ review; name a technical reviewer only when that person has actually reviewed the material.
+
+### Editorial acceptance
+
+Score decision usefulness, depth of explanation, originality, evidence, local accuracy, worked reasoning, readability and commercial relevance from 0 (missing) to 2 (strong). Require no zero and at least 14/16 before accepting a new guide or a substantive rewrite. Record the reasons, not just a score. This is a reasoned editorial judgement; CI checks structure and regressions only. Hold any unsupported technical or regulatory claim regardless of score.
+
 Use this reader-focused article structure:
 
 1. **Quick answer** at the top.

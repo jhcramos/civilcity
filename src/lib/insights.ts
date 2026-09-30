@@ -28,7 +28,7 @@ export const blogPosts: BlogPost[] = [
 {
   "slug": "civil-engineering-due-diligence-before-buying-a-sunshine-coast-development-site",
   "title": "Civil engineering due diligence before buying a Sunshine Coast development site",
-  "description": "Before buying, establish whether access, drainage and servicing can support the development you intend to build.",
+  "description": "What to verify before buying development land: evidence, drainage rights, servicing, access, investigation priorities and a purchase decision you can defend.",
   "date": "2026-09-30",
   "category": "Due diligence",
   "keywords": [
@@ -40,151 +40,220 @@ export const blogPosts: BlogPost[] = [
   ],
   "faqs": [
     {
-      "question": "When should I get civil engineering advice?",
-      "answer": "Get civil input before you commit to a purchase, layout or works scope. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+      "question": "Does a desktop review confirm that I can subdivide?",
+      "answer": "No. It can identify constraints and investigation priorities from available information. Planning assessment, survey, servicing advice and further engineering may still be needed. Ask which conclusions are preliminary and what evidence would be required to rely on them for the next decision."
     },
     {
-      "question": "Can CivilCity confirm whether a site will be approved?",
-      "answer": "Approval depends on the proposal, applicable requirements and the relevant assessment process. CivilCity can review the available site information, identify civil constraints and help prepare the engineering evidence needed for your application."
+      "question": "Should I get a survey before contacting a civil engineer?",
+      "answer": "Contact the engineer with what you have. They can help define the survey information needed for the decision, including off-site levels where access and permissions allow. Commissioning an unsuitable survey can leave the critical drainage or access question unanswered."
     },
     {
-      "question": "What should I send for an initial review?",
-      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+      "question": "Is an existing approval enough to rely on?",
+      "answer": "Have the planner review its applicability and the complete approval record. Then test the civil conditions and drawings against your intended proposal. An approval for a different design does not establish that your preferred layout, works budget or construction sequence is viable."
+    },
+    {
+      "question": "Can the review tell me the purchase price to offer?",
+      "answer": "Engineering advice identifies constraints, scope and uncertainty. Price, funding, tax and legal decisions require the appropriate commercial advisers. Use the engineering findings to revise the assumptions in that wider assessment."
     }
   ],
   "sections": [
     {
       "heading": "Quick answer",
       "body": [
-        "Before buying, establish whether access, drainage and servicing can support the development you intend to build.",
-        "Use the review to identify confirmed constraints, missing information and the investigations needed for your next decision. Agree the scope with your consultant team before commissioning detailed design or committing to construction costs."
+        "Civil due diligence should tell you which assumptions about a development site are supported, which remain untested and which could change your purchase decision. A useful review connects access, drainage, services and levels to the specific development you intend to build. It ends with an investigation plan and decision limits, rather than a blanket statement that the site is feasible.",
+        "Before committing, ask three questions: can the intended development physically work, can the required works and permissions be secured, and does the commercial model still work when those obligations are included? An engineering review informs these questions alongside planning, surveying, legal and commercial advice. It does not replace them."
       ]
     },
     {
-      "heading": "Why this matters commercially",
+      "heading": "Start with the purchase decision, not a generic report",
       "body": [
-        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A concept can appear viable on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
-        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+        "A buyer seeking two saleable lots needs a different review from a developer proposing townhouses with shared infrastructure. State the intended use, whether an existing house will remain, the minimum acceptable development outcome and the date by which you need an answer. Give every consultant the same concept revision. Otherwise, a planning opinion may describe one scheme while engineering and pricing relate to another.",
+        "Ask for the review scope before accepting a fee. A desktop review can identify missing evidence and obvious conflicts from supplied documents. A site visit can add observations, but it does not establish buried service levels. Survey, drainage investigation, geotechnical work or authority advice may be separate commissions. An inexpensive review is useful when its limits match the decision; it becomes dangerous when its conclusions are used beyond those limits."
       ]
     },
     {
-      "heading": "Civil checks to discuss with your project team",
-      "body": "Use these checks alongside the topic-specific guidance below. Record what is confirmed, what remains unknown and who will investigate each item.",
+      "heading": "Build an evidence register before you assess the site",
+      "body": [
+        "Sale descriptions and coloured mapping are starting points. Keep an evidence register showing the document, date, author and purpose. For each conclusion, distinguish a measured fact, an authority response, an interpretation and an assumption. Missing evidence should stay visible rather than quietly becoming an optimistic allowance.",
+        "For example, a sewer shown on a services plan establishes a reason to investigate. It does not, by itself, establish the connection depth, capacity, approved connection arrangement or whether construction access is available. A contour survey and asset information answer different questions; neither is a substitute for the other."
+      ],
       "table": {
         "columns": [
-          "Question",
-          "What to check",
-          "Why it matters"
+          "Evidence",
+          "What it helps establish",
+          "What remains to resolve"
         ],
         "rows": [
           [
-            "Can the site be accessed safely?",
-            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
-            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+            "Survey and site observations",
+            "Levels, visible features and relationships",
+            "Buried assets, ground conditions and discharge permissions"
           ],
           [
-            "Can stormwater be discharged lawfully?",
-            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
-            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+            "Title and registered instruments",
+            "Recorded interests affecting the land",
+            "Legal interpretation and whether proposed works fit those interests"
           ],
           [
-            "Are services in the right place?",
-            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
-            "Service extensions, clashes or protection works can change feasibility and staging."
+            "Planning and application records",
+            "Relevant controls, decisions and approved drawings",
+            "Current applicability, changes and outstanding obligations"
           ],
           [
-            "Do levels and earthworks make sense?",
-            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
-            "Poor level strategy can break access, drainage and construction sequencing."
+            "Utility records and advice",
+            "Assets and servicing pathway to investigate",
+            "Detailed connection requirements and any network works"
           ],
           [
-            "What evidence is missing?",
-            "Survey, title, easements, mapping, approval history, utility records and concept plans",
-            "Missing inputs make consultant pricing less reliable and delay the next decision."
+            "Concept and development brief",
+            "The actual outcome being tested",
+            "Whether all disciplines are assessing the same revision"
           ]
         ]
       }
     },
     {
-      "heading": "Check the purchase assumptions",
+      "heading": "Read the site from its outlet back to its building pads",
       "body": [
-        "Separate confirmed information from assumptions in the sale material. Ask for the evidence behind each constraint, the next investigation needed and the consequence if it cannot be resolved.",
-        "Record the outcome on the current concept plan and give each unresolved item a responsible consultant and a decision date. If the available evidence does not support an assumption, keep it open and identify the information needed to resolve it."
+        "A useful drainage question starts outside the property: where could runoff ultimately go, through whose land or infrastructure, and under what arrangement? Then work backwards through the site. Compare the outlet level with proposed pipes, surface flow routes, driveways and building levels. A proposed drainage pipe cannot solve a level conflict simply because it fits on a plan.",
+        "Separate ordinary site drainage from flooding and overland flow. Water from upstream land may pass through the site regardless of the new development. Raising one area can shift the problem to another boundary or obstruct that route. The first review should identify the need for further assessment; it should not claim flood immunity from a single map screenshot.",
+        "If the only apparent solution depends on neighbouring land, identify the consent, access and legal arrangements to investigate. Treat an unconfirmed agreement as an unresolved dependency. Do not price it as a routine pipe item and assume permission will follow. A legal adviser should address rights and documentation, while the engineer tests whether the physical arrangement could work."
       ]
     },
     {
-      "heading": "Example: check the purchase assumptions",
-      "body": "Consider a buyer comparing the advertised lot yield with a preliminary civil review. A proposed rear lot has no confirmed drainage outlet. The immediate task is to investigate levels and discharge rights before paying for a detailed subdivision layout."
+      "heading": "Test access and services against the same level strategy",
+      "body": [
+        "Access is a three-dimensional problem. The road tie-in, driveway transitions, vehicle clearance, parking and building entrance levels need to work together. A driveway that seems adequate in plan can become impractical once the fall across the site is understood. Retaining walls and drainage structures also consume space beside the pavement.",
+        "For services, identify both the connection location and the route to each proposed lot or building. Ask what happens at shared corridors, retaining walls and proposed boundaries. A convenient route today may become inaccessible after subdivision or require arrangements for future maintenance.",
+        "Unitywater has its own subdivision servicing process. Include its requirements in the project programme rather than assuming a Council development decision settles every water and sewer matter. Ask the relevant consultant to identify the information needed for the actual proposal and which servicing assumptions remain provisional."
+      ],
+      "links": [
+        {
+          "label": "Unitywater: subdivision servicing and connection process",
+          "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+        }
+      ]
     },
     {
-      "heading": "Common mistakes",
+      "heading": "Prioritise investigations by the decision they could change",
       "body": [
-        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
-        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice can reduce the risk of late redesign, especially when access, stormwater, services and levels interact."
+        "Investigate the uncertainty that could invalidate the intended outcome before refining details that cannot change it. If an outlet is unconfirmed, resolving that question may be more valuable than improving a landscape concept. If retaining an existing house controls the available access width, obtain the information needed to test that constraint before commissioning a full layout.",
+        "Each investigation needs a question and an action that follows its answer. “Get more information” is too vague. “Confirm the outlet invert so we can test gravity drainage from the rear lot” gives the surveyor and engineer a shared purpose. It also explains to the buyer why the work matters now."
+      ],
+      "table": {
+        "columns": [
+          "Open question",
+          "Targeted next step",
+          "Purchase consequence"
+        ],
+        "rows": [
+          [
+            "Can the rear land drain to an acceptable outlet?",
+            "Confirm levels and investigate the discharge arrangement",
+            "Change the layout or reconsider the intended yield"
+          ],
+          [
+            "Can the existing dwelling remain?",
+            "Locate structures and test access, services and boundaries together",
+            "Compare retention with an alternative development concept"
+          ],
+          [
+            "Will the proposed connection need external works?",
+            "Seek proposal-specific utility advice",
+            "Revise works scope, approvals and programme allowances"
+          ],
+          [
+            "Is the earthworks concept practical?",
+            "Review survey and scope ground investigation where warranted",
+            "Reconsider pads, retaining, access or construction method"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Example: a promising rear lot with an unresolved outlet",
+      "body": [
+        "Consider a property advertised as having subdivision potential. The buyer wants to retain the front house and create a rear lot. The initial sketch shows an access strip beside the house. The land falls away from the street, and the sketch contains no drainage strategy.",
+        "The engineer first separates three questions. Is there enough usable space for access and services beside the retained house? Can the rear lot reach an acceptable drainage outlet? Will the proposed boundaries leave each lot with workable infrastructure and maintenance access? These questions can produce different answers, so a single “subdivision potential” label is not enough.",
+        "One option is to investigate an outlet beyond the rear boundary. That requires both physical feasibility and the relevant permissions; neither can be assumed. Another is to reconsider the development layout. If neither option supports the buyer’s minimum outcome, more detailed drafting is unlikely to make the original purchase assumption safer.",
+        "The useful result is a decision record: what has been established, which options remain, what evidence each option needs and what unresolved condition would make the buyer reconsider. This example illustrates the reasoning process; it does not predict a particular property’s approval or value."
+      ]
+    },
+    {
+      "heading": "What a useful due diligence report should let you do",
+      "body": [
+        "You should be able to read the conclusions alongside a marked-up concept and see why the recommendation follows. Ask for the proposal assessed, documents relied on, important exclusions, constraints, options considered and the next investigations. A report that lists risks without connecting them to the development leaves the buyer to interpret the most important part.",
+        "For each major constraint, ask for its consequence: reduced usable area, additional external works, an unresolved approval dependency, more survey, a different layout or a construction sequencing issue. Where the evidence is incomplete, the report should say what would change the conclusion. Avoid treating a qualified preliminary opinion as detailed design acceptance."
+      ],
+      "list": [
+        "A defined development outcome and the drawing revision assessed.",
+        "A constraint plan linking observations to access, drainage, levels and services.",
+        "An assumptions register with evidence quality and missing information.",
+        "Options with their dependencies, rather than one unsupported preferred layout.",
+        "Investigation priorities and a clear statement of what the review cannot establish."
+      ]
+    },
+    {
+      "heading": "Keep approval history and contract decisions in separate workstreams",
+      "body": [
+        "Development.i provides access to local property and application information. Review decision documents and associated drawings, not just an application description. An older approval may concern a different layout or contain conditions that affect the proposed works. Ask the planner to establish its relevance and the engineer to identify civil obligations that need further investigation.",
+        "Your solicitor should advise on the contract, due diligence arrangements and legal interests. Give the solicitor the actual unresolved engineering questions and the investigation programme. An engineering report cannot create time, site access or third-party permissions that the purchase arrangements do not provide.",
+        "Council’s operational work guidance explains that further approval may be needed for infrastructure works. Include the potential design and delivery stages in the purchase assessment; an initial development concept is only one part of getting a buildable, serviceable outcome."
+      ],
+      "links": [
+        {
+          "label": "Development.i: property information and application history",
+          "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+        },
+        {
+          "label": "Sunshine Coast Council: operational work",
+          "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes that weaken a purchase review",
+      "body": [
+        "The most consequential mistake is asking whether “the site works” without defining what success means. Other mistakes include interpreting a nearby pipe as a confirmed connection, treating a neighbour’s cooperation as secured, or accepting an estimate whose exclusions contain the very works that concern you.",
+        "Another is paying for repeated broad reviews without resolving the controlling uncertainty. If three consultants have all identified missing levels, a fourth opinion based on the same documents is unlikely to close the gap. Commission the missing evidence, update the shared concept and then revisit the conclusion."
       ]
     },
     {
       "heading": "Checklist for your project brief",
-      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "body": "Send CivilCity a focused package so the review can be scoped around your purchase decision.",
       "list": [
-        "Site address, lot and plan reference, and the decision you need to make.",
-        "Current survey, contours, concept layout or marked-up aerial if available.",
-        "Title, easements, covenants and known service information.",
-        "Any Council correspondence, approval documents or pre-lodgement notes.",
-        "Photos of access, drainage paths, frontage, slopes and visible services.",
-        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+        "Address, lot and plan reference, intended development and minimum acceptable outcome.",
+        "Decision deadline and any known limits on site access or investigation time.",
+        "Current survey and concept, identifying whether existing buildings must remain.",
+        "Available title, easement information and approval documents, shared securely.",
+        "Utility information and photographs of frontage, drainage and level changes.",
+        "Your specific uncertainties, existing consultant advice and assumptions in the feasibility model."
       ]
     },
     {
-      "heading": "When CivilCity should be involved",
-      "body": [
-        "Bring CivilCity in before the project team commits to the site, layout or approval approach. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
-        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
-      ],
-      "links": [
-        {
-          "label": "Engineering due diligence",
-          "href": "/services/engineering-due-diligence"
-        }
-      ]
+      "heading": "When to involve CivilCity",
+      "body": "Involve CivilCity while there is still an opportunity to test the site assumptions before the purchase decision. Request a scoped due diligence proposal identifying the review deliverable, required inputs, exclusions and likely follow-up investigations. Where another specialist or an authority response is needed, make that dependency part of the plan rather than an afterthought."
     }
   ],
   "resources": [
     {
-      "label": "Sunshine Coast Development.i",
+      "label": "Development.i: property information and application history",
       "href": "https://developmenti.sunshinecoast.qld.gov.au/"
     },
     {
-      "label": "Sunshine Coast Planning Scheme 2014",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+      "label": "Unitywater: subdivision servicing and connection process",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
     },
     {
-      "label": "Sunshine Coast flooding and stormwater guidance",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
-    },
-    {
-      "label": "Sunshine Coast development application forms",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+      "label": "Sunshine Coast Council: operational work",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
     }
   ],
-  "sourceLinks": [
-    {
-      "label": "Sunshine Coast Development.i",
-      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
-    },
-    {
-      "label": "Sunshine Coast Planning Scheme 2014",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
-    },
-    {
-      "label": "Sunshine Coast flooding and stormwater guidance",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
-    }
-  ],
+  "sourceLinks": [],
   "serviceSlug": "engineering-due-diligence",
   "cta": {
-    "label": "Get engineering due diligence input",
-    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+    "label": "Test the site before committing to the purchase",
+    "body": "Send the address, intended development, available plans and decision deadline. CivilCity can scope an engineering due diligence review around the assumptions that matter to your purchase."
   },
   "relatedSlugs": [
     "development-site-due-diligence-sunshine-coast",
@@ -196,7 +265,7 @@ export const blogPosts: BlogPost[] = [
 {
   "slug": "how-to-screen-a-sunshine-coast-infill-site-before-paying-for-design",
   "title": "How to screen a Sunshine Coast infill site before paying for design",
-  "description": "For an infill site, plot existing buildings, adjoining levels, service corridors and the likely access route on one plan.",
+  "description": "A practical infill site screening method: map usable space, test access and drainage together, compare layouts and decide what evidence to commission next.",
   "date": "2026-09-30",
   "category": "Due diligence",
   "keywords": [
@@ -208,151 +277,235 @@ export const blogPosts: BlogPost[] = [
   ],
   "faqs": [
     {
-      "question": "When should I get civil engineering advice?",
-      "answer": "Get civil input before you commit to a purchase, layout or works scope. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+      "question": "Can I screen an infill site using an aerial image?",
+      "answer": "An aerial can help orient a discussion and identify visible features. It cannot reliably establish boundary positions, critical levels or buried services. Use it to frame questions, then obtain the evidence needed to answer them."
     },
     {
-      "question": "Can CivilCity confirm whether a site will be approved?",
-      "answer": "Approval depends on the proposal, applicable requirements and the relevant assessment process. CivilCity can review the available site information, identify civil constraints and help prepare the engineering evidence needed for your application."
+      "question": "Does a large block necessarily support more dwellings?",
+      "answer": "No. The shape and arrangement of usable space matter alongside planning requirements. Access, drainage, services, retained structures and level transitions can constrain the layout even where the gross area appears generous."
     },
     {
-      "question": "What should I send for an initial review?",
-      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+      "question": "Should I retain the existing house?",
+      "answer": "Compare retention and alternative concepts using the same evidence. Include access, services, drainage, construction staging and the effect of fixed floor levels. The engineering comparison informs the wider planning and commercial decision; it does not decide it on its own."
+    },
+    {
+      "question": "What should the screening deliver?",
+      "answer": "A defined proposal, marked-up constraints, realistic options and an investigation list tied to decisions. It should clearly distinguish confirmed facts from assumptions and explain where further assessment or detailed design is needed."
     }
   ],
   "sections": [
     {
       "heading": "Quick answer",
       "body": [
-        "For an infill site, plot existing buildings, adjoining levels, service corridors and the likely access route on one plan.",
-        "Use the review to identify confirmed constraints, missing information and the investigations needed for your next decision. Agree the scope with your consultant team before commissioning detailed design or committing to construction costs."
+        "Screen an infill site by testing the space that remains after access, drainage, services, level changes and retained structures are accounted for. Start with one shared base plan, identify the constraints that could change the development outcome, and compare more than one layout before commissioning detailed design.",
+        "The useful output is a short, evidence-based brief: a constraint sketch, the options worth testing, unresolved questions and the next investigation. An attractive concept is not enough if the driveway, drainage outlet and service corridors have each been assumed to occupy the same space."
       ]
     },
     {
-      "heading": "Why this matters commercially",
+      "heading": "Why infill sites need a different first pass",
       "body": [
-        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A concept can appear viable on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
-        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+        "An infill project sits between established properties and infrastructure. There may be little room to adjust driveway levels, widen a construction route or move a service connection. A neighbour’s finished yard, the existing road and a retained house can fix the edges of the problem before your designer has drawn a new building.",
+        "Begin with the intended project: a rear lot, a duplex, townhouses or a small commercial use. Each places different demands on access, servicing and outdoor space. Do not use one generic sketch to infer that every alternative is feasible. Record what is optional and what must remain, especially existing dwellings, vehicle access and occupied premises.",
+        "This screening method is useful beyond the Sunshine Coast, but the applicable planning controls, assessment pathway and utility requirements are local. For a Sunshine Coast property, use the correct Council records and proposal-specific advice. Do not transfer a result from another Australian council or from a nearby development without checking the differences."
       ]
     },
     {
-      "heading": "Civil checks to discuss with your project team",
-      "body": "Use these checks alongside the topic-specific guidance below. Record what is confirmed, what remains unknown and who will investigate each item.",
+      "heading": "Put every discipline on one base plan",
+      "body": [
+        "Collect the survey, title information, available service records, relevant approval drawings and an aerial image. Use the aerial for orientation and the survey for measured relationships within its scope. If the survey does not include a critical road level or drain, identify that gap before relying on a preliminary grade.",
+        "Mark fixed features first: boundaries, retained buildings, visible infrastructure, known easements and significant level changes. Add uncertainty as a separate layer. An unverified pipe location should look different from a surveyed asset. This prevents a sketch from acquiring false authority as it passes between consultants.",
+        "Keep one issue list with the plan revision. Record questions such as “confirm whether this corridor can accommodate both access and drainage” rather than telling each consultant to solve a separate component. Good screening is coordination: the parts must fit together on the same site."
+      ],
+      "list": [
+        "Identify the proposal and features that must be retained.",
+        "Mark measured constraints and label unverified information.",
+        "Show potential access, drainage and service routes before refining building footprints.",
+        "Record clashes and the evidence needed to resolve them.",
+        "Issue the same revision to the planner, surveyor, designer and engineer."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Calculate usable space by drawing the constraints",
+      "body": [
+        "Gross site area does not describe the area available for buildings or new lots. An access corridor, drainage route, retaining structure or service protection requirement can divide otherwise generous land into difficult shapes. Ask where these elements overlap, where they need separation and whether maintenance remains possible.",
+        "A simple subtraction of area is also insufficient. A narrow remnant at the wrong level may be less useful than a smaller, well-connected building area. The aim is to understand the arrangement of space, not to produce an apparently precise yield from incomplete information."
+      ],
       "table": {
         "columns": [
-          "Question",
-          "What to check",
-          "Why it matters"
+          "Space to reserve or investigate",
+          "Question for the concept",
+          "Typical interaction"
         ],
         "rows": [
           [
-            "Can the site be accessed safely?",
-            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
-            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+            "Vehicle access and manoeuvring",
+            "Can the intended vehicles reach and use the site?",
+            "Turning areas compete with parking, landscaping and building edges"
           ],
           [
-            "Can stormwater be discharged lawfully?",
-            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
-            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+            "Stormwater and overland flow",
+            "Where does water go during and after development?",
+            "Surface routes and structures affect pads and shared corridors"
           ],
           [
-            "Are services in the right place?",
-            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
-            "Service extensions, clashes or protection works can change feasibility and staging."
+            "Service routes",
+            "Can each building or lot be served and maintained?",
+            "Pipes, boundaries and retaining structures may conflict"
           ],
           [
-            "Do levels and earthworks make sense?",
-            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
-            "Poor level strategy can break access, drainage and construction sequencing."
+            "Level transitions",
+            "Where can the road, buildings and neighbouring ground meet?",
+            "Retaining and driveway transitions use more than a line on plan"
           ],
           [
-            "What evidence is missing?",
-            "Survey, title, easements, mapping, approval history, utility records and concept plans",
-            "Missing inputs make consultant pricing less reliable and delay the next decision."
+            "Construction access",
+            "How can materials and equipment reach the works?",
+            "A workable finished layout may have a difficult construction sequence"
           ]
         ]
       }
     },
     {
-      "heading": "Screen the site before commissioning a layout",
+      "heading": "Read a section through the site, not just a plan",
       "body": [
-        "Test whether the new development can function alongside what will remain. A preliminary review should identify the information that would change the layout before the architect develops it further.",
-        "Record the outcome on the current concept plan and give each unresolved item a responsible consultant and a decision date. If the available evidence does not support an assumption, keep it open and identify the information needed to resolve it."
+        "A longitudinal section follows a route through changing levels. Even a preliminary section can expose a conflict that a plan hides: a driveway rising beside a retained floor, a drain needing to cross a higher service, or a building pad that forces retaining along a boundary. The engineer needs suitable levels before drawing meaningful conclusions.",
+        "Compare the road tie-in, driveway, parking area, building entrance and drainage outlet. Do not resolve one by moving it independently of the others. Raising a pad may improve one drainage route while steepening access or increasing retaining. Lowering a driveway may create a collection point for runoff.",
+        "At screening stage, the question is whether there is a plausible coordinated level strategy and what evidence is needed to test it. Avoid presenting preliminary sections as construction documents. Detailed geometry, drainage performance and structural design belong to the appropriate later scope."
       ]
     },
     {
-      "heading": "Example: screen the site before commissioning a layout",
-      "body": "Consider an infill block with a house near the street and space behind it. The side access looks wide enough in an aerial photograph, but a survey shows a retaining wall and service pit within that corridor. Resolving those constraints changes where the new dwelling can sit."
+      "heading": "Keep three water questions separate",
+      "body": [
+        "First, where will runoff generated by the development go? Second, does external overland flow need to pass through the site? Third, do flood-related constraints require further investigation? These issues interact but are not interchangeable. A proposal to add a tank does not, by itself, answer all three.",
+        "For an infill site, downstream infrastructure may already serve several properties. An existing visible pit is a reason to obtain information, not evidence of permission or capacity for a new discharge. Establish the outlet, levels, downstream arrangement and relevant assessment requirements before fixing the layout around a convenient connection.",
+        "If a drainage option crosses neighbouring land, keep the physical solution and permission pathway as separate open items. A route can be technically possible and still unavailable to the project. Ask what the fallback layout would be if that option cannot be secured."
+      ]
     },
     {
-      "heading": "Common mistakes",
+      "heading": "Example: retaining the house changes the whole layout",
       "body": [
-        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
-        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice can reduce the risk of late redesign, especially when access, stormwater, services and levels interact."
+        "Consider a deep residential property with an existing house near the front. The owner wants to keep the house and build behind it. The first sketch shows a driveway down one side, new buildings at the rear and drainage returning to the street.",
+        "A screening review notices that the side corridor is also the proposed service route. It narrows beside the house, and the rear ground is lower than the street. The team now has two connected problems: usable corridor space and an unverified drainage level strategy. Simply reducing the building width does not necessarily resolve either.",
+        "Option A retains the house and investigates a revised access and servicing arrangement. Option B changes the development concept so the corridor and building levels can be reconsidered. Neither option is selected on appearance alone. The team first identifies the measurements and authority advice that would distinguish them.",
+        "If the required evidence rules out the retention concept, the owner can compare a different scheme before paying for detailed design of the original one. If the concept remains plausible, the next commission has a clear brief. The value of screening is that it changes the next action, rather than merely adding a list of risks to the file."
+      ]
+    },
+    {
+      "heading": "Compare options against the same questions",
+      "body": [
+        "An option comparison should show the trade-offs, including obligations outside the site. Avoid declaring the layout with the most dwellings the best before testing its works scope. A higher yield can involve more retaining, complex servicing or a construction sequence that affects the retained property.",
+        "Use the same level of evidence for each option. Comparing a fully investigated layout with an optimistic sketch rewards uncertainty. Label what is known, what is an allowance and what has not been tested. Ask which unresolved item could reverse the apparent preference."
+      ],
+      "table": {
+        "columns": [
+          "Comparison",
+          "Option with retained house",
+          "Alternative layout"
+        ],
+        "rows": [
+          [
+            "Access",
+            "Test the corridor beside existing structures",
+            "Test the revised entrance and circulation"
+          ],
+          [
+            "Levels and drainage",
+            "Check whether retained levels constrain the outlet strategy",
+            "Check earthworks and boundary impacts of changed levels"
+          ],
+          [
+            "Services",
+            "Identify existing connections to retain, alter or protect",
+            "Identify the new route and connection scope"
+          ],
+          [
+            "Construction",
+            "Explain how works affect occupation and existing access",
+            "Explain demolition, staging and temporary access assumptions"
+          ],
+          [
+            "Decision evidence",
+            "List what could prevent retention",
+            "List what could make the alternative impractical"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Check the local records without mistaking them for a design",
+      "body": [
+        "Development.i is useful for property information and past or current applications. Investigate the subject property, then use nearby records to understand questions that may be relevant. Read the actual decision and drawings before drawing conclusions from an application title. A neighbouring approval is context, not a guarantee of the same outcome.",
+        "Keep current and proposed planning provisions clearly identified in the project file. Council publishes information about its proposed planning scheme separately. Have the planner confirm the provisions and pathway relevant to the site at the time of the decision; do not mix mapping from different versions in a feasibility conclusion.",
+        "Where a constraint remains unclear, ask a targeted question with a marked-up plan and the intended proposal. “Can I develop this property?” is less useful than a question identifying the access arrangement, unresolved issue and alternative under consideration."
+      ],
+      "links": [
+        {
+          "label": "Development.i: property information and application history",
+          "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+        },
+        {
+          "label": "Council: understanding the proposed planning scheme",
+          "href": "https://haveyoursay.sunshinecoast.qld.gov.au/newplanningscheme/understanding-proposed-planning-scheme"
+        }
+      ]
+    },
+    {
+      "heading": "What to commission after screening",
+      "body": [
+        "Commission the next package around the controlling question. Missing levels may call for a targeted survey brief; uncertain servicing may call for proposal-specific utility advice; an unresolved layout relationship may call for coordinated concept work. There is no advantage in ordering every possible report before knowing what decision it will inform.",
+        "Ask the civil engineer and designer to agree the interface between concept work and detailed design. Council identifies access, parking, roads, stormwater and frontage works among matters that may involve operational work approval. A screening sketch should therefore identify potential later work without pretending that those approvals or details are already complete."
+      ],
+      "links": [
+        {
+          "label": "Sunshine Coast Council: operational work",
+          "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes on constrained infill sites",
+      "body": [
+        "Copying the density of the property next door ignores differences in levels, outlets, access and retained structures. Measuring a corridor from a marketing plan can hide the constraint that controls the whole project. Asking for a firm construction price from a sketch with no level strategy moves uncertainty into exclusions rather than removing it.",
+        "Another common failure is preserving a preferred building layout while forcing the civil design around it. When access, drainage and services cannot fit, revisit the concept together. The cheapest drawing change is often the one made before each discipline has completed a separate detailed package."
       ]
     },
     {
       "heading": "Checklist for your project brief",
-      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "body": "Give CivilCity the information needed to screen the spatial and level relationships, together with the decision you want the screening to support.",
       "list": [
-        "Site address, lot and plan reference, and the decision you need to make.",
-        "Current survey, contours, concept layout or marked-up aerial if available.",
-        "Title, easements, covenants and known service information.",
-        "Any Council correspondence, approval documents or pre-lodgement notes.",
-        "Photos of access, drainage paths, frontage, slopes and visible services.",
-        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+        "Property address and intended use, including whether existing buildings will remain.",
+        "Survey and available plans, with the date and revision of each.",
+        "A marked-up sketch showing proposed access, buildings and known drainage features.",
+        "Available title and service information, identifying anything unverified.",
+        "Photographs of the street frontage, side corridors and changes in level.",
+        "The alternatives you would consider and the next decision or design commitment."
       ]
     },
     {
-      "heading": "When CivilCity should be involved",
-      "body": [
-        "Bring CivilCity in before the project team commits to the site, layout or approval approach. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
-        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
-      ],
-      "links": [
-        {
-          "label": "Engineering due diligence",
-          "href": "/services/engineering-due-diligence"
-        }
-      ]
+      "heading": "When to involve CivilCity",
+      "body": "Bring CivilCity into the concept discussion before the layout becomes fixed. Request a screening scope that tests access, levels, drainage and servicing together and explains the evidence needed for the next stage. Share the result with the planner, surveyor and designer so the next drawings respond to one coordinated brief."
     }
   ],
   "resources": [
     {
-      "label": "Sunshine Coast Development.i",
+      "label": "Development.i: property information and application history",
       "href": "https://developmenti.sunshinecoast.qld.gov.au/"
     },
     {
-      "label": "Sunshine Coast Planning Scheme 2014",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+      "label": "Council: understanding the proposed planning scheme",
+      "href": "https://haveyoursay.sunshinecoast.qld.gov.au/newplanningscheme/understanding-proposed-planning-scheme"
     },
     {
-      "label": "Sunshine Coast flooding and stormwater guidance",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
-    },
-    {
-      "label": "Sunshine Coast development application forms",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+      "label": "Sunshine Coast Council: operational work",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
     }
   ],
-  "sourceLinks": [
-    {
-      "label": "Sunshine Coast Development.i",
-      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
-    },
-    {
-      "label": "Sunshine Coast Planning Scheme 2014",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
-    },
-    {
-      "label": "Sunshine Coast flooding and stormwater guidance",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
-    }
-  ],
+  "sourceLinks": [],
   "serviceSlug": "engineering-due-diligence",
   "cta": {
-    "label": "Get engineering due diligence input",
-    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+    "label": "Find out which infill layout is worth developing",
+    "body": "Send your address, available survey and concept, and tell us what must remain. CivilCity can scope a review of the access, drainage, services and levels before you commit to detailed design."
   },
   "relatedSlugs": [
     "development-site-due-diligence-sunshine-coast",
@@ -364,7 +517,7 @@ export const blogPosts: BlogPost[] = [
 {
   "slug": "sunshine-coast-development-feasibility-checklist-for-small-developers",
   "title": "Sunshine Coast development feasibility checklist for small developers",
-  "description": "A feasibility checklist becomes useful when each item has an evidence source, an owner and a next action.",
+  "description": "A development feasibility checklist that connects site evidence, civil works, approvals, costs and programme risk before a small developer commits.",
   "date": "2026-09-30",
   "category": "Due diligence",
   "keywords": [
@@ -376,151 +529,286 @@ export const blogPosts: BlogPost[] = [
   ],
   "faqs": [
     {
-      "question": "When should I get civil engineering advice?",
-      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+      "question": "What is the difference between feasibility and detailed design?",
+      "answer": "Feasibility tests whether a defined development outcome warrants the next commitment and identifies the evidence still needed. Detailed design develops the selected arrangement to the scope required for assessment or delivery. A feasibility sketch should not be used as a construction document."
     },
     {
-      "question": "Can CivilCity confirm whether a site will be approved?",
-      "answer": "Approval depends on the proposal, applicable requirements and the relevant assessment process. CivilCity can review the available site information, identify civil constraints and help prepare the engineering evidence needed for your application."
+      "question": "How much contingency should a small developer allow?",
+      "answer": "There is no single allowance that suits every site or stage. Identify the uncertainty, separate known works from provisional scope and obtain advice appropriate to the cost plan. A contingency cannot resolve an unavailable outlet, missing permission or unworkable layout."
     },
     {
-      "question": "What should I send for an initial review?",
-      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+      "question": "Does planning potential establish the civil budget?",
+      "answer": "No. The actual layout, levels, servicing, drainage and approval obligations drive the works scope. A planning opinion and an engineering feasibility review answer related but different questions. Coordinate them before relying on a development cost allowance."
+    },
+    {
+      "question": "When should I update the feasibility?",
+      "answer": "Update it when evidence changes yield, layout, work packages, approval requirements or timing. Keep the old assumptions and reason for the change in the decision register so the team can see what changed rather than simply replacing the total."
+    },
+    {
+      "question": "Can this checklist be used elsewhere in Australia?",
+      "answer": "The method of linking evidence, scope and decisions is transferable. Council controls, utility requirements, approval processes and terminology vary. The linked sources here concern the Sunshine Coast and its relevant providers; obtain local advice for another jurisdiction."
     }
   ],
   "sections": [
     {
       "heading": "Quick answer",
       "body": [
-        "A feasibility checklist becomes useful when each item has an evidence source, an owner and a next action.",
-        "Use the review to identify confirmed constraints, missing information and the investigations needed for your next decision. Agree the scope with your consultant team before commissioning detailed design or committing to construction costs."
+        "A useful development feasibility checklist connects the intended yield to the works, approvals, evidence and cash commitments needed to deliver it. For a small Sunshine Coast project, test planning potential, access, drainage, services and levels together before relying on a construction allowance or a saleable lot count.",
+        "Keep three categories separate: confirmed facts, priced scope and unresolved assumptions. Review the model whenever a civil finding changes the layout, external works or programme. The result should show what decision you can make now and what must be established before the next commitment."
       ]
     },
     {
-      "heading": "Why this matters commercially",
+      "heading": "Define what success means before testing the numbers",
       "body": [
-        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A concept can appear viable on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
-        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+        "Write a one-page development brief. State the intended use, whether buildings will be retained, the outcome you need and the alternatives you would consider. A two-lot subdivision, a townhouse development and a small commercial project have different servicing, approval and construction interfaces. A general “development potential” label cannot support a specific budget.",
+        "Identify the decision date and the commitment being considered: purchasing the site, appointing consultants, lodging an application or accepting a construction contract. Evidence sufficient to choose the next investigation is not necessarily sufficient to commit to construction. The checklist should become more detailed as the decision becomes harder to reverse.",
+        "Give the planner, surveyor, engineer and cost adviser the same brief and drawing revision. If the feasibility model assumes a retained dwelling while the engineering estimate assumes a cleared site, the numbers may look complete but describe different projects."
       ]
     },
     {
-      "heading": "Civil checks to discuss with your project team",
-      "body": "Use these checks alongside the topic-specific guidance below. Record what is confirmed, what remains unknown and who will investigate each item.",
+      "heading": "Use a decision register alongside the spreadsheet",
+      "body": [
+        "A spreadsheet can calculate an answer from uncertain inputs with impressive precision. A decision register makes those inputs visible. Record the assumption, supporting evidence, responsible person and next action. Include the date by which the assumption needs to be resolved.",
+        "Do not mark an item complete simply because it has a budget allowance. A drainage allowance does not establish an outlet. A provisional service cost does not establish an acceptable connection. Keep technical feasibility and cost confidence as separate fields so a price cannot disguise an unresolved constraint."
+      ],
       "table": {
         "columns": [
-          "Question",
-          "What to check",
-          "Why it matters"
+          "Workstream",
+          "Evidence to seek",
+          "Decision it supports"
         ],
         "rows": [
           [
-            "Can the site be accessed safely?",
-            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
-            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+            "Planning and proposal",
+            "Relevant provisions, assessment pathway and concept review",
+            "Whether the intended use and layout warrant further work"
           ],
           [
-            "Can stormwater be discharged lawfully?",
-            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
-            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+            "Access and levels",
+            "Suitable survey and coordinated preliminary geometry",
+            "Whether the site can support the intended circulation and pads"
           ],
           [
-            "Are services in the right place?",
-            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
-            "Service extensions, clashes or protection works can change feasibility and staging."
+            "Drainage",
+            "Outlet strategy, level information and identified assessment needs",
+            "Whether the concept has a plausible drainage pathway"
           ],
           [
-            "Do levels and earthworks make sense?",
-            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
-            "Poor level strategy can break access, drainage and construction sequencing."
+            "Water and sewer",
+            "Proposal-specific servicing information and requirements",
+            "Whether connections or external works change the scope"
           ],
           [
-            "What evidence is missing?",
-            "Survey, title, easements, mapping, approval history, utility records and concept plans",
-            "Missing inputs make consultant pricing less reliable and delay the next decision."
+            "Cost and programme",
+            "Defined work packages, exclusions and dependencies",
+            "Whether the commercial model remains credible"
+          ],
+          [
+            "Completion",
+            "Approval obligations and evidence required at handover",
+            "Whether the programme includes the steps after physical construction"
           ]
         ]
       }
     },
     {
-      "heading": "Turn a checklist into a decision register",
+      "heading": "Stage 1: confirm the property and planning context",
       "body": [
-        "Record unresolved access, drainage and service issues separately from confirmed findings. Review the highest-consequence unknowns first, then update the budget and programme as information becomes available.",
-        "Record the outcome on the current concept plan and give each unresolved item a responsible consultant and a decision date. If the available evidence does not support an assumption, keep it open and identify the information needed to resolve it."
+        "Check the address, lot and plan details, title information and the proposal being assessed. Use Development.i to locate property and application records. Read relevant decisions and drawings rather than relying on a short description or a marketing statement about an old approval.",
+        "Have the planner identify the current provisions and assessment pathway. Keep proposed planning changes separate from requirements that apply to the decision. A review based on the wrong property, an outdated concept or mixed scheme versions can send every subsequent consultant in the wrong direction.",
+        "Note potential off-site interfaces early: road frontage, drainage corridors, neighbouring land and existing infrastructure. The development boundary is not necessarily the boundary of the work or permission needed to deliver the proposal."
+      ],
+      "links": [
+        {
+          "label": "Development.i: property information and application history",
+          "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+        },
+        {
+          "label": "Council: understanding the proposed planning scheme",
+          "href": "https://haveyoursay.sunshinecoast.qld.gov.au/newplanningscheme/understanding-proposed-planning-scheme"
+        }
       ]
     },
     {
-      "heading": "Example: turn a checklist into a decision register",
-      "body": "Consider a small developer with a promising concept and an incomplete survey. The team can screen available records, but the driveway gradient remains untested. Listing that issue as unresolved prevents a preliminary concept from being treated as a confirmed development outcome."
+      "heading": "Stage 2: test the civil arrangement as a system",
+      "body": [
+        "Ask whether access, pads, drainage and services can coexist on one plan and level strategy. A steep driveway can influence building levels; those levels influence drainage and retaining; retaining can affect service routes and construction access. Reviewing each element in isolation may miss the conflict that determines the outcome.",
+        "Identify what must be measured or investigated before selecting the concept. For drainage, trace the route to a potential outlet and identify what remains unknown about levels and permissions. For services, distinguish an asset nearby from a confirmed arrangement for the proposed development.",
+        "For an existing house, record what must remain functional during construction and after new boundaries are created. Connections, access and drainage that worked for one property may need changes when the land is divided. Include those changes in the concept instead of leaving them for the contractor to discover."
+      ]
     },
     {
-      "heading": "Common mistakes",
+      "heading": "Stage 3: build a scope-based civil budget",
       "body": [
-        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
-        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice can reduce the risk of late redesign, especially when access, stormwater, services and levels interact."
+        "Break civil works into packages that someone can review against a drawing and specification. Ask what is included, what is excluded and which quantities are still provisional. Separate on-site works from frontage, network and other off-site work so they are visible in the feasibility model.",
+        "Do not present consultant fees, authority charges, physical construction and project contingency as one unexplained civil percentage. They respond to different drivers and may be paid at different stages. Your cost adviser and financial advisers should address the complete development model, including the appropriate treatment of tax, funding and transaction costs.",
+        "Use current project-specific quotations and verified charges when available. Early allowances need a stated basis and review trigger. A number copied from another project can be misleading if access, ground conditions, infrastructure scope or the timing of delivery differs."
+      ],
+      "table": {
+        "columns": [
+          "Budget package",
+          "Scope questions",
+          "What often changes the allowance"
+        ],
+        "rows": [
+          [
+            "Survey and investigations",
+            "What information does the chosen concept still require?",
+            "Off-site levels, locating assets or additional ground investigation"
+          ],
+          [
+            "Earthworks and retaining",
+            "What level strategy and construction access are assumed?",
+            "Changed pads, unsuitable material or boundary interfaces"
+          ],
+          [
+            "Drainage and services",
+            "Which routes, connections and structures are included?",
+            "Outlet changes, protection works or external extensions"
+          ],
+          [
+            "Access and frontage",
+            "Where do the works stop and what must be reinstated?",
+            "Road interfaces, temporary access and authority requirements"
+          ],
+          [
+            "Design, approvals and completion",
+            "Which deliverables and verification activities are included?",
+            "Changed scope, additional assessment or incomplete records"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Stage 4: test dependencies before promising a programme",
+      "body": [
+        "A programme should show what must happen before the next activity can start. If detailed drainage design depends on survey or an external agreement, adding more drafting resources does not remove that dependency. If a connection requires authority input, construction planning must account for the actual servicing pathway.",
+        "Ask each consultant to name the information they need and the output they will provide. Then join those interfaces. Record review periods as assumptions to confirm, rather than universal promises. Revisit the programme when the design or approval scope changes.",
+        "Council identifies circumstances where operational work approval may follow development approval. Unitywater describes a separate subdivision servicing process. These are reasons to map the proposal’s actual requirements and responsible parties; they are not a basis for assuming every small development follows an identical sequence."
+      ],
+      "links": [
+        {
+          "label": "Sunshine Coast Council: operational work",
+          "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+        },
+        {
+          "label": "Unitywater: subdivision servicing and connection process",
+          "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+        }
+      ]
+    },
+    {
+      "heading": "Stage 5: test a downside case that has a physical cause",
+      "body": [
+        "A useful sensitivity test starts with a believable project change. What if the preferred outlet is unavailable? What if a retained house prevents the access arrangement? What if external servicing works are needed? Translate the change into a revised layout, scope and programme before changing the spreadsheet.",
+        "Test connected consequences together. An alternative drainage route may add investigation, approval and construction tasks, not just pipe length. A lower yield may still require much of the original frontage work. A delay can change the timing of payments and receipts even if the physical works stay similar.",
+        "A contingency allowance is a provision for uncertainty, not evidence that an option is feasible. If the project only works when every unconfirmed item takes the most favourable outcome, the immediate task is to resolve the controlling assumptions. Your financial adviser should assess the resulting funding and return implications."
+      ]
+    },
+    {
+      "heading": "Example: comparing two layouts before choosing a yield",
+      "body": [
+        "Consider a small developer comparing two townhouse layouts on sloping land. The denser concept places another building near the lower boundary. The initial budget uses a single allowance for civil works, with no separate scope for retaining, drainage structures or changes to the service connection.",
+        "The alternative leaves more room at the lower end of the site. The engineer tests whether that space makes a coordinated level and drainage arrangement more practical. The denser layout may need a different retaining solution and service route. Neither the extra dwelling nor the simpler-looking alternative is assumed to be the better investment.",
+        "The team obtains the missing level and servicing information, then asks for comparable work packages for both concepts. The cost comparison includes excavation, retaining, drainage, connections and construction access. The programme also records whether either solution depends on external works or permissions. The financial model can now compare defined alternatives rather than two different sets of assumptions.",
+        "The lower-yield option is not automatically preferable: the additional works for the denser scheme may be justified, or they may not. The important result is a traceable comparison of revenue assumptions, delivery scope and unresolved risk. If one layout still has no workable outlet or construction route, adding contingency cannot make that option physically feasible."
+      ]
+    },
+    {
+      "heading": "Agree clear proceed, investigate or revise decisions",
+      "body": [
+        "At the end of the review, record the next commitment that the evidence supports. “Proceed” should name a stage, such as commissioning concept design, rather than imply that construction or approval is assured. “Investigate” should name the question, person and evidence needed. “Revise” should explain which assumption has changed.",
+        "Some constraints justify reconsidering the project, but a missing document alone is not proof that it cannot work. Distinguish a confirmed conflict from an unanswered question. Conversely, do not label a fundamental unresolved permission as a minor design detail simply to preserve the original model."
+      ],
+      "table": {
+        "columns": [
+          "Decision",
+          "What should support it",
+          "Next action"
+        ],
+        "rows": [
+          [
+            "Proceed to the next defined stage",
+            "Key assumptions sufficiently supported for that commitment",
+            "Commission the agreed scope with remaining limits recorded"
+          ],
+          [
+            "Investigate before committing",
+            "A material uncertainty could change the layout or scope",
+            "Obtain targeted evidence and update the model"
+          ],
+          [
+            "Revise the concept",
+            "Evidence conflicts with an important design assumption",
+            "Compare alternatives on the same information"
+          ],
+          [
+            "Reconsider the opportunity",
+            "Available options do not meet the developer’s objectives",
+            "Review the commercial decision with the appropriate advisers"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Include completion in the feasibility from the beginning",
+      "body": [
+        "Physical works are not the only task in a development programme. Identify the inspections, records, certifications and condition compliance evidence relevant to the proposal. Assign responsibility while scoping design and construction so required evidence is collected as work proceeds.",
+        "For a subdivision, review Council’s plan sealing guidance and identify what needs to be demonstrated for the particular approval. Keep the surveyor, planner and engineer aligned on the completion requirements. Do not assume that the last day of civil construction is automatically the date the overall subdivision process is complete."
+      ],
+      "links": [
+        {
+          "label": "Sunshine Coast Council: plan sealing",
+          "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+        }
       ]
     },
     {
       "heading": "Checklist for your project brief",
-      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "body": "Use this checklist to prepare a coordinated feasibility discussion with CivilCity and the wider consultant team.",
       "list": [
-        "Site address, lot and plan reference, and the decision you need to make.",
-        "Current survey, contours, concept layout or marked-up aerial if available.",
-        "Title, easements, covenants and known service information.",
-        "Any Council correspondence, approval documents or pre-lodgement notes.",
-        "Photos of access, drainage paths, frontage, slopes and visible services.",
-        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+        "Define the intended outcome, alternatives and commitment you are about to make.",
+        "Confirm property details, available approval history and the concept revision.",
+        "Provide survey, known title constraints, service information and site photographs.",
+        "List unresolved access, drainage, servicing, levels and retained-building questions.",
+        "Separate priced scope from allowances, exclusions and items with no evidence yet.",
+        "Identify off-site works, third-party dependencies and the next authority enquiries.",
+        "Give each investigation an owner, a decision it informs and a required date.",
+        "Include completion obligations and update the model when the scope changes."
       ]
     },
     {
-      "heading": "When CivilCity should be involved",
-      "body": [
-        "Bring CivilCity in before the project team commits to the site, layout or approval approach. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
-        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
-      ],
-      "links": [
-        {
-          "label": "Engineering due diligence",
-          "href": "/services/engineering-due-diligence"
-        }
-      ]
+      "heading": "When to involve CivilCity",
+      "body": "Ask CivilCity to scope the civil feasibility work while the concept can still change. Share the assumptions that control your purchase, layout or budget decision. A focused engineering review can identify which assumptions to test, how civil constraints interact and what information the wider team needs before progressing."
     }
   ],
   "resources": [
     {
-      "label": "Sunshine Coast Development.i",
+      "label": "Development.i: property information and application history",
       "href": "https://developmenti.sunshinecoast.qld.gov.au/"
     },
     {
-      "label": "Sunshine Coast Planning Scheme 2014",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+      "label": "Sunshine Coast Council: operational work",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
     },
     {
-      "label": "Sunshine Coast flooding and stormwater guidance",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+      "label": "Sunshine Coast Council: plan sealing",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
     },
     {
-      "label": "Sunshine Coast development application forms",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+      "label": "Unitywater: subdivision servicing and connection process",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    },
+    {
+      "label": "Council: understanding the proposed planning scheme",
+      "href": "https://haveyoursay.sunshinecoast.qld.gov.au/newplanningscheme/understanding-proposed-planning-scheme"
     }
   ],
-  "sourceLinks": [
-    {
-      "label": "Sunshine Coast Development.i",
-      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
-    },
-    {
-      "label": "Sunshine Coast Planning Scheme 2014",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
-    },
-    {
-      "label": "Sunshine Coast flooding and stormwater guidance",
-      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
-    }
-  ],
+  "sourceLinks": [],
   "serviceSlug": "engineering-due-diligence",
   "cta": {
-    "label": "Get engineering due diligence input",
-    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+    "label": "Test the assumptions behind your development feasibility",
+    "body": "Send the site address, proposed outcome, available plans and the assumptions you need to resolve. CivilCity can scope the civil input needed for your next development decision."
   },
   "relatedSlugs": [
     "development-site-due-diligence-sunshine-coast",
