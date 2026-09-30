@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { ArrowRight, Mail, MapPin, Phone } from "lucide-react";
 import { Logo } from "@/components/logo";
+import { MobileNav } from "@/components/mobile-nav";
 import { navItems, serviceAreas, site } from "@/lib/site";
 
 export function Header() {
@@ -8,20 +9,22 @@ export function Header() {
     <header className="absolute inset-x-0 top-0 z-50 border-b border-warm-cream/14 bg-transparent">
       <div className="mx-auto flex max-w-[1200px] items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
         <Logo />
-        <nav className="hidden items-center gap-7 text-sm font-normal text-warm-cream drop-shadow-sm lg:flex">
+        <nav aria-label="Main navigation" className="hidden items-center gap-7 text-sm font-normal text-warm-cream drop-shadow-sm lg:flex">
           {navItems.map((item) => (
             <Link key={item.href} href={item.href} className="transition hover:underline">
               {item.label}
             </Link>
           ))}
         </nav>
-        <Link
-          href="/contact"
-          className="amber-pill"
-        >
-          Start a project
-          <ArrowRight size={16} aria-hidden />
-        </Link>
+        <div className="flex items-center gap-3">
+          <div className="hidden sm:block">
+            <Link href="/contact" className="amber-pill">
+              Start a project
+              <ArrowRight size={16} aria-hidden />
+            </Link>
+          </div>
+          <MobileNav />
+        </div>
       </div>
     </header>
   );

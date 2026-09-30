@@ -75,7 +75,7 @@ Use this structure for important articles:
 3. Technical explanation in plain English: name the relevant code, table or process without sounding like council minutes.
 4. Practical table: include at least one real rendered table, not text pretending to be a table.
 5. Civil risk section: access, stormwater, services, earthworks, retaining, overlays, construction or closeout as relevant.
-6. Worked example: use a realistic hypothetical Sunshine Coast scenario.
+6. Worked example: use a topic-specific `Example:` heading and introduce an illustrative scenario with `Consider…`; never imply an invented client project or result.
 7. Common mistakes: tie mistakes to cost, delay, redesign, information requests or plan sealing.
 8. When CivilCity should be involved: state what to send and when to get help.
 9. FAQ and official resources.
@@ -171,10 +171,14 @@ Report:
 - Inspect all existing slugs before choosing a topic. Improve an existing guide where it answers the same reader decision; never add duplicate slug objects.
 - Preserve published URLs unless a separately reviewed redirect strategy is supported by Search Console and backlink evidence.
 - Write for property owners, developers and their consultant teams. Never publish keyword-strategy notes, search-intent commentary or sarcastic remarks about other disciplines.
-- Do not use competitor material, including Urbis, as a content or design reference.
+- Do not use competitor material, as a content or design reference.
 - Add an original decision table, an actionable checklist, contextual internal links, a related service/CTA and valid relatedSlugs. Do not pad content to a word target.
 - Use the structured `list`, `ordered`, `table` and `links` fields. Verify current official sources for regulatory claims; avoid universal thresholds without their applicable context.
 - Distinguish Council/EDQ pathways, separate water and sewer authority requirements, RPEQ professional-service responsibility and specific certification, and plan sealing versus title registration.
 - Preserve the original publication date. Set updatedDate only after a substantive revision. Attribute to the organisation unless a real author and review are confirmed; never invent an RPEQ byline or technical approval.
 - Label hypothetical examples clearly. Do not imply a client project, measured outcome, approval guarantee or search ranking without evidence.
 - Run the content integrity check, lint and build. Changes must go through the authorised remote repository and review process; an automated content run must not bypass repository policy.
+
+### Editorial and imagery regression checks
+
+Follow `docs/editorial/publishing-governance.md`. No competitor references or drafting notes may appear in published article text. Provide a dedicated, relevant image for each article in `src/lib/insight-images.json`; the content check rejects reused files even under different names. Run `npm run check:content` before publishing.
