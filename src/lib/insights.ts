@@ -8613,7 +8613,7 @@ export const blogPosts: BlogPost[] = [
       },
       {
         "heading": "Example: a two-lot infill project",
-        "body": "Consider a two-lot subdivision in an established Sunshine Coast street has a shared driveway, a new stormwater connection and a short retaining wall. The contractor backfills the drainage trench before the engineer is notified. The issue is not necessarily that the pipe is wrong; it is that grade, connection location and bedding are now harder to verify. A sensible register would have required the survey and pre-cover inspection first, then released backfill once the record was complete. If the design later changes, the project team can identify the affected asset instead of reopening the whole site."
+        "body": "Consider a two-lot subdivision in an established Sunshine Coast street with a shared driveway, a new stormwater connection and a short retaining wall. The contractor backfills the drainage trench before the engineer is notified. The issue is not necessarily that the pipe is wrong; it is that grade, connection location and bedding are now harder to verify. A sensible register would have required the survey and pre-cover inspection first, then released backfill once the record was complete. If the design later changes, the project team can identify the affected asset instead of reopening the whole site."
       },
       {
         "heading": "Mistakes that create cost and delay",
