@@ -25,6 +25,8456 @@ export type BlogPost = {
 };
 
 export const blogPosts: BlogPost[] = [
+{
+  "slug": "civil-engineering-due-diligence-before-buying-a-sunshine-coast-development-site",
+  "title": "Civil engineering due diligence before buying a Sunshine Coast development site",
+  "description": "Civil engineering due diligence before buying a Sunshine Coast development site explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "civil engineering due diligence before buying a sunshine coast development site",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for civil engineering due diligence before buying a sunshine coast development site?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Civil engineering due diligence before buying a Sunshine Coast development site is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For civil engineering due diligence before buying a sunshine coast development site, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "how-to-screen-a-sunshine-coast-infill-site-before-paying-for-design",
+  "title": "How to screen a Sunshine Coast infill site before paying for design",
+  "description": "How to screen a Sunshine Coast infill site before paying for design explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "how to screen a sunshine coast infill site before paying for design",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for how to screen a sunshine coast infill site before paying for design?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "How to screen a Sunshine Coast infill site before paying for design is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For how to screen a sunshine coast infill site before paying for design, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "sunshine-coast-development-feasibility-checklist-for-small-developers",
+  "title": "Sunshine Coast development feasibility checklist for small developers",
+  "description": "Sunshine Coast development feasibility checklist for small developers explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "sunshine coast development feasibility checklist for small developers",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for sunshine coast development feasibility checklist for small developers?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Sunshine Coast development feasibility checklist for small developers is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For sunshine coast development feasibility checklist for small developers, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "hidden-civil-costs-that-can-destroy-a-sunshine-coast-townhouse-feasibility",
+  "title": "Hidden civil costs that can destroy a Sunshine Coast townhouse feasibility",
+  "description": "Hidden civil costs that can destroy a Sunshine Coast townhouse feasibility explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "hidden civil costs that can destroy a sunshine coast townhouse feasibility",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for hidden civil costs that can destroy a sunshine coast townhouse feasibility?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Hidden civil costs that can destroy a Sunshine Coast townhouse feasibility is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For hidden civil costs that can destroy a sunshine coast townhouse feasibility, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "what-to-ask-a-civil-engineer-before-signing-a-land-contract-sunshine-coast",
+  "title": "What to ask a civil engineer before signing a land contract",
+  "description": "What to ask a civil engineer before signing a land contract explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "what to ask a civil engineer before signing a land contract",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for what to ask a civil engineer before signing a land contract?",
+      "answer": "Get civil input before the scope and briefing decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "What to ask a civil engineer before signing a land contract is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a scope and briefing decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For what to ask a civil engineer before signing a land contract, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "site-access-red-flags-in-sunshine-coast-development-due-diligence",
+  "title": "Site access red flags in Sunshine Coast development due diligence",
+  "description": "Site access red flags in Sunshine Coast development due diligence explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "site access red flags in sunshine coast development due diligence",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for site access red flags in sunshine coast development due diligence?",
+      "answer": "Get civil input before the risk decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Site access red flags in Sunshine Coast development due diligence is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a risk decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For site access red flags in sunshine coast development due diligence, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "stormwater-red-flags-before-buying-a-sunshine-coast-block",
+  "title": "Stormwater red flags before buying a Sunshine Coast block",
+  "description": "Stormwater red flags before buying a Sunshine Coast block explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "stormwater red flags before buying a sunshine coast block",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for stormwater red flags before buying a sunshine coast block?",
+      "answer": "Get civil input before the risk decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Stormwater red flags before buying a Sunshine Coast block is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a risk decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For stormwater red flags before buying a sunshine coast block, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "how-slope-changes-development-cost-on-sunshine-coast-sites",
+  "title": "How slope changes development cost on Sunshine Coast sites",
+  "description": "How slope changes development cost on Sunshine Coast sites explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "how slope changes development cost on sunshine coast sites",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for how slope changes development cost on sunshine coast sites?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "How slope changes development cost on Sunshine Coast sites is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For how slope changes development cost on sunshine coast sites, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "civil-engineering-checks-before-buying-a-corner-lot-for-development-sunshine-coast",
+  "title": "Civil engineering checks before buying a corner lot for development",
+  "description": "Civil engineering checks before buying a corner lot for development explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "civil engineering checks before buying a corner lot for development",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for civil engineering checks before buying a corner lot for development?",
+      "answer": "Get civil input before the scope and briefing decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Civil engineering checks before buying a corner lot for development is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a scope and briefing decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For civil engineering checks before buying a corner lot for development, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "due-diligence-for-rear-lot-and-battle-axe-subdivision-sites-sunshine-coast",
+  "title": "Due diligence for rear-lot and battle-axe subdivision sites",
+  "description": "Due diligence for rear-lot and battle-axe subdivision sites explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "due diligence for rear-lot and battle-axe subdivision sites",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for due diligence for rear-lot and battle-axe subdivision sites?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Due diligence for rear-lot and battle-axe subdivision sites is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For due diligence for rear-lot and battle-axe subdivision sites, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "how-to-compare-two-sunshine-coast-development-sites-using-civil-risk",
+  "title": "How to compare two Sunshine Coast development sites using civil risk",
+  "description": "How to compare two Sunshine Coast development sites using civil risk explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "how to compare two sunshine coast development sites using civil risk",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for how to compare two sunshine coast development sites using civil risk?",
+      "answer": "Get civil input before the risk decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "How to compare two Sunshine Coast development sites using civil risk is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a risk decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For how to compare two sunshine coast development sites using civil risk, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "what-a-civil-due-diligence-report-should-include-for-a-subdivision-site-sunshine-coast",
+  "title": "What a civil due diligence report should include for a subdivision site",
+  "description": "What a civil due diligence report should include for a subdivision site explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "what a civil due diligence report should include for a subdivision site",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for what a civil due diligence report should include for a subdivision site?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "What a civil due diligence report should include for a subdivision site is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For what a civil due diligence report should include for a subdivision site, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "development-feasibility-for-small-commercial-sites-on-the-sunshine-coast",
+  "title": "Development feasibility for small commercial sites on the Sunshine Coast",
+  "description": "Development feasibility for small commercial sites on the Sunshine Coast explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "development feasibility for small commercial sites on the sunshine coast",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for development feasibility for small commercial sites on the sunshine coast?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Development feasibility for small commercial sites on the Sunshine Coast is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For development feasibility for small commercial sites on the sunshine coast, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "civil-risk-checklist-for-buying-land-near-a-waterway-or-drainage-corridor-sunshine-coast",
+  "title": "Civil risk checklist for buying land near a waterway or drainage corridor",
+  "description": "Civil risk checklist for buying land near a waterway or drainage corridor explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "civil risk checklist for buying land near a waterway or drainage corridor",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for civil risk checklist for buying land near a waterway or drainage corridor?",
+      "answer": "Get civil input before the scope and briefing decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Civil risk checklist for buying land near a waterway or drainage corridor is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a scope and briefing decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For civil risk checklist for buying land near a waterway or drainage corridor, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "how-existing-services-can-reduce-or-reshape-subdivision-yield-sunshine-coast",
+  "title": "How existing services can reduce or reshape subdivision yield",
+  "description": "How existing services can reduce or reshape subdivision yield explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "how existing services can reduce or reshape subdivision yield",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for how existing services can reduce or reshape subdivision yield?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "How existing services can reduce or reshape subdivision yield is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For how existing services can reduce or reshape subdivision yield, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "pre-purchase-checks-for-land-with-easements-on-the-sunshine-coast",
+  "title": "Pre-purchase checks for land with easements on the Sunshine Coast",
+  "description": "Pre-purchase checks for land with easements on the Sunshine Coast explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "pre-purchase checks for land with easements on the sunshine coast",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for pre-purchase checks for land with easements on the sunshine coast?",
+      "answer": "Get civil input before the scope and briefing decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Pre-purchase checks for land with easements on the Sunshine Coast is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a scope and briefing decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For pre-purchase checks for land with easements on the sunshine coast, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "when-a-cheap-development-site-is-cheap-for-civil-reasons-sunshine-coast",
+  "title": "When a cheap development site is cheap for civil reasons",
+  "description": "When a cheap development site is cheap for civil reasons explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "when a cheap development site is cheap for civil reasons",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for when a cheap development site is cheap for civil reasons?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "When a cheap development site is cheap for civil reasons is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For when a cheap development site is cheap for civil reasons, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "civil-engineering-inputs-for-a-pre-lodgement-feasibility-meeting-sunshine-coast",
+  "title": "Civil engineering inputs for a pre-lodgement feasibility meeting",
+  "description": "Civil engineering inputs for a pre-lodgement feasibility meeting explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "civil engineering inputs for a pre-lodgement feasibility meeting",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for civil engineering inputs for a pre-lodgement feasibility meeting?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Civil engineering inputs for a pre-lodgement feasibility meeting is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For civil engineering inputs for a pre-lodgement feasibility meeting, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "how-to-budget-early-civil-design-risk-before-a-planning-application-sunshine-coast",
+  "title": "How to budget early civil design risk before a planning application",
+  "description": "How to budget early civil design risk before a planning application explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "how to budget early civil design risk before a planning application",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for how to budget early civil design risk before a planning application?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "How to budget early civil design risk before a planning application is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For how to budget early civil design risk before a planning application, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "due-diligence-for-sites-with-old-approvals-or-lapsed-approvals-sunshine-coast",
+  "title": "Due diligence for sites with old approvals or lapsed approvals",
+  "description": "Due diligence for sites with old approvals or lapsed approvals explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "due diligence for sites with old approvals or lapsed approvals",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for due diligence for sites with old approvals or lapsed approvals?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Due diligence for sites with old approvals or lapsed approvals is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For due diligence for sites with old approvals or lapsed approvals, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "how-to-assess-development-risk-from-council-mapping-before-purchase-sunshine-coast",
+  "title": "How to assess development risk from council mapping before purchase",
+  "description": "How to assess development risk from council mapping before purchase explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "how to assess development risk from council mapping before purchase",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for how to assess development risk from council mapping before purchase?",
+      "answer": "Get civil input before the risk decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "How to assess development risk from council mapping before purchase is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a risk decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For how to assess development risk from council mapping before purchase, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "civil-engineering-questions-for-a-property-development-feasibility-model-sunshine-coast",
+  "title": "Civil engineering questions for a property development feasibility model",
+  "description": "Civil engineering questions for a property development feasibility model explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "civil engineering questions for a property development feasibility model",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for civil engineering questions for a property development feasibility model?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Civil engineering questions for a property development feasibility model is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For civil engineering questions for a property development feasibility model, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "how-to-brief-civilcity-for-a-fast-pre-purchase-site-review-sunshine-coast",
+  "title": "How to brief CivilCity for a fast pre-purchase site review",
+  "description": "How to brief CivilCity for a fast pre-purchase site review explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "how to brief civilcity for a fast pre-purchase site review",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for how to brief civilcity for a fast pre-purchase site review?",
+      "answer": "Get civil input before the scope and briefing decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "How to brief CivilCity for a fast pre-purchase site review is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a scope and briefing decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For how to brief civilcity for a fast pre-purchase site review, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "what-developers-should-send-for-a-first-civil-feasibility-opinion-sunshine-coast",
+  "title": "What developers should send for a first civil feasibility opinion",
+  "description": "What developers should send for a first civil feasibility opinion explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "what developers should send for a first civil feasibility opinion",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for what developers should send for a first civil feasibility opinion?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "What developers should send for a first civil feasibility opinion is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For what developers should send for a first civil feasibility opinion, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "when-to-walk-away-from-a-sunshine-coast-site-because-of-civil-constraints",
+  "title": "When to walk away from a Sunshine Coast site because of civil constraints",
+  "description": "When to walk away from a Sunshine Coast site because of civil constraints explained for Sunshine Coast property buyers, developers and project teams, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Due diligence",
+  "keywords": [
+    "when to walk away from a sunshine coast site because of civil constraints",
+    "due diligence Sunshine Coast",
+    "engineering due diligence Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for when to walk away from a sunshine coast site because of civil constraints?",
+      "answer": "Get civil input before the risk decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "When to walk away from a Sunshine Coast site because of civil constraints is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a risk decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For when to walk away from a sunshine coast site because of civil constraints, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical buyer is considering a site that appears suitable for site acquisition, feasibility and early layout decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For site acquisition, feasibility and early layout decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward engineering due diligence."
+      ],
+      "links": [
+        {
+          "label": "Engineering due diligence",
+          "href": "/services/engineering-due-diligence"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    },
+    {
+      "label": "Sunshine Coast development application forms",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast flooding and stormwater guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+    }
+  ],
+  "serviceSlug": "engineering-due-diligence",
+  "cta": {
+    "label": "Get engineering due diligence input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "development-site-due-diligence-sunshine-coast",
+    "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
+    "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
+  ]
+},
+{
+  "slug": "subdivision-engineering-sunshine-coast-what-happens-after-the-planner-says-it-may-work",
+  "title": "Subdivision engineering Sunshine Coast: what happens after the planner says it may work",
+  "description": "Subdivision engineering Sunshine Coast: what happens after the planner says it may work explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "subdivision engineering sunshine coast what happens after the planner says it may work",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for subdivision engineering sunshine coast?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Subdivision engineering Sunshine Coast: what happens after the planner says it may work is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For subdivision engineering sunshine coast: what happens after the planner says it may work, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "how-civil-engineering-shapes-lot-yield-in-a-sunshine-coast-subdivision",
+  "title": "How civil engineering shapes lot yield in a Sunshine Coast subdivision",
+  "description": "How civil engineering shapes lot yield in a Sunshine Coast subdivision explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "how civil engineering shapes lot yield in a sunshine coast subdivision",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for how civil engineering shapes lot yield in a sunshine coast subdivision?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "How civil engineering shapes lot yield in a Sunshine Coast subdivision is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For how civil engineering shapes lot yield in a sunshine coast subdivision, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "minimum-lot-size-is-not-the-whole-story-civil-constraints-in-subdivision-feasibility-sunshine-coast",
+  "title": "Minimum lot size is not the whole story: civil constraints in subdivision feasibility",
+  "description": "Minimum lot size is not the whole story: civil constraints in subdivision feasibility explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "minimum lot size is not the whole story civil constraints in subdivision feasibility",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for minimum lot size is not the whole story?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Minimum lot size is not the whole story: civil constraints in subdivision feasibility is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For minimum lot size is not the whole story: civil constraints in subdivision feasibility, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "two-lot-subdivision-on-the-sunshine-coast-civil-checks-before-design",
+  "title": "Two-lot subdivision on the Sunshine Coast: civil checks before design",
+  "description": "Two-lot subdivision on the Sunshine Coast: civil checks before design explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "two-lot subdivision on the sunshine coast civil checks before design",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for two-lot subdivision on the sunshine coast?",
+      "answer": "Get civil input before the scope and briefing decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Two-lot subdivision on the Sunshine Coast: civil checks before design is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a scope and briefing decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For two-lot subdivision on the sunshine coast: civil checks before design, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "three-lot-subdivision-feasibility-access-stormwater-and-services-checklist-sunshine-coast",
+  "title": "Three-lot subdivision feasibility: access, stormwater and services checklist",
+  "description": "Three-lot subdivision feasibility: access, stormwater and services checklist explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "three-lot subdivision feasibility access, stormwater and services checklist",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for three-lot subdivision feasibility?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Three-lot subdivision feasibility: access, stormwater and services checklist is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For three-lot subdivision feasibility: access, stormwater and services checklist, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "rear-lot-subdivision-civil-risks-on-the-sunshine-coast",
+  "title": "Rear-lot subdivision civil risks on the Sunshine Coast",
+  "description": "Rear-lot subdivision civil risks on the Sunshine Coast explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "rear-lot subdivision civil risks on the sunshine coast",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for rear-lot subdivision civil risks on the sunshine coast?",
+      "answer": "Get civil input before the risk decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Rear-lot subdivision civil risks on the Sunshine Coast is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a risk decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For rear-lot subdivision civil risks on the sunshine coast, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "battle-axe-access-design-common-mistakes-in-small-subdivisions-sunshine-coast",
+  "title": "Battle-axe access design: common mistakes in small subdivisions",
+  "description": "Battle-axe access design: common mistakes in small subdivisions explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "battle-axe access design common mistakes in small subdivisions",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for battle-axe access design?",
+      "answer": "Get civil input before the risk decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Battle-axe access design: common mistakes in small subdivisions is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a risk decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For battle-axe access design: common mistakes in small subdivisions, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "subdivision-frontage-works-what-developers-should-budget-for-sunshine-coast",
+  "title": "Subdivision frontage works: what developers should budget for",
+  "description": "Subdivision frontage works: what developers should budget for explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "subdivision frontage works what developers should budget for",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for subdivision frontage works?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Subdivision frontage works: what developers should budget for is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For subdivision frontage works: what developers should budget for, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "how-stormwater-discharge-affects-sunshine-coast-subdivision-layout",
+  "title": "How stormwater discharge affects Sunshine Coast subdivision layout",
+  "description": "How stormwater discharge affects Sunshine Coast subdivision layout explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "how stormwater discharge affects sunshine coast subdivision layout",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for how stormwater discharge affects sunshine coast subdivision layout?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "How stormwater discharge affects Sunshine Coast subdivision layout is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For how stormwater discharge affects sunshine coast subdivision layout, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "sewer-and-water-constraints-in-small-subdivision-projects-sunshine-coast",
+  "title": "Sewer and water constraints in small subdivision projects",
+  "description": "Sewer and water constraints in small subdivision projects explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "sewer and water constraints in small subdivision projects",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for sewer and water constraints in small subdivision projects?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Sewer and water constraints in small subdivision projects is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For sewer and water constraints in small subdivision projects, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "how-easements-affect-subdivision-design-and-approval-risk-sunshine-coast",
+  "title": "How easements affect subdivision design and approval risk",
+  "description": "How easements affect subdivision design and approval risk explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "how easements affect subdivision design and approval risk",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for how easements affect subdivision design and approval risk?",
+      "answer": "Get civil input before the risk decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "How easements affect subdivision design and approval risk is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a risk decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For how easements affect subdivision design and approval risk, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "subdivision-consultant-team-who-does-what-and-when-sunshine-coast",
+  "title": "Subdivision consultant team: who does what and when",
+  "description": "Subdivision consultant team: who does what and when explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "subdivision consultant team who does what and when",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for subdivision consultant team?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Subdivision consultant team: who does what and when is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For subdivision consultant team: who does what and when, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "civil-engineering-input-for-reconfiguring-a-lot-applications-sunshine-coast",
+  "title": "Civil engineering input for reconfiguring a lot applications",
+  "description": "Civil engineering input for reconfiguring a lot applications explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "civil engineering input for reconfiguring a lot applications",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for civil engineering input for reconfiguring a lot applications?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Civil engineering input for reconfiguring a lot applications is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For civil engineering input for reconfiguring a lot applications, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "sunshine-coast-subdivision-approval-conditions-civil-items-to-watch",
+  "title": "Sunshine Coast subdivision approval conditions: civil items to watch",
+  "description": "Sunshine Coast subdivision approval conditions: civil items to watch explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "sunshine coast subdivision approval conditions civil items to watch",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for sunshine coast subdivision approval conditions?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Sunshine Coast subdivision approval conditions: civil items to watch is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For sunshine coast subdivision approval conditions: civil items to watch, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "what-makes-a-subdivision-ready-for-operational-works-sunshine-coast",
+  "title": "What makes a subdivision ready for operational works",
+  "description": "What makes a subdivision ready for operational works explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "what makes a subdivision ready for operational works",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for what makes a subdivision ready for operational works?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "What makes a subdivision ready for operational works is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For what makes a subdivision ready for operational works, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "how-to-avoid-redesign-between-rol-approval-and-operational-works-sunshine-coast",
+  "title": "How to avoid redesign between ROL approval and operational works",
+  "description": "How to avoid redesign between ROL approval and operational works explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "how to avoid redesign between rol approval and operational works",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for how to avoid redesign between rol approval and operational works?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "How to avoid redesign between ROL approval and operational works is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For how to avoid redesign between rol approval and operational works, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "subdivision-staging-civil-risks-in-splitting-works-over-time-sunshine-coast",
+  "title": "Subdivision staging: civil risks in splitting works over time",
+  "description": "Subdivision staging: civil risks in splitting works over time explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "subdivision staging civil risks in splitting works over time",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for subdivision staging?",
+      "answer": "Get civil input before the risk decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Subdivision staging: civil risks in splitting works over time is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a risk decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For subdivision staging: civil risks in splitting works over time, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "small-lot-housing-and-civil-engineering-constraints-on-the-sunshine-coast",
+  "title": "Small-lot housing and civil engineering constraints on the Sunshine Coast",
+  "description": "Small-lot housing and civil engineering constraints on the Sunshine Coast explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "small-lot housing and civil engineering constraints on the sunshine coast",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for small-lot housing and civil engineering constraints on the sunshine coast?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Small-lot housing and civil engineering constraints on the Sunshine Coast is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For small-lot housing and civil engineering constraints on the sunshine coast, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "subdivision-in-sloping-areas-access-earthworks-and-retaining-implications-sunshine-coast",
+  "title": "Subdivision in sloping areas: access, earthworks and retaining implications",
+  "description": "Subdivision in sloping areas: access, earthworks and retaining implications explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "subdivision in sloping areas access, earthworks and retaining implications",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for subdivision in sloping areas?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Subdivision in sloping areas: access, earthworks and retaining implications is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For subdivision in sloping areas: access, earthworks and retaining implications, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "subdivision-near-drainage-corridors-what-to-check-early-sunshine-coast",
+  "title": "Subdivision near drainage corridors: what to check early",
+  "description": "Subdivision near drainage corridors: what to check early explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "subdivision near drainage corridors what to check early",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for subdivision near drainage corridors?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Subdivision near drainage corridors: what to check early is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For subdivision near drainage corridors: what to check early, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "how-to-brief-a-surveyor-and-civil-engineer-for-a-subdivision-layout-sunshine-coast",
+  "title": "How to brief a surveyor and civil engineer for a subdivision layout",
+  "description": "How to brief a surveyor and civil engineer for a subdivision layout explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "how to brief a surveyor and civil engineer for a subdivision layout",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for how to brief a surveyor and civil engineer for a subdivision layout?",
+      "answer": "Get civil input before the scope and briefing decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "How to brief a surveyor and civil engineer for a subdivision layout is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a scope and briefing decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For how to brief a surveyor and civil engineer for a subdivision layout, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "why-subdivision-layouts-fail-late-in-the-process-sunshine-coast",
+  "title": "Why subdivision layouts fail late in the process",
+  "description": "Why subdivision layouts fail late in the process explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "why subdivision layouts fail late in the process",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for why subdivision layouts fail late in the process?",
+      "answer": "Get civil input before the risk decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Why subdivision layouts fail late in the process is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a risk decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For why subdivision layouts fail late in the process, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "civil-engineering-evidence-that-strengthens-a-subdivision-application-sunshine-coast",
+  "title": "Civil engineering evidence that strengthens a subdivision application",
+  "description": "Civil engineering evidence that strengthens a subdivision application explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "civil engineering evidence that strengthens a subdivision application",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for civil engineering evidence that strengthens a subdivision application?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Civil engineering evidence that strengthens a subdivision application is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For civil engineering evidence that strengthens a subdivision application, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "subdivision-feasibility-for-blocks-with-existing-houses-sunshine-coast",
+  "title": "Subdivision feasibility for blocks with existing houses",
+  "description": "Subdivision feasibility for blocks with existing houses explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "subdivision feasibility for blocks with existing houses",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for subdivision feasibility for blocks with existing houses?",
+      "answer": "Get civil input before the budget and feasibility decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "Subdivision feasibility for blocks with existing houses is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a budget and feasibility decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For subdivision feasibility for blocks with existing houses, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
+{
+  "slug": "how-civilcity-helps-turn-a-subdivision-idea-into-a-buildable-pathway-sunshine-coast",
+  "title": "How CivilCity helps turn a subdivision idea into a buildable pathway",
+  "description": "How CivilCity helps turn a subdivision idea into a buildable pathway explained for Sunshine Coast landowners, planners, surveyors and small developers, with the civil checks, decision table, common risks and documents to send before committing to the next step.",
+  "date": "2026-09-30",
+  "category": "Subdivision",
+  "keywords": [
+    "how civilcity helps turn a subdivision idea into a buildable pathway",
+    "subdivision Sunshine Coast",
+    "subdivision and rol engineering Sunshine Coast",
+    "civil engineer Sunshine Coast development",
+    "Sunshine Coast development civil engineering"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get civil engineering input for how civilcity helps turn a subdivision idea into a buildable pathway?",
+      "answer": "Get civil input before the go/no-go decision becomes hard to change. Early review can test access, stormwater, levels, services, easements and approval conditions before the project team spends money on a layout that may need to be reworked."
+    },
+    {
+      "question": "Can CivilCity confirm whether a site will be approved?",
+      "answer": "No consultant should promise approval from a general article. CivilCity can review the available information, identify civil constraints, define further investigations and help the project team prepare a stronger, better-scoped submission."
+    },
+    {
+      "question": "What should I send for an initial review?",
+      "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quick answer",
+      "body": [
+        "How CivilCity helps turn a subdivision idea into a buildable pathway is not just a planning question. For a Sunshine Coast project, the commercial answer depends on whether the site can be accessed, drained, serviced, levelled and delivered without hidden civil works overwhelming the expected value. The first step is to test the civil constraints before the layout, price or approval pathway is treated as settled.",
+        "CivilCity should be involved when the reader is making a go/no-go decision: buying land, shaping yield, budgeting consultant scope, responding to approval conditions or deciding whether a project deserves detailed design. The useful output is not generic advice; it is a short list of constraints, missing information and next technical actions."
+      ]
+    },
+    {
+      "heading": "Why this matters commercially",
+      "body": [
+        "Small Sunshine Coast developments often look simple until access, stormwater, services, slope or frontage works are tested together. A block can meet a planning idea on paper but still need driveway redesign, detention, service extension, retaining, easement consent, operational works or extra survey before it becomes buildable.",
+        "The expensive mistake is committing to a purchase, design direction or lodgement strategy before these civil questions are visible. A proportionate engineering review can protect the budget by showing whether the next dollar should go into design, negotiation, further investigation or walking away."
+      ]
+    },
+    {
+      "heading": "Decision table",
+      "body": "Use this table to frame the first CivilCity review. It is deliberately practical: the aim is to decide what to investigate next, not to pretend that a general article can replace site-specific advice.",
+      "table": {
+        "columns": [
+          "Question",
+          "What to check",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Can the site be accessed safely?",
+            "Road frontage, driveway grades, sight distance, turning and shared access constraints",
+            "Access constraints can reduce yield, force redesign or trigger extra reporting."
+          ],
+          [
+            "Can stormwater be discharged lawfully?",
+            "Existing drainage, overland flow, downstream capacity, easements and detention needs",
+            "Stormwater is a common source of information requests, neighbour issues and construction cost."
+          ],
+          [
+            "Are services in the right place?",
+            "Water, sewer, stormwater, power, telecoms, service depths and authority requirements",
+            "Service extensions, clashes or protection works can change feasibility and staging."
+          ],
+          [
+            "Do levels and earthworks make sense?",
+            "Slope, fill, retaining, building pads, driveway tie-ins and boundary interfaces",
+            "Poor level strategy can break access, drainage and construction sequencing."
+          ],
+          [
+            "What evidence is missing?",
+            "Survey, title, easements, mapping, approval history, utility records and concept plans",
+            "Missing inputs make consultant pricing less reliable and delay the next decision."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How to apply the Urbix-style check to this CivilCity topic",
+      "body": [
+        "Start with the question a buyer or project team is really asking: should we proceed, redesign, budget more, ask Council a sharper question, or appoint the right consultant? Then test that question against the physical site constraints. This is the same pattern that works in the Urbix articles: quick answer first, then checks, tables, risks and a clear action.",
+        "For how civilcity helps turn a subdivision idea into a buildable pathway, the strongest article is not a lecture. It should help the reader package the site information CivilCity needs, understand what could change the answer, and move from uncertainty to a scoped engineering proposal."
+      ]
+    },
+    {
+      "heading": "Hypothetical Sunshine Coast example",
+      "body": "A hypothetical landowner is considering a site that appears suitable for subdivision, reconfiguration of a lot and lot-yield decisions. The early planning view is positive, but the civil review finds a constrained driveway grade, an unclear stormwater discharge path and an existing service close to the likely building or access area. None of those issues automatically kills the project. Together, they change the next step: obtain better survey, test an alternative layout, confirm authority requirements and carry a realistic allowance before the commercial decision is made."
+    },
+    {
+      "heading": "Common mistakes",
+      "body": [
+        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
+        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice is usually cheaper than late redesign, especially when access, stormwater, services and levels interact."
+      ]
+    },
+    {
+      "heading": "Checklist for your project brief",
+      "body": "Send enough information for a focused first-pass review. If some items are missing, say so clearly rather than waiting for a perfect package.",
+      "list": [
+        "Site address, lot and plan reference, and the decision you need to make.",
+        "Current survey, contours, concept layout or marked-up aerial if available.",
+        "Title, easements, covenants and known service information.",
+        "Any Council correspondence, approval documents or pre-lodgement notes.",
+        "Photos of access, drainage paths, frontage, slopes and visible services.",
+        "Target outcome: purchase decision, subdivision yield, DA support, operational works, construction or closeout."
+      ]
+    },
+    {
+      "heading": "When CivilCity should be involved",
+      "body": [
+        "Bring CivilCity in before the project team locks the site, layout or approval path. For subdivision, reconfiguration of a lot and lot-yield decisions, the civil work is most valuable when it informs the commercial decision rather than simply documenting a decision already made.",
+        "CivilCity can review the available information, identify likely access, stormwater, levels, servicing and approval risks, define missing inputs, coordinate with the planner or surveyor and prepare a scoped path toward subdivision and rol engineering."
+      ],
+      "links": [
+        {
+          "label": "Subdivision and ROL engineering",
+          "href": "/services/reconfiguration-of-a-lot-engineering"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    },
+    {
+      "label": "Sunshine Coast plan sealing guidance",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+    },
+    {
+      "label": "Unitywater subdivisions",
+      "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sunshine Coast Planning Scheme 2014",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+    },
+    {
+      "label": "Sunshine Coast Development.i",
+      "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+    },
+    {
+      "label": "Sunshine Coast operational work applications",
+      "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+    }
+  ],
+  "serviceSlug": "reconfiguration-of-a-lot-engineering",
+  "cta": {
+    "label": "Get subdivision and rol engineering input",
+    "body": "Send CivilCity the site details, current plans and the decision you need to make so the civil constraints can be scoped before they become expensive."
+  },
+  "relatedSlugs": [
+    "subdivision-sunshine-coast",
+    "can-i-subdivide-my-land-on-the-sunshine-coast",
+    "when-does-a-subdivision-need-operational-works"
+  ]
+},
   {
     "slug": "civil-construction-hold-points-small-sunshine-coast-developments",
     "title": "Civil construction hold points for small Sunshine Coast developments",

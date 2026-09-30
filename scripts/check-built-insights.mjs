@@ -1,13 +1,18 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
+import ts from 'typescript';
 
 // Inspect the real Next build output, rather than a separate mock rendering.
 const directory = '.next/server/app/insights';
 const files = fs.readdirSync(directory).filter((file) => file.endsWith('.html'));
 const baseline = JSON.parse(fs.readFileSync('docs/blog-editorial-upgrade.json', 'utf8'));
 assert(files.length >= baseline.uniqueArticles, 'Missing generated article pages');
-for (const slug of baseline.preservedSlugs) {
+const source = fs.readFileSync('src/lib/insights.ts', 'utf8');
+const compiled = ts.transpileModule(source, { compilerOptions: { module: ts.ModuleKind.ESNext, target: ts.ScriptTarget.ES2020 } }).outputText;
+const { blogPosts } = await import(`data:text/javascript;base64,${Buffer.from(compiled).toString('base64')}`);
+for (const slug of baseline.preservedSlugs) assert(blogPosts.some((post) => post.slug === slug), `Existing URL removed: ${slug}`);
+for (const { slug } of blogPosts) {
   const html = fs.readFileSync(path.join(directory, `${slug}.html`), 'utf8');
   assert(html.includes(`https://civilcity.com.au/insights/${slug}`), `${slug}: canonical URL absent`);
   assert.equal((html.match(/<h1(?:\s|>)/g) ?? []).length, 1, `${slug}: article must have one H1`);
@@ -21,4 +26,4 @@ for (const slug of baseline.preservedSlugs) {
   assert(html.includes('<table') && html.includes('<caption'), `${slug}: table not rendered`);
   assert(html.includes('View service scope'), `${slug}: missing service CTA`);
 }
-console.log(`Verified ${baseline.preservedSlugs.length} built article pages: canonical, H1, contents anchors, table, CTA and JSON-LD.`);
+console.log(`Verified ${blogPosts.length} built article pages: canonical, H1, contents anchors, table, CTA and JSON-LD.`);
