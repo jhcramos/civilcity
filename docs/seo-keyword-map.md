@@ -15,6 +15,7 @@ The CivilCity editorial approach is:
 5. Route every article to one primary service or project page.
 6. Use official public sources for planning, approval, fee, mapping, utility, transport and compliance claims.
 7. Avoid generic civil engineering education unless it supports a commercial decision.
+8. Apply the owner's reference-quality depth requirement in `docs/editorial/200-article-plan.md`. Prioritise the existing-library revision backlog before new cluster pages; evaluate evidence, explanatory depth and distinct value rather than word count alone.
 
 ## Priority Commercial Keywords
 

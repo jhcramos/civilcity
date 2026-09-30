@@ -8,6 +8,12 @@ CivilCity content is commercial engineering content. It must be useful, local, t
 
 The next 200-article programme exists to build qualified Sunshine Coast development enquiries. It is not permission to publish 200 pages blindly.
 
+The owner's 1 October 2026 direction is to build reference-quality articles with the depth and interest expected of a leading Australian development resource. Apply the detailed coverage and editorial acceptance criteria in `docs/editorial/200-article-plan.md` to all future articles and substantive revisions. This ambition does not authorise claims that CivilCity is Australia's best blog.
+
+Before expanding a cluster, work through its existing URLs in `docs/editorial/reference-quality-backlog.md`. Replace generic repeated explanations with topic-specific reasoning, evidence, alternatives and developed examples. Word count is diagnostic only. Record source checks and editorial judgements; do not imply a professional engineering review occurred when it did not.
+
+The repetition baseline records existing editorial debt, not approved copy. CI rejects additional repeated substantial passages or tables. Reduce that debt through rewriting or consolidation; never expand the baseline to make a failing new article pass. Editorial review must also catch paraphrased templates that exact-match checks cannot detect.
+
 ## Source Of Truth
 
 Use these files in order:

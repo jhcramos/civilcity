@@ -6,7 +6,7 @@ import { navItems, serviceAreas, site } from "@/lib/site";
 
 export function Header() {
   return (
-    <header className="absolute inset-x-0 top-0 z-50 border-b border-warm-cream/14 bg-transparent">
+    <header className="fixed inset-x-0 top-0 z-50 border-b border-warm-cream/14 bg-espresso shadow-sm lg:absolute lg:bg-transparent lg:shadow-none">
       <div className="mx-auto flex max-w-[1200px] items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
         <Logo />
         <nav aria-label="Main navigation" className="hidden items-center gap-7 text-sm font-normal text-warm-cream drop-shadow-sm lg:flex">
@@ -23,7 +23,7 @@ export function Header() {
               <ArrowRight size={16} aria-hidden />
             </Link>
           </div>
-          <MobileNav />
+          <MobileNav items={navItems} />
         </div>
       </div>
     </header>

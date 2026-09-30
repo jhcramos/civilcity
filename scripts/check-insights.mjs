@@ -2,10 +2,13 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import ts from 'typescript';
 import { createHash } from 'node:crypto';
+import { newRepetition } from './insight-repetition.mjs';
 
 const source = fs.readFileSync('src/lib/insights.ts', 'utf8');
 const compiled = ts.transpileModule(source, { compilerOptions: { module: ts.ModuleKind.ESNext, target: ts.ScriptTarget.ES2020 } }).outputText;
 const { blogPosts, getArticleWordCount, getSectionId } = await import(`data:text/javascript;base64,${Buffer.from(compiled).toString('base64')}`);
+const repetitionBaseline = JSON.parse(fs.readFileSync('docs/editorial/legacy-repetition.json', 'utf8'));
+assert.deepEqual(newRepetition(blogPosts, repetitionBaseline), [], 'New repeated substantial passage or table: write a topic-specific explanation; do not expand the legacy baseline.');
 const site = ts.createSourceFile('site.ts', fs.readFileSync('src/lib/site.ts', 'utf8'), ts.ScriptTarget.Latest, true);
 const services = new Set();
 for (const statement of site.statements) {

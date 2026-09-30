@@ -45,7 +45,7 @@ export default async function ContactPage({ searchParams }: { searchParams: Prom
           },
         ]}
       />
-      <section id="enquiry" className="cream-site-section section-pad">
+      <section id="enquiry" className="cream-site-section section-pad scroll-mt-28">
         <div className="mx-auto grid max-w-7xl gap-10 px-4 sm:px-6 lg:grid-cols-[0.8fr_1.2fr] lg:px-8">
           <aside className="space-y-5">
             {[

@@ -4,7 +4,7 @@ Run this only when the next topic has passed the commercial publishing gate. Thi
 
 ## Goal
 
-Publish one high-quality Sunshine Coast land development insight article per authorised run, selected from the commercial roadmap and verified against existing content. The goal is qualified enquiries and proposal-fit, not article count.
+Improve an existing Sunshine Coast land development guide or publish one new article per authorised run, selected from the commercial roadmap and verified against existing content. The goal is qualified enquiries and proposal-fit, not article count. The owner's reference-quality direction and editorial acceptance criteria in `docs/editorial/200-article-plan.md` apply to every run.
 
 ## Source Of Truth
 
@@ -15,7 +15,7 @@ Use this order:
 3. Read `docs/editorial/200-article-plan.md`.
 4. Read `docs/editorial/publishing-governance.md`.
 5. Read `docs/blog-progression.md` and check whether an existing priority guide should be improved instead of creating a new URL.
-6. Select the highest-value unpublished topic that has one clear commercial destination and no canonical duplicate.
+6. Check `docs/editorial/reference-quality-backlog.md` and improve the highest-priority existing guide in the relevant cluster. Select an unpublished topic only when the cluster's existing content has passed the depth review and the new topic has a distinct purpose.
 7. Verify current official sources before drafting.
 8. Publish only when CI, live URL and sitemap verification can be completed.
 
@@ -27,7 +27,7 @@ Each article must be a useful customer guide, not a thin SEO note.
 
 Include:
 
-- 900-1500 words equivalent using the existing `sections` structure.
+- Enough detail to answer the topic fully using the existing `sections` structure. Comprehensive guides often need 1,800–3,000 words; this is a planning range, not a cap or pass mark. Never pad a focused answer to reach a target.
 - A direct short answer in the first section.
 - Sunshine Coast-specific context.
 - Practical developer, landowner, builder, planner, or homeowner implications.
@@ -43,6 +43,9 @@ Also include:
 - One primary commercial destination from `docs/seo-keyword-map.md`.
 - A clear reader decision: buy, lodge, redesign, budget, scope, appoint, construct or close out.
 - A project brief checklist that tells the reader what to send CivilCity.
+- Topic-specific explanation of cause and effect, alternatives, investigation priorities and limits; no recycled generic sections.
+- A developed example that follows assumptions through evidence and alternatives to a decision.
+- A recorded editorial assessment against the eight criteria in the existing strategy, with source-review dates and any unresolved technical questions. Hold unsupported claims.
 
 ## CivilCity Article Style
 
@@ -146,7 +149,7 @@ Prefer existing realistic assets in `public/`. If a new asset is needed, create 
 1. Update article data in `src/lib/insights.ts`.
 2. Keep existing slugs stable.
 3. Add the next article in the correct order.
-4. Map a realistic article image in `getBlogImage` in `src/lib/site.ts`.
+4. Map a distinct relevant article image in `src/lib/insight-images.json` and update the URL-level revision backlog. Do not expand the repetition baseline to excuse a new duplicate.
 5. Run `npm run check:content`, `npm run lint` and `npm run build`.
 6. Commit and push to the authorised remote after the required secret scan. Follow the review and deployment authorisation for the run; available Vercel credentials alone do not authorise production publication.
 7. After an authorised deployment, verify the new live article URL returns `200`.
