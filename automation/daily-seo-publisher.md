@@ -1,85 +1,25 @@
 # Daily CivilCity SEO Publisher
 
-Run this once per day from the CivilCity workspace.
+Run this only when the next topic has passed the commercial publishing gate. This is a controlled publisher, not a blind daily volume machine.
 
 ## Goal
 
-Publish one new high-quality Sunshine Coast land development insight article per run until the 100-topic plan is complete.
+Publish one high-quality Sunshine Coast land development insight article per authorised run, selected from the commercial roadmap and verified against existing content. The goal is qualified enquiries and proposal-fit, not article count.
 
 ## Source Of Truth
 
 Use this order:
 
 1. Read `src/lib/insights.ts` and identify all existing published `slug` values.
-2. Read `C:\Users\Administrator\.codex\skills\civilcity-seo-insights\references\sunshine-coast-article-plan.md` if available.
-3. Select the next unpublished topic from the 100-topic plan.
-4. If the external skill file is not available, continue from the queue below.
+2. Read `docs/seo-keyword-map.md`.
+3. Read `docs/editorial/200-article-plan.md`.
+4. Read `docs/editorial/publishing-governance.md`.
+5. Read `docs/blog-progression.md` and check whether an existing priority guide should be improved instead of creating a new URL.
+6. Select the highest-value unpublished topic that has one clear commercial destination and no canonical duplicate.
+7. Verify current official sources before drafting.
+8. Publish only when CI, live URL and sitemap verification can be completed.
 
-The first 20 are already published. Continue from:
-
-1. What Consultants Do You Need for a Sunshine Coast Subdivision?
-2. How Civil Engineering Supports a Development Application
-3. Referral Agencies and SARA: When State Assessment May Affect Your Project
-4. Public Notification for Sunshine Coast Developments: What It Means
-5. Negotiating Development Conditions: Civil Engineering Items to Watch
-6. How Long Does a Sunshine Coast Subdivision Approval Take?
-7. Development Application Costs: What Small Developers Should Budget For
-8. When Does a Subdivision Need Operational Works?
-9. What Civil Drawings Are Needed for Operational Works?
-10. Why Plan Sealing Gets Delayed and How to Avoid It
-11. As-Constructed Drawings: Why They Matter for Subdivision Closeout
-12. Civil Construction Hold Points for Small Developments
-13. Bonding Unfinished Works: What Developers Should Understand
-14. Practical Completion for Subdivision Civil Works
-15. How to Keep Civil Design, Construction and Plan Sealing Aligned
-16. Shared Driveways for Subdivision: Design Issues to Check Early
-17. Steep Driveways on the Sunshine Coast: Civil Design Risks
-18. Driveway Crossover Approval: What Developers Should Know
-19. Access Design for Rear Lots and Battle-Axe Blocks
-20. Turning Areas for Small Developments: Why Swept Paths Matter
-21. Waste Truck Access for Townhouses and Small Developments
-22. Visitor Parking and Access Layout for Small Multi-Unit Projects
-23. Sight Distance at Driveways: What Can Affect Approval?
-24. Car Park Layout Design for Small Commercial Developments
-25. Stormwater Detention vs Retention: What Applies to Your Site?
-26. Overland Flow Paths: What Property Owners Should Check
-27. Flood Overlays and Development Risk on the Sunshine Coast
-28. Stormwater Quality Treatment for Small Developments
-29. Earthworks Design: Cut, Fill and Retaining Risks for Developers
-30. Retaining Walls in Subdivision: Civil Design Considerations
-31. Sewer and Water Connections for Subdivision Projects
-32. Service Clashes: How Existing Infrastructure Affects Development Layout
-33. Easements for Stormwater Drainage: What Developers Should Check
-34. Building Near Sewer or Stormwater Infrastructure
-35. How Soil Conditions Affect Civil Design and Construction Costs
-36. Erosion and Sediment Control for Small Developments
-37. Civil Engineering Red Flags in Sloping and Flood-Prone Sites
-38. How to Check Property Overlays Before Buying Land
-39. Environmental Overlays and Subdivision Feasibility
-40. Bushfire Overlays: What Developers Should Know
-41. Landslide and Steep Land Constraints on Development Sites
-42. Waterway and Wetland Overlays: Civil Engineering Implications
-43. Coastal Hazard Overlays and Development Near the Coast
-44. Heritage and Character Constraints for Small Developments
-45. Easements Explained for Sunshine Coast Property Owners
-46. Can You Build Over an Easement?
-47. Drainage Easements and Subdivision Layout: What to Watch
-48. Access Easements for Rear Lots and Shared Driveways
-49. Encumbrances, Covenants and Easements: What Developers Should Check
-50. Property Due Diligence: Mapping, Titles, Easements and Services
-51. Subdivision Advice in Maroochydore: What Developers Should Check
-52. Land Development in Caloundra: Access, Drainage and Approval Risks
-53. Developing Land in Nambour: Slopes, Services and Infill Potential
-54. Mooloolaba Development Sites: Parking, Access and Coastal Constraints
-55. Buderim Subdivision: Steep Land and Stormwater Considerations
-56. Sippy Downs Development: Civil Design Issues for Infill Projects
-57. Palmwoods Subdivision: Character, Drainage and Environmental Constraints
-58. Bli Bli Development Sites: Flooding, Access and Infrastructure Checks
-59. Coolum Development: Coastal Constraints and Stormwater Design
-60. Hinterland Subdivision on the Sunshine Coast: Access and Services
-61. Small Commercial Development: Civil Design Items to Budget For
-62. How Civil Design Can Protect Developer Margin
-63. When Should You Speak to a Civil Engineer About a Development Site?
+Do not use the old external 100-topic queue as the source of truth. The active roadmap is `docs/editorial/200-article-plan.md`.
 
 ## Article Requirements
 
@@ -97,6 +37,12 @@ Include:
 - 3-5 FAQs.
 - Primary keyword and secondary keywords.
 - `sourceLinks` to official resources where relevant.
+
+Also include:
+
+- One primary commercial destination from `docs/seo-keyword-map.md`.
+- A clear reader decision: buy, lodge, redesign, budget, scope, appoint, construct or close out.
+- A project brief checklist that tells the reader what to send CivilCity.
 
 ## CivilCity Article Style
 

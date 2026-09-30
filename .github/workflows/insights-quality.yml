@@ -2,7 +2,7 @@ name: Site and editorial checks
 on:
   pull_request:
   push:
-    branches: ['codex/blog-editorial-upgrade']
+    branches: ['main', 'codex/blog-editorial-upgrade']
 permissions:
   contents: read
 concurrency:

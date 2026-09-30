@@ -4,6 +4,8 @@
 
 Help Sunshine Coast owners, developers and project consultants make development decisions and request a relevant civil engineering proposal. Improve qualified enquiries, not article count alone. This roadmap accompanies the Codex goal created on 28 September 2026.
 
+This document is the current-cycle editorial roadmap. The broader commercial keyword map is `docs/seo-keyword-map.md`, the 200-article expansion queue is `docs/editorial/200-article-plan.md`, and the publishing rules are `docs/editorial/publishing-governance.md`.
+
 ## Delivery cycle: commercial foundations
 
 - Six service pages explain project situations, engineering scope, decision outcomes, proposal inputs and fee drivers: civil advice, subdivision/ROL, stormwater, operational works, RPEQ and due diligence.

@@ -105,6 +105,21 @@ export default async function InsightPostPage({ params }: Props) {
               <span>Published <time dateTime={post.date}>{formatDate(post.date)}</time></span>
               {post.updatedDate && <span>Updated <time dateTime={post.updatedDate}>{formatDate(post.updatedDate)}</time></span>}
             </div>
+            <section className="mt-8 rounded-2xl border border-[#0d3b1e]/15 bg-[#0d3b1e] p-6 text-warm-cream shadow-sm sm:p-8" aria-labelledby="early-project-help">
+              <div className="grid gap-5 md:grid-cols-[1fr_auto] md:items-center">
+                <div>
+                  <p className="text-xs font-semibold uppercase tracking-[0.18em] text-amber-forge">Project question?</p>
+                  <h2 id="early-project-help" className="mt-3 text-2xl font-normal tracking-[-0.02em]">Get civil input before the site, layout or approval path hardens.</h2>
+                  <p className="mt-3 max-w-2xl text-sm leading-6 text-warm-cream/85">
+                    Send CivilCity the address, current plans, approval stage and the issue you are trying to resolve. We will help scope the right civil engineering input for the project.
+                  </p>
+                </div>
+                <div className="flex flex-col gap-3 sm:flex-row md:flex-col">
+                  <Link href={`/contact?service=${post.serviceSlug}&source=insight&article=${post.slug}#enquiry`} className="pill-primary whitespace-nowrap">Request advice</Link>
+                  <Link href={`/services/${post.serviceSlug}`} className="text-sm font-semibold text-warm-cream underline decoration-warm-cream/40 underline-offset-4 hover:decoration-warm-cream">View service scope</Link>
+                </div>
+              </div>
+            </section>
             <nav aria-label="On this page" className="my-9 rounded-2xl border border-[#0d3b1e]/15 bg-white/65 p-6 sm:p-8">
               <p className="text-sm font-semibold uppercase tracking-wider text-[#0d3b1e]">On this page</p>
               <ol className="mt-4 grid gap-x-8 gap-y-3 sm:grid-cols-2">
