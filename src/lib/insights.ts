@@ -9724,7 +9724,7 @@ export const blogPosts: BlogPost[] = [
         ]
       }
     ],
-    "updatedDate": "2026-09-27",
+    "updatedDate": "2026-10-07",
     "serviceSlug": "stormwater-drainage-design",
     "cta": {
       "label": "Stormwater and drainage design",
@@ -15134,6 +15134,10 @@ export const blogPosts: BlogPost[] = [
       {
         "question": "Can stormwater change subdivision yield?",
         "answer": "Yes. Drainage routes, easements, detention areas and levels can change lot layout, building envelopes, retaining and the number of lots that remain commercially practical."
+      },
+      {
+        "question": "What is the difference between early stormwater advice and detailed drainage design?",
+        "answer": "Early advice tests the drainage concept and the evidence needed for the next decision. Detailed design converts an agreed strategy into coordinated calculations, drawings, levels, structures and approval documentation. Starting with detailed design before the outlet and site levels are understood can pay for work that later needs to be changed."
       }
     ],
     "sections": [
@@ -15191,6 +15195,30 @@ export const blogPosts: BlogPost[] = [
         "body": [
           "Coastal infill, older urban areas, hinterland slopes, low-lying land and greenfield edges create different drainage problems. Some sites have formal stormwater infrastructure. Others rely on overland routes, table drains, gullies, easements or downstream private land.",
           "Council information, mapping and nearby approvals are useful starting points, but the real answer comes from the project survey, site levels, discharge route, development footprint and proposed civil design."
+        ]
+      },
+      {
+        "heading": "Choose the stormwater question before choosing the deliverable",
+        "body": [
+          "The same address can require different stormwater work at different project stages. A buyer may need to know whether a credible discharge path exists. A planner may need a concept response to a development application. A civil contractor may need a review of constructed levels or a field change. Calling all three requests a ‘stormwater design’ hides the decision, the evidence and the limits of the fee.",
+          "On the Sunshine Coast, Development.i and Council mapping are useful starting points for site context, but they do not replace a survey or confirm that a particular pit, easement or downstream route will accept a proposal. Treat the map as a screening input, then test the physical route and applicable approval requirements."
+        ],
+        "table": {
+          "columns": ["Project decision", "Useful first scope", "Evidence that changes the answer"],
+          "rows": [
+            ["Should I proceed with the site?", "Desktop drainage risk review and outlet options", "Survey levels, mapped flow constraints, title/easement information and downstream route"],
+            ["Can this concept be lodged?", "Concept stormwater strategy coordinated with the layout", "Proposed levels, impervious area, catchment assumptions and applicable Council requirements"],
+            ["Can this package be built?", "Detailed drainage design and construction documentation", "Confirmed survey, utility information, calculations, structures and maintenance access"],
+            ["Can the built work be accepted?", "Construction/closeout review against approved design", "As-constructed levels, inspection records, variations and authority requirements"]
+          ]
+        }
+      },
+      {
+        "heading": "Example: an infill site where the outlet controls the layout",
+        "body": [
+          "Consider an illustrative two-lot infill proposal in Buderim. The initial sketch places both driveways and building pads on the flatter upper part of the site, while the nearest visible kerb inlet is downslope. The owner assumes a short pipe connection will solve drainage.",
+          "A staged review checks the survey, the proposed finished levels, the road and inlet levels, the overland flow route, existing services and whether the proposed connection is actually available. If the outlet level is too high for gravity drainage, the alternatives may include changing the layout, reserving a drainage corridor, designing storage and controlled discharge, or investigating a different lawful route. Each alternative affects usable area, access, maintenance and approval risk differently.",
+          "The decision is not ‘does the site have a drain nearby?’ It is whether a documented drainage strategy can fit the site, remain accessible for maintenance and be supported by the applicable approval pathway. That is the point at which the owner can update the feasibility model before detailed architectural design is committed."
         ]
       },
       {
