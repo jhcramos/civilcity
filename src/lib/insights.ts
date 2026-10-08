@@ -16759,6 +16759,187 @@ export const blogPosts: BlogPost[] = [
     "cta": { "label": "Discuss a Coolum development site", "body": "Send CivilCity the site details, concept and decision deadline so access, drainage, levels and servicing risks can be scoped before they become redesign costs." },
     "relatedSlugs": ["civil-engineering-due-diligence-before-buying-a-sunshine-coast-development-site", "stormwater-red-flags-before-buying-a-sunshine-coast-block", "site-access-red-flags-in-sunshine-coast-development-due-diligence"]
   },
+  {
+    "slug": "civil-engineering-closeout-checklist-sunshine-coast-subdivision",
+    "title": "Civil engineering closeout checklist for a Sunshine Coast subdivision",
+    "description": "A practical closeout checklist for Sunshine Coast subdivision civil works, covering conditions, as-constructed records, defects, plan sealing and handover evidence.",
+    "date": "2026-10-08",
+    "category": "Operational works",
+    "keywords": [
+      "civil engineering closeout checklist Sunshine Coast subdivision",
+      "subdivision closeout Sunshine Coast",
+      "plan sealing civil works checklist",
+      "as constructed drawings Sunshine Coast subdivision",
+      "operational works closeout Sunshine Coast"
+    ],
+    "faqs": [
+      {
+        "question": "Does practical completion mean a subdivision is ready for plan sealing?",
+        "answer": "Not by itself. Practical completion may show that the works are substantially complete, but plan sealing still depends on the approval conditions, required certificates, as-constructed information, maintenance obligations, bonding arrangements and Council or authority requirements for that approval."
+      },
+      {
+        "question": "What closeout documents should a developer organise early?",
+        "answer": "Start with the decision notice, approved operational works drawings, inspection records, test results, as-constructed survey, RPEQ or other required certifications, asset handover forms, defects records and any water, sewer, stormwater, road or landscaping evidence required by the conditions."
+      },
+      {
+        "question": "Can CivilCity help if the works were designed by another consultant?",
+        "answer": "CivilCity can review the available approval documents, drawings, inspection status and outstanding civil evidence to identify the closeout pathway. Any certification or professional responsibility depends on the records, scope, site status and applicable engineering obligations."
+      },
+      {
+        "question": "Why do subdivision closeouts get delayed?",
+        "answer": "Common causes include missing as-constructed data, unresolved defects, conditions that were not tracked during construction, incomplete authority handover evidence, changes made on site without a clear approval trail and plan-sealing submissions made before the civil evidence is ready."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Quick answer",
+        "body": [
+          "A Sunshine Coast subdivision closeout should be managed as an evidence exercise, not a last-minute paperwork bundle. The developer needs to show that the civil works, services, inspections, certifications and condition requirements are ready for the next approval step, including plan sealing where relevant.",
+          "The safest sequence is to start with the decision notice and approved operational works package, build a condition-by-condition evidence register, close out defects, collect as-constructed and test records, then prepare the plan sealing and handover material in the format required by the relevant authorities."
+        ]
+      },
+      {
+        "heading": "Start with the approval conditions",
+        "body": [
+          "Closeout goes wrong when the team starts from memory. Start from the development approval, operational works approval, endorsed drawings, authority correspondence and inspection records. For each condition, identify the evidence required, the person responsible, the status and the decision it supports.",
+          "Separate three streams: physical completion of the works, documentary completion of the engineering evidence and administrative readiness for plan sealing or asset handover. A site can look complete while the evidence register is still incomplete."
+        ],
+        "table": {
+          "columns": ["Closeout stream", "Evidence to check", "Risk if missed"],
+          "rows": [
+            ["Approval conditions", "Decision notice, operational works approval, endorsed plans and correspondence", "A condition is discovered late and delays sealing or handover."],
+            ["Constructed works", "Inspection records, defects list, photographs and contractor completion evidence", "Works appear finished but outstanding items prevent acceptance."],
+            ["As-constructed information", "Survey, marked-up drawings, asset data and design departures", "Council or authority cannot confirm what was built."],
+            ["Certification and testing", "Required certificates, test results, compaction, pavement, drainage and service evidence", "Professional or authority sign-off cannot be supported."],
+            ["Plan sealing package", "Plan sealing forms, condition evidence, bonding details and required supporting documents", "The application is lodged before the civil evidence is ready."]
+          ]
+        }
+      },
+      {
+        "heading": "Build a closeout register before the final inspection",
+        "body": [
+          "The register should list every condition and every promised civil deliverable. Include the drawing revision, relevant inspection, required certificate, party responsible and current status. This gives the developer a live view of what is actually stopping closeout.",
+          "Do not leave the register until practical completion. Many evidence items depend on site access, contractor records or survey data collected while the works are visible. Trying to reconstruct buried drainage, pavement layers or service changes after the contractor has left is slower and more expensive."
+        ],
+        "list": [
+          "Development approval and operational works approval references.",
+          "Endorsed civil drawing set and revision history.",
+          "Condition-by-condition evidence status.",
+          "Inspection, testing and defect closeout records.",
+          "As-constructed survey and asset information.",
+          "Authority handover, bonding and maintenance-period requirements.",
+          "Open risks, responsible person and target closeout date."
+        ]
+      },
+      {
+        "heading": "Check as-constructed information before it becomes a crisis",
+        "body": [
+          "As-constructed information needs to describe what was actually built, not what was intended in the tender set. Check drainage pits, pipes, levels, roadworks, access, earthworks, retaining interfaces and service locations against the approved design and any agreed changes.",
+          "Where the constructed works differ from the endorsed documents, the team needs a clear explanation of the departure, whether further approval or acceptance is required and what evidence supports the final arrangement. A red-line drawing without supporting survey or engineering review may not be enough."
+        ],
+        "links": [
+          {
+            "label": "As-constructed drawings for Sunshine Coast subdivision closeout",
+            "href": "/insights/as-constructed-drawings-sunshine-coast-subdivision-closeout"
+          }
+        ]
+      },
+      {
+        "heading": "Plan sealing is a milestone, not a substitute for closeout",
+        "body": [
+          "Council's plan sealing process confirms whether the plan can progress against the relevant approval requirements. It is not a shortcut around incomplete civil works evidence. Before lodging, check which conditions must be satisfied, which may be bonded or deferred and which documents need to accompany the request.",
+          "For a subdivision, plan sealing should be planned alongside civil closeout. If the project waits until the end to interpret conditions, the team may discover that an inspection, certificate, asset form or authority response should have been organised weeks earlier."
+        ],
+        "links": [
+          {
+            "label": "Sunshine Coast Council: plan sealing",
+            "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+          },
+          {
+            "label": "Why plan sealing gets delayed on the Sunshine Coast",
+            "href": "/insights/why-plan-sealing-gets-delayed-sunshine-coast"
+          }
+        ]
+      },
+      {
+        "heading": "Common closeout mistakes",
+        "body": [
+          "The most common mistake is treating closeout as an admin task after construction. It is really a technical evidence task that needs inspection records, survey, test results, certificates and approval-condition tracking. If those records are not collected during the works, the final package becomes fragile.",
+          "Another mistake is confusing practical completion, contractor handover, plan sealing and authority acceptance. They are related, but they do not all answer the same question. A contractor may have finished the visible works while a drainage record, pavement result, condition response or authority item remains unresolved."
+        ]
+      },
+      {
+        "heading": "Checklist for your project brief",
+        "body": "Use this checklist before treating the subdivision as ready for plan sealing or final civil handover.",
+        "list": [
+          "All approval conditions have been reviewed against the current approval documents.",
+          "Outstanding civil works and defects have an agreed closeout pathway.",
+          "Inspection records and test results are complete and matched to the works.",
+          "As-constructed survey and drawings reflect the built works.",
+          "Required engineering, contractor and authority certificates have been identified.",
+          "Water, sewer, stormwater, road, access and frontage obligations have been checked.",
+          "Bonding, maintenance-period and asset handover requirements are documented.",
+          "Plan sealing forms and supporting condition evidence are ready before lodgement."
+        ],
+        "ordered": true
+      },
+      {
+        "heading": "When to involve CivilCity",
+        "body": [
+          "Involve CivilCity when the subdivision is approaching construction completion, when defects or evidence gaps are starting to appear, or before a plan sealing package is lodged. The review can focus on the civil approval conditions, as-constructed evidence, operational works documents and the practical steps needed to close the remaining gaps.",
+          "Send the decision notice, approved civil drawings, inspection records, latest contractor status, as-constructed information and the target plan sealing timeframe. CivilCity can scope the review around the actual blocker rather than producing another generic checklist."
+        ],
+        "links": [
+          {
+            "label": "Operational works applications",
+            "href": "/services/operational-works-applications"
+          },
+          {
+            "label": "Construction supervision",
+            "href": "/services/construction-supervision"
+          }
+        ]
+      }
+    ],
+    "resources": [
+      {
+        "label": "Sunshine Coast Council: plan sealing",
+        "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+      },
+      {
+        "label": "Sunshine Coast Council: operational work",
+        "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+      },
+      {
+        "label": "Sunshine Coast Council: development application forms",
+        "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms-and-fees"
+      }
+    ],
+    "sourceLinks": [
+      {
+        "label": "Sunshine Coast Council: plan sealing",
+        "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/plan-sealing"
+      },
+      {
+        "label": "Sunshine Coast Council: operational work",
+        "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
+      },
+      {
+        "label": "Sunshine Coast Council: development application forms",
+        "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/development-application-forms-and-fees"
+      }
+    ],
+    "serviceSlug": "operational-works-applications",
+    "cta": {
+      "label": "Close out the civil evidence before plan sealing",
+      "body": "Send CivilCity the approval documents, latest site status and target sealing date so the remaining civil closeout evidence can be scoped clearly."
+    },
+    "relatedSlugs": [
+      "as-constructed-drawings-sunshine-coast-subdivision-closeout",
+      "why-plan-sealing-gets-delayed-sunshine-coast",
+      "practical-completion-for-subdivision-civil-works-sunshine-coast"
+    ]
+  },
 ];
 
 export function getBlogPost(slug: string) {
