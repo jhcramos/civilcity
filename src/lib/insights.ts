@@ -260,7 +260,7 @@ export const blogPosts: BlogPost[] = [
     "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
     "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
   ],
-  "updatedDate": "2026-10-01"
+  "updatedDate": "2026-10-12"
 },
 {
   "slug": "how-to-screen-a-sunshine-coast-infill-site-before-paying-for-design",
@@ -842,6 +842,14 @@ export const blogPosts: BlogPost[] = [
     {
       "question": "What should I send for an initial review?",
       "answer": "Send the address, lot and plan details, survey or concept plan if available, any approval documents, service information, known easements and the specific decision you need to make next."
+    },
+    {
+      "question": "Are civil allowances the same as a construction quote?",
+      "answer": "No. Early allowances identify scope and uncertainty for feasibility. They are not a tender price and should be updated when survey, geotechnical, authority and design information becomes available."
+    },
+    {
+      "question": "Why can a townhouse layout need operational works?",
+      "answer": "A proposal may alter a driveway, frontage, drainage, earthworks, retaining or public infrastructure. Whether operational works approval or other documentation is required depends on the actual proposal and applicable requirements; confirm the pathway before assuming building approval covers the civil works."
     }
   ],
   "sections": [
@@ -900,9 +908,24 @@ export const blogPosts: BlogPost[] = [
     {
       "heading": "Allow for civil work outside the building footprint",
       "body": [
-        "Identify what has been measured, what is a provisional allowance and what depends on authority input. Compare the civil scope against the layout used in the development budget.",
-        "Record the outcome on the current concept plan and give each unresolved item a responsible consultant and a decision date. If the available evidence does not support an assumption, keep it open and identify the information needed to resolve it."
+        "A townhouse feasibility model should show civil items as visible decision lines, not one optimistic percentage. Separate work inside the site from public-interface work and from matters that require authority or neighbour input. The categories below are different risks: a pipe may be easy to draw but impossible to connect at the required level; a retaining wall may fit geometrically but need a geotechnical or structural response; a frontage change may affect the road reserve and approval pathway.",
+        "For Sunshine Coast sites, check the Planning Scheme and Council's current development tools before relying on a generic allowance. Development.i and Council mapping can help establish the planning and application context, while the flooding and stormwater guidance identifies material that may be relevant to drainage assessment. These sources do not replace a survey, site investigation, authority response or proposal-specific engineering design.",
+        "Record each item against the dated concept plan: evidence available, working assumption, consequence if wrong, next investigation and owner. That turns a vague contingency into a decision register. If the risk could remove a dwelling, move a driveway or prevent a credible discharge arrangement, resolve it before treating the yield as bankable."
       ]
+    },
+    {
+      "heading": "A practical risk register for townhouse feasibility",
+      "body": "Use this register to decide what must be resolved before purchase, lodgement or detailed design.",
+      "table": {
+        "columns": ["Civil item", "Evidence to seek", "Decision if unresolved"],
+        "rows": [
+          ["Access and frontage", "Survey, road reserve, crossover, grades, sight distance and turning", "Test a revised layout or confirm the frontage approval and works scope before relying on yield."],
+          ["Stormwater and overland flow", "Contours, low points, upstream flow, discharge route and easements", "Hold the finished-level and drainage concept open; do not price an unconfirmed outlet as routine."],
+          ["Earthworks and retaining", "Feature survey, geotechnical advice, cut-and-fill and boundary interfaces", "Compare pad, retaining and staging options before fixing building locations."],
+          ["Water and sewer", "Current authority information, connection points, depths, capacity and protection needs", "Allow for a different service corridor or authority process, not just a longer internal pipe."],
+          ["Approval and closeout", "Decision notice, civil conditions, operational-work requirements and as-constructed expectations", "Scope the post-approval deliverables before the programme assumes construction can start immediately."]
+        ]
+      }
     },
     {
       "heading": "Example: allow for civil work outside the building footprint",
