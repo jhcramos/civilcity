@@ -23,13 +23,26 @@ for (const statement of site.statements) {
 }
 const slugs = new Set(blogPosts.map((post) => post.slug));
 const images = JSON.parse(fs.readFileSync('src/lib/insight-images.json', 'utf8'));
-const imageHashes = new Set();
+// Explicit reuse for the five same-title pairs pending editorial consolidation.
+// Do not permit unrelated articles, chains or renamed copies to evade uniqueness.
+const imageReuse = JSON.parse(fs.readFileSync('src/lib/insight-image-reuse.json', 'utf8'));
+for (const [slug, reuse] of Object.entries(imageReuse)) {
+  const post = blogPosts.find((p) => p.slug === slug);
+  const original = blogPosts.find((p) => p.slug === reuse.sourceSlug);
+  assert(post && original && slug !== original.slug, `${slug}: invalid image reuse source`);
+  assert.equal(post.title, original.title, `${slug}: reuse must describe the same topic`);
+  assert(!imageReuse[original.slug], `${slug}: chained image reuse is not allowed`);
+  assert.equal(images[slug], images[original.slug], `${slug}: reuse must reference the original asset`);
+  assert(fs.existsSync(`public${reuse.socialImage}`), `${slug}: missing social image`);
+}
+const imageHashes = new Map();
 for (const post of blogPosts) {
   assert(images[post.slug], `${post.slug}: missing dedicated image`);
   const bytes = fs.readFileSync(`public${images[post.slug]}`);
   const hash = createHash('sha256').update(bytes).digest('hex');
-  assert(!imageHashes.has(hash), `${post.slug}: repeated article image`);
-  imageHashes.add(hash);
+  const owner = imageReuse[post.slug]?.sourceSlug ?? post.slug;
+  assert(!imageHashes.has(hash) || imageHashes.get(hash) === owner, `${post.slug}: repeated article image`);
+  imageHashes.set(hash, owner);
 }
 assert.equal(slugs.size, blogPosts.length, 'Duplicate article URLs');
 const baseline = JSON.parse(fs.readFileSync('docs/blog-editorial-upgrade.json', 'utf8'));

@@ -1,4 +1,5 @@
 import insightImages from "./insight-images.json";
+import insightImageReuse from "./insight-image-reuse.json";
 
 export const site = {
   name: "CivilCity Engineering Consultants",
@@ -912,4 +913,12 @@ export type { BlogPost, BlogResource, BlogSection } from "./insights";
 export function getBlogImage(category: string, slug?: string) {
   if (slug && slug in insightImages) return insightImages[slug as keyof typeof insightImages];
   return category === "Stormwater" ? imagery.stormwater : imagery.plans;
+}
+
+export function getBlogSocialImage(category: string, slug: string) {
+  if (Object.hasOwn(insightImageReuse, slug)) {
+    const image = insightImageReuse[slug as keyof typeof insightImageReuse];
+    return { url: image.socialImage, width: 1200, height: 800, type: "image/jpeg", alt: image.socialAlt };
+  }
+  return { url: getBlogImage(category, slug) };
 }

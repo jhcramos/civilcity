@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeft, ArrowRight, Check } from "lucide-react";
-import { blogPosts, getBlogImage, getBlogPost, site } from "@/lib/site";
+import { blogPosts, getBlogImage, getBlogSocialImage, getBlogPost, site } from "@/lib/site";
 import { getArticleWordCount, getSectionId, type BlogSection } from "@/lib/insights";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: post.title, description: post.description, type: "article",
       url: `/insights/${post.slug}`, publishedTime: post.date,
       modifiedTime: post.updatedDate ?? post.date,
-      images: [{ url: getBlogImage(post.category, post.slug) }],
+      images: [getBlogSocialImage(post.category, post.slug)],
     },
   };
 }
@@ -66,7 +66,7 @@ export default async function InsightPostPage({ params }: Props) {
       datePublished: post.date, dateModified: post.updatedDate ?? post.date,
       author: { "@type": "Organization", name: site.name, url: `${site.domain}/about` },
       publisher: { "@type": "Organization", name: site.name, url: site.domain },
-      image: new URL(articleImage, site.domain).href,
+      image: new URL(getBlogSocialImage(post.category, post.slug).url, site.domain).href,
       mainEntityOfPage: `${site.domain}/insights/${post.slug}`,
       inLanguage: "en-AU", keywords: post.keywords.join(", "),
     },
