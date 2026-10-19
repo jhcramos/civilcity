@@ -856,8 +856,8 @@ export const blogPosts: BlogPost[] = [
     {
       "heading": "Quick answer",
       "body": [
-        "Townhouse feasibility needs allowances for shared access, stormwater infrastructure, retaining, service connections and frontage interfaces as well as the buildings.",
-        "Use the review to identify confirmed constraints, missing information and the investigations needed for your next decision. Agree the scope with your consultant team before commissioning detailed design or committing to construction costs."
+        "A Sunshine Coast townhouse feasibility is only credible when the civil works outside the building footprint are tested alongside the dwelling yield. The costs most often missed are not mysterious extras: they arise where access, levels, drainage, services, retaining and the public road interface compete for the same limited space.",
+        "Before treating a yield as bankable, separate three things: what the site evidence confirms, what the concept assumes, and what investigation could change the decision. A civil review should tell you whether to proceed, redesign, obtain authority advice or stop spending—not promise an approval or a construction price."
       ]
     },
     {
@@ -908,9 +908,9 @@ export const blogPosts: BlogPost[] = [
     {
       "heading": "Allow for civil work outside the building footprint",
       "body": [
-        "A townhouse feasibility model should show civil items as visible decision lines, not one optimistic percentage. Separate work inside the site from public-interface work and from matters that require authority or neighbour input. The categories below are different risks: a pipe may be easy to draw but impossible to connect at the required level; a retaining wall may fit geometrically but need a geotechnical or structural response; a frontage change may affect the road reserve and approval pathway.",
-        "For Sunshine Coast sites, check the Planning Scheme and Council's current development tools before relying on a generic allowance. Development.i and Council mapping can help establish the planning and application context, while the flooding and stormwater guidance identifies material that may be relevant to drainage assessment. These sources do not replace a survey, site investigation, authority response or proposal-specific engineering design.",
-        "Record each item against the dated concept plan: evidence available, working assumption, consequence if wrong, next investigation and owner. That turns a vague contingency into a decision register. If the risk could remove a dwelling, move a driveway or prevent a credible discharge arrangement, resolve it before treating the yield as bankable."
+        "A townhouse feasibility model should show civil items as visible decision lines, not one optimistic percentage. Separate internal works, public-interface works and dependencies on an authority, neighbour or title instrument. A pipe may fit on a plan but fail because its outlet is too high; a retaining wall may fit geometrically but consume the access or drainage corridor; a new crossover may alter the road reserve and require a separate approval pathway.",
+        "On the Sunshine Coast, start with Council's Planning Scheme, Development.i records and current mapping, then test the concept against survey levels and the actual proposal. These sources establish context; they do not prove a lawful discharge, utility capacity, driveway geometry or buildable pad. Unitywater's subdivision guidance is a separate servicing workstream and should not be treated as settled by a planning approval.",
+        "Use a dated risk register with five fields: evidence, assumption, consequence, next investigation and owner. If one unresolved item could remove a dwelling, move the driveway, require off-site works or invalidate gravity drainage, resolve it before detailed architectural design."
       ]
     },
     {
@@ -929,13 +929,17 @@ export const blogPosts: BlogPost[] = [
     },
     {
       "heading": "Example: allow for civil work outside the building footprint",
-      "body": "Consider a townhouse layout that uses almost the entire site for buildings and parking. A drainage review identifies a storage and maintenance-access requirement. The team needs to test the revised layout and cost before relying on the original dwelling yield."
+      "body": [
+        "Consider a sloping Buderim infill site where a concept shows six townhouses, a narrow shared driveway and parking occupying most of the frontage. The first feasibility drawing has no confirmed stormwater outlet and assumes a small retaining wall at the rear boundary.",
+        "The civil review tests the dependencies in sequence. Survey levels show the driveway transition and the proposed drainage line compete for the same corridor. The rear wall also needs a geotechnical and structural response, while the street connection may require frontage work. The team compares three alternatives: reduce the yield, move the building pads and retain the yield, or retain the layout while accepting a more complex drainage and retaining solution subject to further evidence.",
+        "The correct feasibility output is not a dramatic cost guess. It is a decision record showing which option preserves access, drainage, services and construction space, which assumptions remain provisional and what must be priced or confirmed next. This is illustrative only; it is not a prediction for every Buderim site or an approval outcome."
+      ]
     },
     {
       "heading": "Common mistakes",
       "body": [
-        "The first mistake is treating zoning, lot size or a concept sketch as proof that the project works. The second is pricing the project before civil scope is known. The third is asking each consultant a separate question without giving them the same address, survey, title, plan and approval context.",
-        "Another mistake is leaving civil engineering until after lodgement or purchase. At that point the team may be defending a layout instead of shaping one. Early engineering advice can reduce the risk of late redesign, especially when access, stormwater, services and levels interact."
+        "Treating zoning, density or a concept sketch as proof of yield is the first mistake. A second is hiding all civil work inside a generic contingency, which makes it impossible to see whether the real issue is a service connection, retaining, frontage construction or an unresolved discharge route. A third is asking the planner, architect, surveyor and engineer to assess different plan revisions.",
+        "Do not assume building approval covers every external civil work. The applicable pathway depends on the proposal and conditions. Do not use a flood or planning map as a substitute for levels, and do not promise a drainage solution before identifying its outlet, ownership and maintenance implications."
       ]
     },
     {
@@ -1006,7 +1010,7 @@ export const blogPosts: BlogPost[] = [
     "subdivision-feasibility-checklist-for-sunshine-coast-property-buyers",
     "before-you-buy-a-development-site-civil-engineering-checks-that-matter"
   ],
-  "updatedDate": "2026-10-01"
+  "updatedDate": "2026-10-20"
 },
 {
   "slug": "what-to-ask-a-civil-engineer-before-signing-a-land-contract-sunshine-coast",
