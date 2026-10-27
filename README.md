@@ -36,3 +36,12 @@ Open `http://localhost:3000`.
 ## Insight editing and validation
 
 Articles live in `src/lib/insights.ts`; `site.ts` re-exports the public helpers for existing callers. Keep slugs stable. Each article has explicit lists, tables, contextual links, a related service and further reading. Run `npm run check:content`, `npm run lint` and `npm run build` before review. See `docs/blog-editorial-review.md` for the scope, source checks and Search Console follow-up.
+
+## Insight image standard
+
+- New insight images must be raster images generated with the GPT image skill, not generic vector illustrations or hand-built SVG cards.
+- Use a 1200×630 horizontal composition suitable for the insight card and hero image.
+- Prefer realistic editorial photography tied directly to the article, with technically plausible Sunshine Coast civil-engineering, subdivision, drainage, flooding, access or development scenes.
+- Match the existing CivilCity visual language: natural light, restrained green/teal and blue tones, real site textures, concrete, vegetation and safety yellow only as an accent.
+- Do not place text, logos, fake plans, decorative diagram elements or watermarks inside generated images. Avoid generic stock-photo aesthetics and visibly synthetic geometry.
+- Preserve factual integrity: generated imagery is illustrative and must not imply a specific real project, approval, survey result or site condition.
