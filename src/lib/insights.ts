@@ -9947,7 +9947,7 @@ export const blogPosts: BlogPost[] = [
         "label": "Council flooding and stormwater guidance and updates",
         "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
       }
-    ]
+    ],
   },
   {
     "slug": "lawful-point-of-discharge-why-it-can-make-or-break-a-development",
@@ -10093,6 +10093,24 @@ export const blogPosts: BlogPost[] = [
       {
         "label": "Council flooding and stormwater guidance and updates",
         "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+      }
+    ],
+    "sourceLinks": [
+      {
+        "label": "Sunshine Coast Council Development.i",
+        "href": "https://developmenti.sunshinecoast.qld.gov.au/"
+      },
+      {
+        "label": "Sunshine Coast Planning Scheme 2014",
+        "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014"
+      },
+      {
+        "label": "Council flooding and stormwater guidance and updates",
+        "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines"
+      },
+      {
+        "label": "Sunshine Coast Council operational work applications",
+        "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work"
       }
     ]
   },
@@ -15303,7 +15321,7 @@ export const blogPosts: BlogPost[] = [
   {
     "slug": "stormwater-engineer-sunshine-coast",
     "title": "Stormwater engineer Sunshine Coast: when development needs drainage advice",
-    "description": "When to involve a stormwater engineer on Sunshine Coast development sites, including lawful discharge, detention, overland flow, levels and approval risk.",
+    "description": "When to involve a stormwater engineer on Sunshine Coast development sites, how to scope the right drainage review, and which evidence can change the layout or approval pathway.",
     "date": "2026-09-23",
     "category": "Stormwater",
     "keywords": [
@@ -15339,8 +15357,8 @@ export const blogPosts: BlogPost[] = [
       {
         "heading": "Quick answer",
         "body": [
-          "A Sunshine Coast stormwater engineer helps test where water will go, whether the discharge route is lawful and practical, and what drainage works are needed for a development to be approved, built and maintained.",
-          "Get stormwater advice early when a project depends on subdivision yield, new buildings, driveway grades, filling, retaining, detention, overland flow paths or a tight downstream outlet. Stormwater is not a tidy detail at the end; it can decide the layout."
+          "A Sunshine Coast stormwater engineer helps test where water will go, whether the proposed discharge route is physically workable and capable of being approved, and what drainage evidence is needed for the next project decision. The scope may be an early feasibility review, a concept strategy, detailed design or a construction/closeout review; those are different services.",
+          "Get advice early when a project depends on subdivision yield, new buildings, driveway grades, filling, retaining, detention, overland flow paths or a tight downstream outlet. Stormwater is not a tidy detail at the end: the outlet level and flow path can decide the building envelope, access arrangement, easement need and usable area."
         ]
       },
       {
@@ -15389,14 +15407,14 @@ export const blogPosts: BlogPost[] = [
         "heading": "Why Sunshine Coast sites need local judgement",
         "body": [
           "Coastal infill, older urban areas, hinterland slopes, low-lying land and greenfield edges create different drainage problems. Some sites have formal stormwater infrastructure. Others rely on overland routes, table drains, gullies, easements or downstream private land.",
-          "Council information, mapping and nearby approvals are useful starting points, but the real answer comes from the project survey, site levels, discharge route, development footprint and proposed civil design."
+          "Council information, mapping and nearby approvals are useful starting points, but they are not a site survey, a capacity confirmation or permission to discharge. The reliable project answer comes from the survey, site levels, discharge route, development footprint, title constraints and proposed civil design."
         ]
       },
       {
         "heading": "Choose the stormwater question before choosing the deliverable",
         "body": [
           "The same address can require different stormwater work at different project stages. A buyer may need to know whether a credible discharge path exists. A planner may need a concept response to a development application. A civil contractor may need a review of constructed levels or a field change. Calling all three requests a ‘stormwater design’ hides the decision, the evidence and the limits of the fee.",
-          "On the Sunshine Coast, Development.i and Council mapping are useful starting points for site context, but they do not replace a survey or confirm that a particular pit, easement or downstream route will accept a proposal. Treat the map as a screening input, then test the physical route and applicable approval requirements."
+          "On the Sunshine Coast, Development.i and Council mapping are useful starting points for site context, but they do not replace a survey or confirm that a particular pit, easement or downstream route will accept a proposal. Treat the map as a screening input, then test the physical route, title position, authority requirements and applicable approval pathway."
         ],
         "table": {
           "columns": ["Project decision", "Useful first scope", "Evidence that changes the answer"],
@@ -15413,7 +15431,7 @@ export const blogPosts: BlogPost[] = [
         "body": [
           "Consider an illustrative two-lot infill proposal in Buderim. The initial sketch places both driveways and building pads on the flatter upper part of the site, while the nearest visible kerb inlet is downslope. The owner assumes a short pipe connection will solve drainage.",
           "A staged review checks the survey, the proposed finished levels, the road and inlet levels, the overland flow route, existing services and whether the proposed connection is actually available. If the outlet level is too high for gravity drainage, the alternatives may include changing the layout, reserving a drainage corridor, designing storage and controlled discharge, or investigating a different lawful route. Each alternative affects usable area, access, maintenance and approval risk differently.",
-          "The decision is not ‘does the site have a drain nearby?’ It is whether a documented drainage strategy can fit the site, remain accessible for maintenance and be supported by the applicable approval pathway. That is the point at which the owner can update the feasibility model before detailed architectural design is committed."
+          "The decision is not ‘does the site have a drain nearby?’ It is whether a documented drainage strategy can fit the site, remain accessible for maintenance and be supported by the applicable approval pathway. That is the point at which the owner can update the feasibility model before detailed architectural design is committed. If no option works without relying on unconfirmed private land or an unverified asset connection, that uncertainty belongs in the purchase or design decision rather than in a hidden contingency."
         ]
       },
       {
@@ -15478,7 +15496,7 @@ export const blogPosts: BlogPost[] = [
         ]
       }
     ],
-    "updatedDate": "2026-09-27",
+    "updatedDate": "2026-11-01",
     "serviceSlug": "stormwater-drainage-design",
     "cta": {
       "label": "Stormwater and drainage design",
