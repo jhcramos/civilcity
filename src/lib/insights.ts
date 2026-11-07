@@ -15603,9 +15603,12 @@ export const blogPosts: BlogPost[] = [
         "heading": "Checklist for your project brief",
         "body": "Use these points to define the next investigation or consultant deliverable.",
         "list": [
-          "Send survey, site layout, relevant conditions and existing reports with the engineering question you need answered.",
-          "Ask whether the fee covers flood assessment, water-quality modelling or authority responses where relevant; these should not be assumed.",
-          "Request a clear explanation of assumptions, exclusions and further evidence needed. Compare the scope and deliverables as well as the price."
+          "Send the property address, lot and plan, title/easement information, current survey and the concept layout with revision dates.",
+          "Mark proposed building pads, driveways, retaining, cut and fill, roofwater, hardstand, detention or treatment areas and the intended discharge route.",
+          "Include Development.i or Council mapping outputs, existing approvals, conditions, drainage reports, service information and photographs of pits, channels and low points.",
+          "State the decision and deadline: proceed with purchase, revise the concept, lodge an application, answer an information request, price the works or review constructed drainage.",
+          "Ask whether the scope includes flood assessment, water-quality modelling, authority correspondence, survey coordination, detailed calculations or certification; do not assume these are included.",
+          "Request assumptions, exclusions, deliverables and the evidence still needed. Compare the scope and decision value, not just the fee."
         ]
       },
       {
@@ -15614,9 +15617,19 @@ export const blogPosts: BlogPost[] = [
           "Send CivilCity the address, survey if available, concept plan, known drainage assets, approval stage and the decision you need to make. For purchase due diligence, the key output may be a short drainage risk note. For approval or construction, the output may be a stormwater strategy, drawings or calculations.",
           "CivilCity can support stormwater feasibility, drainage layouts, detention and treatment coordination, lawful discharge checks, operational works documentation and responses to approval conditions."
         ]
+      },
+      {
+        "heading": "Official resources and limits",
+        "body": "Use Council's current mapping, planning scheme and flooding guidance as starting evidence, then confirm the site-specific requirements and discharge pathway for the proposal. Development.i and mapping do not replace a feature and level survey, hydraulic assessment, title review or authority response. This article is practical guidance, not approval, a flood certificate, a guarantee of capacity or a substitute for project-specific engineering advice.",
+        "links": [
+          { "label": "Sunshine Coast Council Development.i site report", "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report" },
+          { "label": "Sunshine Coast Planning Scheme 2014", "href": "https://www.sunshinecoast.qld.gov.au/development/planning-documents/sunshine-coast-planning-scheme-2014" },
+          { "label": "Council flooding and stormwater guidance", "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines" },
+          { "label": "Sunshine Coast Council operational work", "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work" }
+        ]
       }
     ],
-    "updatedDate": "2026-11-01",
+    "updatedDate": "2026-11-08",
     "serviceSlug": "stormwater-drainage-design",
     "cta": {
       "label": "Stormwater and drainage design",
