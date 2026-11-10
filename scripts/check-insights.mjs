@@ -51,6 +51,7 @@ const validDate = (value) => /^\d{4}-\d{2}-\d{2}$/.test(value) && new Date(value
 function checkLink(link, slug) {
   if (link.href.startsWith('/insights/')) assert(slugs.has(link.href.slice(10)), `${slug}: broken article link ${link.href}`);
   else if (link.href.startsWith('/services/')) assert(services.has(link.href.slice(10)), `${slug}: broken service link ${link.href}`);
+  else if (link.href.startsWith('/projects/')) assert(fs.existsSync('src/app/projects/page.tsx'), `${slug}: missing projects route ${link.href}`);
   else assert(new URL(link.href).protocol === 'https:', `${slug}: source must use HTTPS`);
 }
 for (const post of blogPosts) {
