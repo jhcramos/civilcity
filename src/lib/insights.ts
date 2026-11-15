@@ -15637,6 +15637,25 @@ export const blogPosts: BlogPost[] = [
         }
       },
       {
+        "heading": "Three stormwater scopes that should not be confused",
+        "body": [
+          "A feasibility review is not a cheaper version of detailed design; it answers a different question with a different level of evidence. An application report should not be treated as confirmation that construction can proceed without coordinated drawings, levels and approvals.",
+          "For Sunshine Coast projects, state the intended use, lot yield, hardstand assumptions, approval stage and decision deadline when requesting a proposal. That lets the engineer identify the controlling uncertainty instead of pricing a generic drainage package."
+        ],
+        "table": {
+          "columns": ["Scope", "Primary question", "Typical output", "What it does not establish"],
+          "rows": [
+            ["Feasibility advice", "Is there a credible drainage pathway for the proposed outcome?", "Constraint review, outlet options, level risks and next investigations", "Final hydraulic performance, approval or construction-ready dimensions"],
+            ["Application support", "What drainage evidence should accompany this proposal?", "Concept strategy, relevant calculations, plans and responses coordinated with the application", "A substitute for detailed design or a guarantee of Council acceptance"],
+            ["Detailed drainage design", "How will the defined proposal be built and operated?", "Coordinated drawings, calculations, levels, structures, treatment and construction information", "Permission to alter third-party or authority assets without their requirements being met"]
+          ]
+        },
+        "links": [
+          { "label": "Sunshine Coast Council Development.i site report", "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/development-i-site-report" },
+          { "label": "Council flooding and stormwater management guidelines", "href": "https://www.sunshinecoast.qld.gov.au/development/development-tools-and-guidelines/infrastructure-guidelines-and-standards/flooding-and-stormwater-management-guidelines" }
+        ]
+      },
+      {
         "heading": "Example: an infill site where the outlet controls the layout",
         "body": [
           "Consider an illustrative two-lot infill proposal in Buderim. The initial sketch places both driveways and building pads on the flatter upper part of the site, while the nearest visible kerb inlet is downslope. The owner assumes a short pipe connection will solve drainage.",
@@ -15719,7 +15738,7 @@ export const blogPosts: BlogPost[] = [
         ]
       }
     ],
-    "updatedDate": "2026-11-08",
+    "updatedDate": "2026-11-16",
     "serviceSlug": "stormwater-drainage-design",
     "cta": {
       "label": "Stormwater and drainage design",
