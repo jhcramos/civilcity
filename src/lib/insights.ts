@@ -15844,6 +15844,28 @@ export const blogPosts: BlogPost[] = [
         ]
       },
       {
+        "heading": "Separate the drainage approval questions",
+        "body": [
+          "Stormwater responsibility is often split across the development proposal, Council infrastructure and the water-and-sewer service authority. A drainage concept may show how runoff is managed on the site, but that does not by itself authorise a connection to public infrastructure, use of private land or alteration of an existing asset.",
+          "For a Sunshine Coast project, identify the decision-maker and evidence for each interface. Council planning and operational-work requirements, the current approval conditions, title instruments, survey levels and any service-authority requirements should be treated as separate checks. This prevents a concept report from being mistaken for construction approval or service connection permission.",
+          "The practical handover is an evidence register: record the proposed outlet, level basis, ownership or easement position, assumptions about capacity, required authority response and the design stage at which each item must be closed. If an item can change the layout, it belongs in the feasibility decision before detailed drawings are commissioned."
+        ],
+        "table": {
+          "columns": ["Interface", "Question to close", "Evidence or next action"],
+          "rows": [
+            ["Planning and Council", "What drainage outcome and assessment material applies to this proposal?", "Current planning controls, Development.i context, mapping and the applicable application or operational-work guidance."],
+            ["Public asset", "Can the proposed discharge interact with the nominated Council asset?", "Surveyed connection levels, asset information and any required Council response or approval."],
+            ["Private land or easement", "Does the route cross land the project does not control?", "Title, registered easement terms, owner consent and a maintainable legal and physical route."],
+            ["Water and sewer services", "Are service corridors or authority requirements affected?", "Service records, concept alignment and confirmation from the relevant authority where needed."],
+            ["Construction and closeout", "What must be built, inspected and evidenced?", "Approved drawings, construction records, as-constructed information and the conditions for acceptance or plan sealing."]
+          ]
+        },
+        "links": [
+          { "label": "Sunshine Coast Council: operational work", "href": "https://www.sunshinecoast.qld.gov.au/development/development-applications/operational-work" },
+          { "label": "Unitywater: developing and subdivisions", "href": "https://www.unitywater.com/building-and-developing/developing/subdivisions" }
+        ]
+      },
+      {
         "heading": "Mistakes that delay approvals",
         "body": [
           "The most common mistake is assuming stormwater can be solved after the planner or architect has locked the concept. If the outlet is too high, the downstream route is unavailable or detention takes too much space, the layout may need to change.",
@@ -15918,7 +15940,7 @@ export const blogPosts: BlogPost[] = [
         ]
       }
     ],
-    "updatedDate": "2026-11-16",
+    "updatedDate": "2026-11-24",
     "serviceSlug": "stormwater-drainage-design",
     "cta": {
       "label": "Stormwater and drainage design",
